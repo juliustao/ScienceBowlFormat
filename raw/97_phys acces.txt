@@ -1,0 +1,4371 @@
+Science Bowl PHYSICS 
+Physics - 1 
+PHYS-91; Multiple Choice: For the hydrogen atom, which series describes electron transitions to 
+the N=1 orbit, the lowest energy electron orbit? Is it the: 
+w) Lyman series 
+x) Balmer series 
+y) Paschen series 
+z) Pfund series 
+ANSWER: W -- LYMAN SERIES 
+PHYS-91; Multiple Choice: Electric current may be expressed in which one of the following 
+units? 
+w) coulombs/volt 
+x) joules/coulomb 
+y) coulombs/second 
+z) ohms/second 
+ANSWER: Y -- COULOMBS/SECOND 
+PHYS-91; Short Answer: In the SI system of measure, what is the unit of capacitance? 
+ANSWER: FARAD 
+PHYS-91; Multiple Choice: A Newton is equal to which of the following? 
+w) kilogram-meter per second 
+x) meter per second squared 
+y) kilogram-meter per second squared 
+z) kilogram per meter-second 
+ANSWER: Y -- KILOGRAM-METER PER SECOND SQUARED 
+PHYS-91; Multiple Choice: For an object moving in uniform circular motion, the direction of the 
+instantaneous acceleration vector is: 
+w) tangent to the path of motion 
+x) equal to zero 
+y) directed radially outward 
+z) directed radially inward 
+ANSWER: Z -- DIRECTED RADIALLY INWARD
+
+Science Bowl PHYSICS 
+Physics - 2 
+PHYS-91; Short Answer: A boy is standing on an elevator which is traveling downward with a 
+constant velocity of 30 meters per second. The boy throws a ball vertically upward with a 
+velocity of 10 meters per second relative to the elevator. What is the velocity of the ball, 
+MAGNITUDE AND DIRECTION, relative to the elevator shaft the instant the boy releases the 
+ball? 
+ANSWER: 20 METERS PER SECOND DOWN 
+PHYS-91; Multiple Choice: Work is equal to which of the following? 
+w) the cross product of force and displacement. 
+x) the product of force times time 
+y) force divided by time 
+z) the dot product of force and displacement 
+ANSWER: Z -- THE DOT PRODUCT OF FORCE AND DISPLACEMENT 
+PHYS-91; Multiple Choice: The work done by a friction force is: 
+w) always positive 
+x) always negative 
+y) always zero 
+z) either positive or negative depending upon the situation. 
+ANSWER: X -- ALWAYS NEGATIVE 
+PHYS-91; Multiple Choice: As defined in physics, work is: 
+w) a scalar quantity 
+x) always a positive quantity 
+y) a vector quantity 
+z) always zero 
+ANSWER: W -- A SCALAR QUANTITY
+
+Science Bowl PHYSICS 
+Physics - 3 
+PHYS-91; Multiple Choice: A pendulum which is suspended from the ceiling of a railroad car is 
+observed to hang at an angle of 10 degrees to the right of vertical. Which of the following 
+answers could explain this phenomena? 
+w) The railroad car is at rest. 
+x) The railroad car is accelerating to the left. 
+y) The railroad car is moving with constant velocity to the right. 
+z) The railroad car is accelerating to the right. 
+ANSWER: X -- THE RAILROAD CAR IS ACCELERATING TO THE LEFT. 
+PHYS-91; Multiple Choice: Two forces have magnitudes of 11 newtons and 5 newtons. The 
+magnitude of their sum could NOT be equal to which of the following values? 
+w) 16 newtons 
+x) 5 newtons 
+y) 9 newtons 
+z) 7 newtons 
+ANSWER: X -- 5 NEWTONS 
+PHYS-91; Short Answer: A ball leaves a girl's hand with an upward velocity of 6 meters per 
+second. What is the maximum height of the ball above the girl's hand? 
+ANSWER: 1.8 METERS 
+PHYS-91; Short Answer: A boy throws a ball vertically upward with a velocity of 6 meters per 
+second. How long does it take the ball to return to the boy's hand? 
+ANSWER: 1.22 SECONDS (accept: 1.2 seconds) 
+PHYS-91; Short Answer: A toy train moves in a circle of 8 meters radius with a speed of 4 
+meters per second. What is the magnitude of the acceleration of the train? 
+ANSWER: 2 METERS PER SECOND SQUARED 
+PHYS-91; Short Answer: A certain machine exerts a force of 200 newtons on a box whose mass 
+is 30 kilograms. The machine moves the box a distance of 20 meters along a horizontal floor. 
+What amount of work does the machine do on the box? 
+ANSWER: 4000 JOULES
+
+Science Bowl PHYSICS 
+Physics - 4 
+PHYS-91; Short Answer: A box is initially at rest on a horizontal, frictionless table. If a force of 
+10 Newtons acts on the box for 3 seconds, what is the momentum of the box at the end of the 3 
+second interval? 
+ANSWER: 30 NEWTON-SECONDS or 30 KILOGRAM-METER PER SECOND 
+PHYS-91; Multiple Choice: A block of metal which weighs 60 newtons in air and 40 newtons 
+under water has a density, in kilograms per meter cubed, of: 
+w) 1000 
+x) 3000 
+y) 5000 
+z) 7000 
+ANSWER: X -- 3000 
+PHYS-91; Short Answer: A 10 kilogram body initially moving with a velocity of 10 meters per 
+second makes a head-on collision with a 15 kilogram body initially at rest. The two objects stick 
+together. What is the velocity of the combined system just after the collision? 
+ANSWER: 4 METERS PER SECOND 
+PHYS-91; Short Answer: A certain spring is known to obey Hooke's Law. If a force of 10 
+newtons stretches the spring 2 meters, how far will a 30 newton force stretch the spring? 
+ANSWER: 6 METERS 
+PHYS-91; Short Answer: A helicopter is ascending vertically with a constant speed of 6 meters 
+per second relative to the ground. At the instant the helicopter is 60 meters above the ground it 
+releases a package. What is the magnitude and direction of the velocity of the package, relative to 
+the ground, the instant the package is released by the helicopter? 
+ANSWER: 6 METERS/SECOND UP
+
+Science Bowl PHYSICS 
+Physics - 5 
+PHYS-91; Multiple Choice: If the distance between two objects, each of mass 'M', is tripled, the 
+force of attraction between the two objects is: 
+w) 1/2 the original force 
+x) 1/3 the original force 
+y) 1/9 the original force 
+z) unchanged 
+ANSWER: Y -- 1/9 THE ORIGINAL FORCE 
+PHYS-91; Short Answer: A 40 kilogram girl climbs a vertical distance of 5 meters in twenty 
+seconds at a constant velocity. How much work has the girl done? 
+ANSWER: 2000 JOULES or 1960 JOULES 
+PHYS-91; Short Answer: A machine performs 8 Joules of work in 2 seconds. How much power 
+is delivered by this machine? 
+ANSWER: 4 WATTS 
+PHYS-91; Multiple Choice: In physics, a radian per second is a unit of: 
+w) angular displacement 
+x) angular velocity 
+y) angular acceleration 
+z) angular momentum. 
+ANSWER: X -- ANGULAR VELOCITY 
+PHYS-91; Multiple Choice: If the resultant force acting on a body of constant mass is zero, the 
+body's momentum is: 
+w) increasing 
+x) decreasing 
+y) always zero 
+z) constant 
+ANSWER: Z -- CONSTANT
+
+Science Bowl PHYSICS 
+Physics - 6 
+PHYS-91; Short Answer: What is the name of the first American physicist to win two Nobel 
+prizes? 
+ANSWER: (JOHN) BARDEEN 
+PHYS-91; Multiple Choice: Which of the following scientists is responsible for the exclusion 
+principle which states that two objects may NOT occupy the same space at the same time? Was 
+it: 
+w) Heisenberg 
+x) Bohr 
+y) Teller 
+z) Pauli 
+ANSWER: Z -- PAULI 
+PHYS-91; Short Answer: Who shared the Nobel Prize in Physics in 1909 with Guglielmo 
+Marconi for his contribution to the development of wireless telegraphy? 
+ANSWER: (CARL FERDINAND) BRAUN 
+PHYS-91; Short Answer: Who first theoretically predicted the existence of the positron, a 
+positively charged electron? He received the Nobel Prize in Physics in 1933. 
+ANSWER: (PAUL ADRIEN MAURICE) DIRAC 
+PHYS-91; Short Answer: Name the female physicist who received the Nobel Prize in 1963 for 
+her discovery concerning the shell structure of the nucleus. 
+ANSWER: (MARIA GOEPPERT) MAYER 
+PHYS-91; Short Answer: The constant potential difference across a 2 ohm resistor is 20 volts. 
+How many watts of power are dissipated by this resistor? 
+ANSWER: 200 WATTS 
+PHYS-91; Short Answer: The potential difference across a 4 ohm resistor is 20 volts. Assuming 
+that all of the energy dissipated by this resistor is in the form of heat, how many joules of heat are 
+radiated in 10 seconds? 
+ANSWER: 1000 JOULES
+
+Science Bowl PHYSICS 
+Physics - 7 
+PHYS-91; Multiple Choice: The force acting between two point charges can be computed using 
+which of the following laws? 
+w) Ohm's Law 
+x) Ampere's Law 
+y) Coulomb's Law 
+z) Newton's Second Law. 
+ANSWER: Y -- COULOMB'S LAW 
+PHYS-91; Short Answer: Five volts are applied across the plates of a parallel plate capacitor. 
+The distance of separation of the plates is .02 meters. What is the magnitude of the electric field 
+inside the capacitor? 
+ANSWER: 250 VOLTS PER METER or 250 NEWTONS PER COULOMB 
+PHYS-91; Short Answer: Used normally, a 150-watt, 120 volt light bulb requires how many 
+amps of current? 
+ANSWER: 1.25 AMPS 
+PHYS-91; Short Answer: If 10 joules of energy are required to move 5 coulombs of charge 
+between two points, the potential difference between the two points is equal to how many volts? 
+ANSWER: 2 VOLTS 
+PHYS-91; Multiple Choice: Induced electric currents can be explained using which of the 
+following laws? 
+w) Gauss's Law 
+x) Faraday's Law 
+y) Ohm's Law 
+z) Ampere's Law 
+ANSWER: X -- FARADAY'S LAW
+
+Science Bowl PHYSICS 
+Physics - 8 
+PHYS-91; Multiple Choice: For a negative point charge, the electric field vectors: 
+w) circle the charge 
+x) point radially in toward the charge 
+y) point radially away from the charge 
+z) cross at infinity 
+ANSWER: X -- POINT RADIALLY IN TOWARD THE CHARGE 
+PHYS-91; Multiple Choice: For an infinite sheet of positive charge, the electric field lines: 
+w) run parallel to the sheet of charge 
+x) are perpendicular to the sheet of charge and point in toward the sheet 
+y) are perpendicular to the sheet of charge and point away from the sheet 
+z) fall off as one over r squared 
+ANSWER: Y -- ARE PERPENDICULAR TO THE SHEET OF CHARGE AND 
+POINT AWAY 
+PHYS-91; Multiple Choice: Five coulombs of charge are placed on a thin-walled conducting 
+shell. Once the charge has come to rest, the electric potential inside the hollow conducting shell is 
+found to be: 
+w) zero 
+x) uniform inside the sphere and equal to the electric potential on the surface of the sphere 
+y) smaller than the electric potential outside the sphere 
+z) varying as one over r squared. 
+ANSWER: X -- UNIFORM INSIDE THE SPHERE AND EQUAL TO THE 
+ELECTRIC OTENT 
+PHYS-91; Short Answer: A two farad and a four farad capacitor are connected in series. What 
+single capacitance is "equivalent" to this combination? 
+ANSWER: 4/3 FARADS
+
+Science Bowl PHYSICS 
+Physics - 9 
+PHYS-91; Multiple Choice: Three capacitors with different capacitances are connected in series. 
+Which of the following statements is TRUE? 
+w) All three of the capacitors have the same potential difference between their plates. 
+x) The magnitude of the charge is the same on all of the capacitor plates. 
+y) The capacitance of the system depends on the voltage applied across the three 
+capacitors. 
+ANSWER: X -- THE MAGNITUDE OF THE CHARGE IS THE SAME ON ALL OF 
+THE CAPACITOR PLATES 
+PHYS-91; Multiple Choice: For a parallel-plate capacitor with plate area "A" and plate 
+separation "d", the capacitance is proportional to which of the following? 
+w) A divided by d squared 
+x) A times d 
+y) A divided by d 
+z) d divided by A 
+ANSWER: Y -- A DIVIDED BY D 
+PHYS-91; Multiple Choice: A constant potential difference is applied across the plates of a 
+parallel-plate capacitor. Neglecting any edge effects, the electric field inside the capacitor is: 
+w) constant 
+x) varying as one over r squared 
+y) decreasing as one moves from the positive to the negative plate z) zero 
+ANSWER: W -- CONSTANT 
+PHYS-91; Short Answer: A 10 farad capacitor is used in a circuit. The voltage difference 
+between the plates of the capacitor is 20 volts. What is the magnitude of the charge on each of 
+the capacitor's plates? 
+ANSWER: 200 COULOMBS 
+PHYS-91; Short Answer: A circuit which employs a DIRECT CURRENT source has a branch 
+which contains a capacitor. After the circuit has reached a steady state, what is the magnitude of 
+the current in the circuit branch which contains the capacitor? 
+ANSWER: THE CURRENT IS ZERO
+
+Science Bowl PHYSICS 
+Physics - 10 
+PHYS-91; Short Answer: A charged particle is moving in a UNIFORM magnetic field. If the 
+direction of motion of the charged particle is parallel to the magnetic field, describe the shape of 
+the charged particle's path. 
+ANSWER: STRAIGHT LINE 
+PHYS-91; Multiple Choice: An infinitely long wire carries a current of three amps. The magnetic 
+field outside the wire: 
+w) points radially away from the wire 
+x) points radially inward 
+y) circles the wire 
+z) is zero. 
+ANSWER: Y -- CIRCLES THE WIRE 
+PHYS-91; Multiple Choice: A copper rod which is 1 centimeter in diameter carries a current of 5 
+amps. The current is distributed uniformly throughout the rod. The magnetic field half way 
+between the axis of the rod and its outside edge is: 
+w) zero. 
+x) pointing radially outward 
+y) pointing radially inward 
+z) circles the axis of the rod 
+ANSWER: Z -- CIRCLES THE AXIS OF THE ROD 
+PHYS-91; Multiple Choice: Iron is what type of magnetic material? Is it: 
+w) diamagnetic 
+x) paramagnetic 
+y) ferromagnetic 
+z) non-magnetic 
+ANSWER: Y -- FERROMAGNETIC 
+PHYS-91; Short Answer: The focal length of a concave mirror is 2 meters. An object is 
+positioned 8 meters in front of the mirror. Where is the image of this object formed? 
+ANSWER: 8/3 METER or 2.66 METERS IN FRONT OF THE MIRROR 
+
+Science Bowl PHYSICS 
+Physics - 11 
+PHYS-91; Short Answer: A converging thin lens has a focal length of 27 centimeters. An object 
+is placed 9 centimeters from the lens. Where is the image of this object formed? 
+ANSWER: -13.5 CENTIMETERS or 13.5 CENTIMETERS ON THE OBJECT SIDE 
+OF THE LENS 
+PHYS-91; Short Answer: In Bohr's theory of the atom, what force was responsible for holding 
+the electrons in their orbit? 
+ANSWER: COULOMB FORCE or THE FORCE OF ATTRACTION BETWEEN 
+THE PROTON (NUCLEUS) AND THE ELECTRON 
+PHYS-91; Short Answer: Davisson and Germer scattered electrons from a crystal of nickel. The 
+scattered electrons formed a strong diffraction pattern. What important conclusion was drawn 
+from this experiment? 
+ANSWER: ELECTRONS ACTED LIKE WAVES 
+PHYS-91; Short Answer: The speed at which a wave propagates down a string is 300 meters per 
+second. If the frequency of this wave is 150 Hertz, what is the wavelength of this wave? 
+ANSWER: 2 METERS 
+PHYS-91; Multiple Choice: A standing wave is formed on a tightly stretched string. The 
+distance between a node and an antinode is: 
+w) 1/8 wavelength 
+x) 1/4 wavelength 
+y) 1/2 wavelength 
+z) 1 wavelength 
+ANSWER: X -- 1/4 WAVELENGTH 
+PHYS-91; Multiple Choice: When a physical property such as charge exists in discrete "packets" 
+rather than in continuous amounts, the property is said to be: 
+w) discontinuous 
+x) abrupt 
+y) quantized 
+z) noncontinuous 
+ANSWER: Y -- QUANTIZED
+
+Science Bowl PHYSICS 
+Physics - 12 
+PHYS-91; Short Answer: Assume a ray of light is incident on a smooth reflecting surface at an 
+angle of incidence of 15 degrees to the normal. What is the angle between the incident ray and the 
+reflected ray? 
+ANSWER: 30 DEGREES 
+PHYS-91; Short Answer: The focal length of a concave spherical mirror is equal to 1 meter. 
+What is the radius of curvature of this mirror? 
+ANSWER: 2 METERS 
+PHYS-91; Short Answer: A virtual image can be formed by one or more of the following single 
+mirrors? Identify them. 
+w) plane mirror 
+x) concave spherical mirror 
+y) convex spherical mirror 
+z) all of the above 
+ANSWER: Z -- ALL OF THE ABOVE (accept: A, B and C) 
+PHYS-91; Short Answer: A quarter of a wavelength is equal to how many degrees of phase? 
+ANSWER: 90 DEGREES 
+PHYS-91; Multiple Choice: An organ pipe which is open at both ends resonates at its 
+fundamental frequency. Neglecting any end effects, what wavelength is formed by this pipe in this 
+mode of vibration if the pipe is 2 meters long? 
+w) 2 meters 
+x) 4 meters 
+y) 6 meters 
+z) 8 meters. 
+ANSWER: X -- 4 METERS
+
+Science Bowl PHYSICS 
+Physics - 13 
+PHYS-91; Multiple Choice: Whose principle or law states that each point on a wavefront may be 
+considered a new wave source? Is it: 
+w) Snell's Law 
+x) Huygen's Principle 
+y) Young's Law 
+z) Hertz's Law. 
+ANSWER: X -- HUYGEN'S PRINCIPLE 
+PHYS-91; Short Answer: The frequency of a wave is 50 Hertz and its wavelength is 25 meters. 
+What is the velocity of this wave? 
+ANSWER: 1250 METERS/SECOND 
+PHYS-91; Multiple Choice: The wave nature of light is demonstrated by which of the following? 
+w) the photoelectric effect 
+x) color 
+y) the speed of light 
+z) diffraction 
+ANSWER: Z -- DIFFRACTION 
+PHYS-91; Multiple Choice: The collision between a photon and a free electron was first 
+explained by which of the following scientists? 
+w) Einstein 
+x) Heisenberg 
+y) Compton 
+z) Bohr 
+ANSWER: Y -- COMPTON 
+PHYS-91; Short Answer: Besides solid, liquid, and gas, what is the fourth form of matter? 
+ANSWER: PLASMA
+
+Science Bowl PHYSICS 
+Physics - 14 
+PHYS-91; Short Answer: What is 25,000 miles per hour on earth, and 5,300 miles per hour on 
+the Moon? 
+ANSWER: ESCAPE VELOCITY 
+PHYS-91; Short Answer: In Einstein's universe, what is the fourth dimension? 
+ANSWER: TIME 
+PHYS-91; Multiple Choice: The Tesla and the Gauss are units of measure of: 
+w) conductance 
+x) magnetic field strength 
+y) magnetic flux 
+z) electrical current 
+ANSWER: X -- MAGNETIC FIELD STRENGTH 
+PHYS-91; Short Answer: Shockley, Brattain and Bardeen won a Nobel prize for what small 
+invention? 
+ANSWER: TRANSISTOR 
+PHYS-91; Short Answer: What mechanical and electronic device has a name derived from a 
+Czechoslovakian word meaning "work; compulsory service"? 
+ANSWER: ROBOT 
+PHYS-91; Short Answer: What is the name of the temperature and pressure conditions at which 
+water can be in the solid, liquid and gas phases simultaneously? 
+ANSWER: TRIPLE POINT 
+PHYS-91; Multiple Choice: Which of the following colors of visible light has the longest 
+wavelength? Is it: 
+w) violet 
+x) green 
+y) yellow 
+z) red 
+ANSWER: Z -- RED
+
+Science Bowl PHYSICS 
+Physics - 15 
+PHYS-91; Multiple Choice: A 10 kilogram mass rests on a horizontal frictionless surface. A 
+horizontal force of 5 Newtons is applied to the mass. After the force has been applied for 1 
+second, the velocity of the mass is: 
+w) 0 meters per second 
+x) 0.5 meters per second 
+y) 5 meters per second 
+z) 50 meters per second 
+ANSWER: X -- 0.5 METERS PER SECOND 
+PHYS-91; Multiple Choice: A worker lifts a 10 kilogram block a vertical height of 2 meters. The 
+work he does on the block is: 
+w) 5 Joules 
+x) 20 Joules 
+y) 49 Joules 
+z) 200 Joules 
+ANSWER: Z -- 200 JOULES 
+PHYS-91; Multiple Choice: An impulse of 10 kilogram-meter per second acting on an object 
+whose mass is 5 kilogram will cause a change in the objects velocity of: 
+w) 0.5 meters per second 
+x) 2 meters per second 
+y) 10 meters per second 
+z) 50 meters per second 
+ANSWER: X -- 2 METERS PER SECOND 
+PHYS-91; Multiple Choice: The time needed for a net force of 10 newtons to change the velocity 
+of a 5 kilograms mass by 3 meters/second is: 
+w) 1.5 seconds 
+x) 6 seconds 
+y) 16.7 seconds 
+z) 150 seconds 
+ANSWER: W -- 1.5 SECONDS
+
+Science Bowl PHYSICS 
+Physics - 16 
+PHYS-91; Multiple Choice: The value of G, the universal gravitational constant, was measured 
+experimentally by: 
+w) Newton 
+x) Cavendish 
+y) Copernicus 
+z) Kepler 
+ANSWER: X -- CAVENDISH 
+PHYS-91; Multiple Choice: Two steel balls are at a distance S from one another. As the mass of 
+ONE of the balls is doubled, the gravitational force of attraction between them is: 
+w) quartered 
+x) halved 
+y) doubled 
+z) quadrupled 
+ANSWER: Y -- DOUBLED 
+PHYS-91; Multiple Choice: If the distance between the earth and moon were halved, the force of 
+the attraction between them would be: 
+w) one fourth as great 
+x) one half as great 
+y) twice as great 
+z) four times as great 
+ANSWER: Z -- FOUR TIMES AS GREAT 
+PHYS-91; Multiple Choice: As a 10 kilogram mass on the end of a spring passes through its 
+equilibrium position, the kinetic energy of the mass is 20 joules. The speed of the mass is: 
+w) 2.0 meters per second 
+x) 4.0 meters per second 
+y) 5.0 meters per second 
+z) 6.3 meters per second 
+ANSWER: W -- 2.0 METERS PER SECOND
+
+Science Bowl PHYSICS 
+Physics - 17 
+PHYS-91; Multiple Choice: As a longitudinal wave moves through a medium, the particles of the 
+medium: 
+w) vibrate in a path parallel to the path of the wave 
+x) vibrate in a path perpendicular to the path of the wave 
+y) follow the wave along its entire path 
+z) do not move 
+ANSWER: W -- VIBRATE IN A PATH PARALLEL TO THE PATH OF THE 
+WAVE 
+PHYS-91; Multiple Choice: As a pendulum is raised to higher altitudes, its period: 
+w) increases 
+x) decreases 
+y) remains the same 
+z) decreases, then remains the same 
+ANSWER: W -- INCREASES 
+PHYS-91; Multiple Choice: Two vibrating particles that are "out of phase" differ in the phase of 
+their vibration by: 
+w) 1/4 cycle 
+x) 1/2 cycle 
+y) 3/4 cycle 
+z) 1 cycle 
+ANSWER: X -- 1/2 CYCLE 
+PHYS-91; Multiple Choice: The SI unit of pressure is the: 
+w) Torr 
+x) dyne per centimeter squared 
+y) atmosphere 
+z) pascal 
+ANSWER: Z -- PASCAL
+
+Science Bowl PHYSICS 
+Physics - 18 
+PHYS-91; Multiple Choice: An electroscope charged WITHOUT contacting a charged body is 
+charged by: 
+w) induction 
+x) conduction 
+y) convection 
+z) insulation 
+ANSWER: W -- INDUCTION 
+PHYS-91; Multiple Choice: The potential drop between the terminals of a battery is equal to the 
+battery's EMF when: 
+w) no current is drawn from the battery 
+x) a very large current is drawn from the battery 
+y) the internal resistance of the battery is very large 
+z) the resistance in the external circuit is small 
+ANSWER: W -- NO CURRENT IS DRAWN FROM THE BATTERY 
+PHYS-91; Multiple Choice: To convert a galvanometer to a voltmeter, you should add a: 
+w) high resistance in series 
+x) high resistance in parallel 
+y) low resistance in series 
+z) low resistance in parallel 
+ANSWER: W -- HIGH RESISTANCE IN SERIES 
+PHYS-91; Multiple Choice: The greatest induced EMF will occur in a straight wire moving at 
+constant speed through a uniform magnetic field when the angle between the direction of the 
+wire's motion and the direction of the magnetic field is 
+w) 0 degrees 
+x) 30 degrees 
+y) 60 degrees 
+z) 90 degrees 
+ANSWER: Z -- 90 DEGREES
+
+Science Bowl PHYSICS 
+Physics - 19 
+PHYS-91; Multiple Choice: A 10 volt battery connected to a capacitor delivers a charge of 0.5 
+coulombs. The capacitance of the capacitor is: 
+w) 2 x 10-2 farads 
+x) 5 x 10-2 farads 
+y) 2 farads 
+z) 5 farads 
+ANSWER: X -- 5 x 10-2 FARADS 
+PHYS-91; Multiple Choice: Two light rays will interfere constructively with maximum amplitude 
+if the path difference between them is: 
+w) one wavelength 
+x) one-half wavelength 
+y) one-quarter wavelength 
+z) one-eighth wavelength 
+ANSWER: W -- ONE WAVELENGTH 
+PHYS-91; Multiple Choice: Light is normally incident on a thin soap film and is reflected. If the 
+wavelength of this light is "L" and the index of refraction of the soap film is "N", complete 
+destructive interference will occur for a film thickness of: 
+w) L / 8N 
+x) L / 4N 
+y) L / 2N 
+z) 3L / 4N 
+ANSWER: Y -- L / 2N 
+PHYS-91; Multiple Choice: The Michelson interferometer was designed to study the nature of: 
+w) water waves 
+x) sound waves 
+y) an "ether" 
+z) sunlight 
+ANSWER: Y -- AN "ETHER"
+
+Science Bowl PHYSICS 
+Physics - 20 
+PHYS-91; Multiple Choice: The Millikan experiment showed that electric charge was: 
+w) negative 
+x) quantized 
+y) positive 
+z) unmeasurable 
+ANSWER: X -- QUANTIZED 
+PHYS-91; Multiple Choice: When a metal becomes a superconductor, there is a tremendous 
+decrease in its: 
+w) total volume 
+x) electrical resistance 
+y) length 
+z) density 
+ANSWER: X -- ELECTRICAL RESISTANCE 
+PHYS-91; Multiple Choice: An x-ray photon collides with a free electron, and the photon is 
+scattered. During this collision there is conservation of: 
+w) momentum but not energy 
+x) neither momentum nor energy 
+y) energy but not momentum 
+z) both momentum and energy 
+ANSWER: Z -- BOTH MOMENTUM AND ENERGY 
+PHYS-91; Multiple Choice: In the sun, helium is produced from hydrogen by: 
+w) radioactive decay 
+x) disintegration 
+y) fission 
+z) fusion 
+ANSWER: Z -- FUSION
+
+Science Bowl PHYSICS 
+Physics - 21 
+PHYS-91; Multiple Choice: The half-life of an isotope of an element is 5 days. The mass of a 10
+gram sample of this isotope remaining after 20 days is: 
+w) 0.312 grams 
+x) 0.625 grams 
+y) 1.25 grams 
+z) 2.50 grams 
+ANSWER: X -- 0.625 GRAMS 
+PHYS-91; Multiple Choice: The idea that electrons revolved in orbits around the nucleus of an 
+atom without radiating energy away from the atom was postulated by: 
+w) Thompson 
+x) Bohr 
+y) Rutherford 
+z) Einstein 
+ANSWER: X -- BOHR 
+PHYS-91; Multiple Choice: Alpha particles are nuclei of: 
+w) hydrogen 
+x) helium 
+y) oxygen 
+z) nitrogen 
+ANSWER: X -- HELIUM 
+PHYS-91; Multiple Choice: A ball falling vertically from rest for 3 seconds travels very nearly: 
+w) 14.7 meters 
+x) 29.4 meters 
+y) 44.1 meters 
+z) 88.2 meters 
+ANSWER: Y -- 44.1 METERS
+
+Science Bowl PHYSICS 
+Physics - 22 
+PHYS-91; Multiple Choice: A car is moving along a straight horizontal road at a speed of 20
+meters per second. The brakes are applied and a constant force of 5000 Newtons decelerates the 
+car to a stop in 10 seconds. The mass of the car is: 
+w) 1250 kilograms 
+x) 2500 kilograms 
+y) 5000 kilograms 
+z) 10,000 kilograms 
+ANSWER: X -- 2500 KILOGRAMS 
+PHYS-91; Multiple Choice: A girl throws a 0.1 kilogram ball at a wall. The ball hits the wall 
+perpendicularly with a velocity of 5 meters per second and then bounces straight back with a 
+velocity of 4 meters per second. The change in the momentum of the ball is: 
+w) 0.1 kilogram-meters per second 
+x) 0.4 kilogram-meters per second 
+y) 0.5 kilogram-meters per second 
+z) 0.9 kilogram-meters per second 
+ANSWER: Z -- 0.9 KILOGRAM-METERS PER SECOND 
+PHYS-91; Multiple Choice: A satellite of mass "M" is in orbit around the earth. If a second 
+satellite of mass "2M" is to be placed in the same orbit, the second satellite must have a velocity 
+which is: 
+w) half the velocity of the first satellite 
+x) the same as the velocity of the first satellite 
+y) twice the velocity of the first satellite 
+z) four times the velocity of the first satellite 
+ANSWER: X -- THE SAME AS THE VELOCITY OF THE FIRST SATELLITE 
+PHYS-91; Multiple Choice: Which of the answers listed below best completes the statement: 
+The rate at which any part of a wave travels from one place to another determines the wave's: 
+w) propagation velocity 
+x) period 
+y) amplitude 
+z) frequency 
+ANSWER: W -- PROPAGATION VELOCITY
+
+Science Bowl PHYSICS 
+Physics - 23 
+PHYS-91; Multiple Choice: A spring with a force constant of 100 Newtons per meter is loaded
+with a mass of 1.0 kilogram. The period of vibration of this system is: 
+w) .03 seconds 
+x) .06 seconds 
+y) .31 seconds 
+z) .63 seconds 
+ANSWER: Z -- .63 SECONDS 
+PHYS-91; Multiple Choice: The first instrument used for measuring temperature was the gas 
+thermoscope invented by: 
+w) Celsius 
+x) Galileo 
+y) Centigrade 
+z) Fahrenheit 
+ANSWER: X -- GALILEO 
+PHYS-91; Multiple Choice: The first law of thermodynamics is concerned with the conservation 
+of 
+w) energy 
+x) momentum 
+y) charge 
+z) matter 
+ANSWER: W -- ENERGY 
+PHYS-91; Multiple Choice: Which of the following best completes the statement: The calorie is 
+the amount of heat needed to raise: 
+w) 1 gram of water 1 degree Celsius 
+x) 1 gram of water 1 degree Rankin 
+y) 1 kilogram of water 1 degree Celsius 
+z) 1 kilogram of water 1 degree Kelvin 
+ANSWER: W -- 1 GRAM OF WATER 1 DEGREE CELSIUS
+
+Science Bowl PHYSICS 
+Physics - 24 
+PHYS-91; Multiple Choice: Units commonly used for entropy are:
+w) kilograms per degree Kelvin 
+x) Joules per degree Kelvin 
+y) Newtons per Coulomb 
+z) ergs 
+ANSWER: X -- JOULES PER DEGREE KELVIN 
+PHYS-91; Multiple Choice: The amount of heat required to change a boiling liquid to a gas at 
+the same temperature depends on one of the following properties of the liquid. Does it depend on 
+the liquid's: 
+w) heat of fusion 
+x) heat of vaporization 
+y) temperature 
+z) density 
+ANSWER: X -- HEAT OF VAPORIZATION 
+PHYS-91; Multiple Choice: According to the second law of thermodynamics, energy tends to 
+become more and more unavailable for conversion from: 
+w) thermal to kinetic energy 
+x) kinetic to thermal energy 
+y) thermal to mechanical energy 
+z) mechanical to thermal energy 
+ANSWER: Y -- THERMAL TO MECHANICAL ENERGY 
+PHYS-91; Multiple Choice: When a charge moves through an electric circuit in the direction of 
+an electric force it does one of the following four things. Does it: 
+w) lose potential energy and gain kinetic energy 
+x) gain potential energy and lose kinetic energy 
+y) lose both potential and kinetic energy 
+z) gain both potential and kinetic energy 
+ANSWER: W -- LOSE POTENTIAL ENERGY AND GAIN KINETIC ENERGY 
+
+Science Bowl PHYSICS 
+Physics - 25 
+PHYS-91; Multiple Choice: Which one of the following is the name of a device used to measure
+voltage without drawing ANY current from the circuit being measured? Is it: 
+w) a wattmeter 
+x) a galvanometer 
+y) an ammeter 
+z) a potentiometer 
+ANSWER: Z -- A POTENTIOMETER 
+PHYS-91; Multiple Choice: Lenz's law is an example of the law of conservation of one of the 
+following. Is it conservation of: 
+w) mass 
+x) charge 
+y) momentum 
+z) energy 
+ANSWER: Z -- ENERGY 
+PHYS-91; Multiple Choice: After a projectile is fired horizontally near the earth's surface, the 
+horizontal component of its velocity, neglecting any air resistance: 
+w) increases steadily 
+x) decreases steadily 
+y) first decreases, then increases 
+z) remains constant 
+ANSWER: Z -- REMAINS CONSTANT 
+PHYS-91; Short Answer: Two bodies are moving in circular paths of equal radii. If the speed of 
+the first body is twice that of the second, the centripetal acceleration of the first body is how many 
+times greater than that of the second body? 
+ANSWER: 4
+
+Science Bowl PHYSICS 
+Physics - 26 
+PHYS-91; Multiple Choice: Two bodies of equal mass are moving in circular paths at equal speed.
+The first body moves in a circle whose radius is twice as great as that of the second. The ratio of 
+the centripetal or radial acceleration of the first body to that of the second is: 
+w) 1 to 4 
+x) 1 to 3 
+y) 1 to 2 
+z) 1 to 1 
+ANSWER: Y -- 1 TO 2 
+PHYS-91; Multiple Choice: A force applied to a rocket gives it an upward acceleration equal to 
+2 times the acceleration of gravity. The magnitude of the force is equal to: 
+w) the weight of the rocket 
+x) twice the weight of the rocket 
+y) three times the weight of the rocket 
+z) four times the weight of the rocket 
+ANSWER: Y -- THREE TIMES THE WEIGHT OF THE ROCKET 
+PHYS-91; Multiple Choice: A satellite is observed to move in a circle about the earth at a 
+constant speed. This means that the force acting upon it is: 
+w) zero 
+x) parallel to the direction of the satellite's instantaneous velocity 
+y) perpendicular to the direction of the satellite's instantaneous velocity 
+z) none of the above 
+ANSWER: Y -- PERPENDICULAR TO THE INSTANTANEOUS DIRECTION OF 
+THE SATTELITE�S VELOCITY 
+PHYS-91; Multiple Choice: When a person stands on a scale in an elevator at rest, the scale 
+reads 800 newtons. When the elevator is allowed to fall freely with acceleration of gravity, the 
+scale reads one of the following. Does the scale read: 
+w) 1600 newtons 
+x) 800 newtons 
+y) 400 newtons 
+z) 0 newtons 
+ANSWER: Z -- 0 NEWTONS
+
+Science Bowl PHYSICS 
+Physics - 27 
+PHYS-91; Multiple Choice: A 10,000-watt motor operates an elevator weighing 5000 newtons. 
+Assuming no frictional losses, how high is the elevator raised in 10 seconds. Is it raised: 
+w) 2 meters 
+x) 20 meters 
+y) 50 meters 
+z) 100 meters 
+ANSWER: X -- 20 METERS 
+PHYS-91; Multiple Choice: A machine's output is 4000 joules and its frictional losses are 1000 
+joules. Which of the following is its efficiency? Is it: 
+w) 25% 
+x) 30% 
+y) 75% 
+z) 80% 
+ANSWER: Z -- 80% 
+PHYS-91; Multiple Choice: A machine having an efficiency of 50% does 500 joules of work. 
+Which of the following is the work input? Is it: 
+w) 500 joules 
+x) 250 joules 
+y) 1000 joules 
+z) 2500 joules 
+ANSWER: Y -- 1000 JOULES 
+PHYS-91; Multiple Choice: The relationship between kinetic energy and the potential energy of a 
+swinging pendulum bob is one of the following. Is it: 
+w) kinetic energy is greater than potential energy 
+x) kinetic energy is less than potential energy 
+y) kinetic energy is equal to potential energy 
+z) kinetic energy plus potential energy equals a constant 
+ANSWER: Z -- KINETIC ENERGY PLUS POTENTIAL ENERGY EQUALS A 
+CONSTANT 
+
+Science Bowl PHYSICS 
+Physics - 28 
+PHYS-91; Multiple Choice: A 10 kilogram ball falls from a height of 5 meters and rebounds from 
+the floor to a height of 3 meters. The energy lost by the ball is: 
+w) 20 joules 
+x) 98 joules 
+y) 196 joules 
+z) 294 joules 
+ANSWER: Y -- 196 JOULES 
+PHYS-91; Short Answer: What is the Celsius temperature corresponding to 100 degrees Kelvin? 
+ANSWER: -173 DEGREES CELSIUS 
+PHYS-91; Multiple Choice: A rise in temperature of 20 Kelvin degrees is equal to a rise of: 
+w) 20 degrees Celsius 
+x) 36 degrees Celsius 
+y) 68 degrees Celsius 
+z) 293 degrees Celsius 
+ANSWER: W -- 20 DEGREES CELSIUS 
+PHYS-91; Multiple Choice: A kilocalorie is equal to one of the following. Is it equal to: 
+w) 4.2 Joules 
+x) 1000 Joules 
+y) 4200 Joules 
+z) 10,000 Joules 
+ANSWER: Y -- 4200 JOULES 
+PHYS-91; Multiple Choice: An increase in the motion of the molecules of a gas confined in a 
+steel tank will be observed in one of the following ways. Will it be observed as an increase in: 
+w) the temperature of the gas only 
+x) the pressure of the gas only 
+y) both the temperature and pressure of the gas 
+z) the temperature of the gas and a decrease in its pressure 
+ANSWER: Y -- BOTH THE TEMPERATURE AND PRESSURE OF THE GAS 
+
+Science Bowl PHYSICS 
+Physics - 29 
+PHYS-91; Multiple Choice: According to the kinetic theory, the Kelvin temperature of an ideal 
+gas is proportional to which one of the following. Is the temperature proportional to the gas's 
+average molecular: 
+w) velocity 
+x) momentum 
+y) kinetic energy 
+z) potential energy 
+ANSWER: Y -- KINETIC ENERGY 
+PHYS-91; Multiple Choice: Under which of the following conditions does the behavior of a real 
+gas resemble that of an ideal gas? Is it: 
+w) under all conditions of temperature and pressure 
+x) only at very high pressure 
+y) only when the gas is near condensation 
+z) only at low densities when the molecules are relatively far apart 
+ANSWER: Z -- ONLY AT LOW DENSITIES WHEN THE MOLECULES ARE 
+RELATIVELY FAR APART 
+PHYS-91; Multiple Choice: Two waves of equal wavelength will interfere destructively most 
+effectively under one of the following conditions. Will the interference be most effective when the 
+waves are: 
+w) in phase and have equal amplitudes 
+x) in phase and have unequal amplitudes 
+y) 180 degrees out of phase and have equal amplitudes 
+z) 180 degress out of phase and have unequal amplitudes 
+ANSWER: Y -- 180 DEGREES OUT OF PHASE AND HAVE EQUAL 
+AMPLITUDES 
+PHYS-91; Multiple Choice: As the temperature of the air increases from 0 degrees C to 20 
+degrees C, the wavelength of a sound made by a tuning fork of fixed frequency does which of the 
+following? Does the wavelength 
+w) increase 
+x) decrease 
+y) remain the same 
+z) increase up to a maximum, then remain constant 
+ANSWER: W -- INCREASE
+
+Science Bowl PHYSICS 
+Physics - 30 
+PHYS-91; Multiple Choice: The ENERGY associated with a photon depends upon the photon's: 
+w) velocity 
+x) frequency 
+y) amplitude 
+z) the brightness of the source from which it comes 
+ANSWER: X -- FREQUENCY 
+PHYS-91; Multiple Choice: When a beam of ordinary white light is passed through a Polaroid 
+plate filter, the intensity of the beam that emerges is: 
+w) equal to that of the incident beam 
+x) about 0.9 that of the incident beam 
+y) about one-half that of the incident beam 
+z) practically zero 
+ANSWER: Y -- ABOUT ONE-HALF THAT OF THE INCIDENT BEAM 
+PHYS-91; Short Answer: Arrange the following group of colored lights in the order of 
+INCREASING wavelength: 
+RED, ORANGE, GREEN, BLUE 
+ANSWER: BLUE, GREEN, ORANGE, RED 
+PHYS-91; Multiple Choice: A thin double-concave lens produces images which are: 
+w) larger than the object 
+x) smaller than the object 
+y) the same size as the object 
+z) one cannot tell from this information 
+ANSWER: X -- SMALLER THAN THE OBJECT 
+PHYS-91; Multiple Choice: When white light is passed through a double slit which of the 
+following statements is TRUE: 
+w) Each of the bright bands is dispersed into a spectrum 
+x) Only the central band is dispersed into a spectrum 
+y) All the bright bands except the central one are dispersed into a spectrum 
+z) Each band has a single color different from its neighboring bands 
+ANSWER: Y -- ALL THE BRIGHT BANDS EXCEPT THE CENTRAL ONE ARE 
+DISPERSED INTO THE SPECTRUM
+
+Science Bowl PHYSICS 
+Physics - 31 
+PHYS-91; Multiple Choice: A beam of white light is passed through a diffraction grating and the 
+resulting spectrum is allowed to fall on a screen. Which one of the following is the color of light 
+that undergoes the greatest deviation from its original direction. Is it: 
+w) red 
+x) yellow 
+y) blue 
+z) violet 
+ANSWER: W -- RED 
+PHYS-91; Multiple Choice: Which of the following are the parts of a DC generator that convert 
+the AC in the armature to DC in the external circuit. Are these parts the: 
+w) field poles 
+x) slip rings and the brushes 
+y) commutator and the brushes 
+z) armature and the core 
+ANSWER: Y -- COMMUTATOR AND THE BRUSHES 
+PHYS-91; Multiple Choice: A P-type semiconductor is doped to produce one of the following. 
+Will it produce: 
+w) both holes and electrons 
+x) positive electrons 
+y) negative electrons 
+z) holes 
+ANSWER: Z -- HOLES 
+PHYS-91; Multiple Choice: When an atomic nucleus emits a beta particle, one of its neutrons 
+disintegrates into one of the following set of particles. Does it disintegrate into: 
+w) a positron and an electron 
+x) a proton, an electron, and an antineutrino 
+y) a proton, an electron, and a positron 
+z) a neutrino and an antineutrino 
+ANSWER: X -- A PROTON, AN ELECTRON AND AN ANTINEUTRINO 
+
+Science Bowl PHYSICS 
+Physics - 32 
+PHYS-91; Multiple Choice: One of the following is a device that detects charged particles but 
+does NOT show their tracks. Is this device the: 
+w) spark chamber 
+x) photographic plate 
+y) scintillation counter 
+z) bubble chamber 
+ANSWER: Y -- SCINTILLATION COUNTER 
+PHYS-91; Multiple Choice: The photomultiplier tube in the scintillation counter multiplies one of 
+the following. Does it multiply: 
+w) scintillations 
+x) electrons 
+y) ions 
+z) photons 
+ANSWER: X -- ELECTRONS 
+PHYS-91; Multiple Choice: The emission of a positron from a radioactive atom is generally 
+accompanied by the emission of one of the following. Is it accompanied by the emission of: 
+w) a meson 
+x) a baryon 
+y) an antineutrino 
+z) a neutrino 
+ANSWER: Z -- A NEUTRINO 
+PHYS-91; Short Answer: What term refers to the heat needed to change a unit mass of a 
+substance at its melting temperature from a solid into a liquid? 
+ANSWER: HEAT OF FUSION or LATENT HEAT OF FUSION or ENTHALPY 
+OF FUSION
+
+Science Bowl PHYSICS 
+Physics - 33 
+PHYS-91; Multiple Choice: The gravitational constant for the universe was measured by which 
+of the following? 
+w) Kepler 
+x) Einstein 
+y) Newton 
+z) Cavendish 
+ANSWER: Z -- CAVENDISH 
+PHYS-91; Multiple Choice: If you start with 24 grams of a radioactive element with a half-life of 
+one month, how many grams of the radioactive element will be left after 2 months? 
+w) 1.5 grams 
+x) 3 grams 
+y) 6 grams 
+z) 12 grams 
+ANSWER: Y -- 6 GRAMS 
+PHYS-91; Multiple Choice: How many colors of quarks are believed to exist? Is it: 
+w) 1 
+x) 3 
+y) 5 
+z) 7 
+ANSWER: X -- 3 
+PHYS-91; Short Answer: A train is traveling 20 kilometers per hour. It is .5 kilometers behind 
+you. You want to beat the train to a crossing that is .5 kilometers away. How fast must you run? 
+ANSWER: 10 KILOMETERS PER HOUR 
+PHYS-91; Multiple Choice: A child weighing 50 Newtons is on a swing. He goes from a 
+minimum height of 0.2 meters to a maximum height of 1.5 meters. His maximum speed is closest 
+to: 
+w) 3 meters per second 
+x) 5 meters per second 
+y) 7 meters per second 
+z) 9 meters per second 
+ANSWER: X -- 5 METERS PER SECOND
+
+Science Bowl PHYSICS 
+Physics - 34 
+PHYS-91; Multiple Choice: A train locomotive whose mass is 1 x 106 kilograms is traveling 
+EAST at a speed of 100 kilometers per hour. A NORTHERLY wind is applying a force of 100 
+Newtons on the locomotive. How much work is the wind doing on the locomotive for each 10 
+meters it travels? 
+w) 0 joules 
+x) 1,000 joules 
+y) 10,000 joules 
+z) 100,000 joules 
+ANSWER: W -- 0 JOULES 
+PHYS-91; Multiple Choice: The density of seawater is greater than that of fresh water. A boat 
+will float: 
+w) Higher in fresh water than in seawater 
+x) Lower in fresh water than in seawater 
+y) At the same level in both 
+z) Any of the above, depending upon its shape 
+ANSWER: X -- LOWER IN FRESH WATER THAN IN SEAWATER 
+PHYS-91; Multiple Choice: How many times more intense is an 80 decibel sound than a 40 
+decibel sound? 
+w) 2 
+x) 40 
+y) 1000 
+z) 10,000 
+ANSWER: Z -- 10,000 
+PHYS-91; Short Answer: The coefficient of linear expansion of steel is 1.2 x 10-5/ oC. (read: 1 
+point 2 times 10 to the minus 5 per degree Celsius). What is the increase in length of a steel girder 
+that is 20 meters long at 10o C when its temperature is raised to 20o C? 
+ANSWER: 2.4 MILLIMETERS (accept 0.0024 meters or 2.4 x 10-3 meters) 
+
+Science Bowl PHYSICS 
+Physics - 35 
+PHYS-91; Multiple Choice: What law describes the force between two stationary electrically 
+charged objects? 
+w) Ampere's law 
+x) Coulomb's law 
+y) Kirchoff's Rules (pron: kir-koff rules) 
+z) Ohm's law 
+ANSWER: X -- COULOMB'S LAW 
+PHYS-91; Multiple Choice: A circuit has a resistance of 200 ohms. The resistance of the circuit 
+can be reduced to 120 ohms by adding which of the following to the circuit. 
+w) 80 ohm resistor in series 
+x) 150 ohm resistor in parallel 
+y) 240 ohm resistor in series 
+z) 300 ohm resistor in parallel 
+ANSWER: Z -- 300 OHM RESISTOR IN PARALLEL 
+PHYS-91; Multiple Choice: A spring with a force constant k is cut into thirds. The force 
+constant of each of the new springs is 
+w) k 
+x) 3k 
+y) (1/3)k (read: one third k) 
+z) 9k 
+ANSWER: X -- 3k 
+PHYS-91; Multiple Choice: When a 2 kilogram mass is suspended from a spring, the spring 
+stretches 4 cm. The force constant of the spring is approximately:+ 
+w) .5 newtons per meter 
+x) 5 newtons per meter 
+y) 50 newtons per meter 
+z) 500 newtons per meter 
+ANSWER: Z -- 500 NEWTONS PER METER 
+PHYS-91; Short Answer: If a three farad capacitor and a six farad capacitor are connected in 
+parallel, what is their equivalent capacitance? 
+ANSWER: 9 FARADS
+
+Science Bowl PHYSICS 
+Physics - 36 
+PHYS-91; Multiple Choice: Which of the following sets of 3 forces CANNOT have a vector sum 
+of zero?
+w) 10, 10 and 10 Newtons 
+x) 10, 10 and 20 Newtons 
+y) 10, 20 and 20 Newtons 
+z) 10, 20 and 40 Newtons 
+ANSWER: Z -- 10, 20 AND 40 NEWTONS 
+PHYS-91; Multiple Choice: A small cluster of stars appear, after many decades of observation, 
+to be converging toward a common point in the sky. Does the light from these stars show a: 
+w) red Doppler shift 
+x) blue Doppler shift 
+y) no Doppler shift 
+ANSWER: W -- RED DOPPLER SHIFT 
+PHYS-91; Short Answer: What name is given to those elementary particles for which there is a 
+symmetry under intrapair production. Included are photons, pi mesons, and nuclei with an even 
+number of particles. 
+ANSWER: BOSONS 
+PHYS-91; Multiple Choice: When a fast charged particle traverses a dielectric medium at a 
+velocity exceeding the velocity of light in that medium, radiation is emitted. This radiation is 
+known as: 
+w) point radiation 
+x) Cerenkov radiation 
+y) Synchrotron radiation 
+z) Bremsstrahlung 
+ANSWER: X -- CERENKOV RADIATION
+
+Science Bowl PHYSICS 
+Physics - 37 
+PHYS-91; Multiple Choice: Which of the following statements dealing with simple harmonic 
+motion of a mass-spring system is TRUE? 
+w) The acceleration is largest when the oscillating mass is instantaneously at rest. 
+x) The larger the spring force constant the larger the period. 
+y) The period of the motion depends linearly on the amplitude of the motion. 
+z) The acceleration is larger when the oscillating mass has its greatest velocity. 
+ANSWER: W -- THE ACCELERATION IS LARGEST WHEN THE OSCILLATING 
+MASS IS INSTANTANEOUSLY AT REST 
+PHYS-91; Multiple Choice: An ice skater is rotating with her arms extended. When she pulls in 
+her arms her rate of rotation increases. Which of the following statements dealing with the 
+process is TRUE? 
+w) Her moment of inertia is increased. 
+x) Kinetic energy is conserved. 
+y) The skater does work when pulling in her arms. 
+z) Angular momentum is increased. 
+ANSWER: Y -- THE SKATER DOES WORK WHEN PULLING IN HER ARMS 
+PHYS-91; Multiple Choice: If viewed on an oscilloscope, the loudness of a sound wave would be 
+associated with the wave's: 
+w) frequency 
+x) wavelength 
+y) velocity 
+z) amplitude 
+ANSWER: Z -- AMPLITUDE 
+PHYS-91; Multiple Choice: If a sled has a constant acceleration of 2 meters per second squared 
+and starts from rest, the distance in meters that it will have covered after 5 seconds is: 
+w) 10 meters 
+x) 20 meters 
+y) 25 meters 
+z) 50 meters 
+ANSWER: Y -- 25 METERS
+
+Science Bowl PHYSICS 
+Physics - 38 
+PHYS-91; Multiple Choice: The neutrons in an atom: 
+w) are part of the nuclear charge 
+x) rotate about the nucleus in elliptical orbits 
+y) vary in number with different isotopes 
+z) are always equal in number to the total number of protons 
+ANSWER: Y -- VARY IN NUMBER WITH DIFFERENT ISOTOPES 
+PHYS-91; Multiple Choice: Which of the following phenomena suggest that light may be a 
+transverse wave? 
+w) reflection 
+x) polarization 
+y) photoelectric effect 
+z) diffraction 
+ANSWER: X -- POLARIZATION 
+PHYS-91; Multiple Choice: In simple harmonic motion, the acceleration is: 
+w) constant 
+x) proportional to the distance from the central position 
+y) greatest when the velocity is greatest 
+z) none of the above 
+ANSWER: X -- PROPORTIONAL TO THE DISTANCE FROM THE CENTRAL 
+POSITION 
+PHYS-91; Multiple Choice: When a liquid moves through a pipe having a varying diameter, the 
+pressure against the inside walls of the pipe will be: 
+w) the same throughout 
+x) lowest where the diameter is smallest 
+y) lowest where the diameter is largest 
+z) lowest where the velocity of flow is lowest 
+ANSWER: X -- LOWEST WHERE THE DIAMETER IS SMALLEST
+
+Science Bowl PHYSICS 
+Physics - 39 
+PHYS-91; Multiple Choice: The gravitational potential energy of an object close to the ground 
+varies: 
+w) inversely as its distance from the ground 
+x) directly as its distance from the ground 
+y) inversely as the square of its distance from the ground 
+z) directly as the square of its distance from the ground 
+ANSWER: X -- DIRECTLY AS ITS DISTANCE FROM THE GROUND 
+PHYS-91; Multiple Choice: When the image formed by a convex mirror is compared to its 
+object, the image is usually: 
+w) erect and smaller 
+x) inverted and imaginary 
+y) real and inverted 
+z) real and erect 
+ANSWER: W -- ERECT AND SMALLER 
+PHYS-91; Short Answer: In optics, when the vibrations of light are limited to a single two 
+dimensional plane, it is said that light has been what? 
+ANSWER: POLARIZED 
+PHYS-91; Multiple Choice: One nanometer is equal to: 
+w) 10-12 meters 
+x) 10-11 meters 
+y) 10-3 meters 
+z) 10-9 meters 
+ANSWER: Z -- 10-9 METERS 
+PHYS-91; Multiple Choice: In radioactive decay, the emission of an electron is characteristic of: 
+w) Alpha decay 
+x) Beta decay 
+y) Gamma decay 
+z) X-rays 
+ANSWER: X -- BETA DECAY
+
+Science Bowl PHYSICS 
+Physics - 40 
+PHYS-91; Multiple Choice: Energy is described as the capacity for: 
+w) reactivity 
+x) combustion 
+y) transformation 
+z) doing work 
+ANSWER: Z -- DOING WORK 
+PHYS-91; Multiple Choice: Kinetic energy is energy of: 
+w) position 
+x) radiation 
+y) motion 
+z) formation 
+ANSWER: Y -- MOTION 
+PHYS-91; Multiple Choice: The kinetic energy of a stone falling near the earth's surface through 
+a vacuum increases with the: 
+w) square root of its velocity 
+x) cube root of its velocity 
+y) square of its velocity 
+z) cube of its velocity 
+ANSWER: Y -- SQUARE OF ITS VELOCITY 
+PHYS-91; Short Answer: What is the mass of a 60 kilogram astronaut in space, far from any 
+planets?
+ANSWER: 60 KILOGRAMS 
+PHYS-91; Short Answer: What is the weight of a 150 pound astronaut in space, far from any 
+planets?
+ANSWER: 0 POUNDS 
+PHYS-91; Short Answer: In what type of reference frame does Newton's law NOT hold true? 
+ANSWER: NONINERTIAL FRAMES
+
+Science Bowl PHYSICS 
+Physics - 41 
+PHYS-91; Multiple Choice: Which of the following does NOT travel in a vacuum? 
+w) radio waves 
+x) gamma rays 
+y) magnetic waves 
+z) sound waves 
+ANSWER: Z -- SOUND WAVES 
+PHYS-91; Short Answer: What is the amplitude of a standing wave at its node? 
+ANSWER: 0 
+PHYS-91; Multiple Choice: An incident ray comes in parallel to the principle axis of a concave 
+mirror. Is it reflected: 
+w) back along the incident ray 
+x) at 30 degrees to incident ray 
+y) through the focal point 
+z) through the center of curvature 
+ANSWER: Y -- THROUGH THE FOCAL POINT 
+PHYS-91; Short Answer: For small oscillations, what happens to the period of a simple 
+pendulum when the mass of the pendulum bob is doubled? 
+ANSWER: NOTHING or PERIOD IS UNAFFECTED 
+PHYS-91; Short Answer: Why must soldiers break cadence when crossing a bridge? 
+ANSWER: SO THEY DON'T EXCITE A VIBRATIONAL RESONANCE IN THE 
+BRIDGE. 
+PHYS-91; Short Answer: Who named the two kinds of electrical charges "positive" and 
+"negative"? 
+ANSWER: BENJAMIN FRANKLIN 
+PHYS-91; Short Answer: What SI prefix is used to represent 10-18? 
+ANSWER: ATTO
+
+Science Bowl PHYSICS 
+Physics - 42 
+PHYS-91; Short Answer: When a slingshot exerts a 10 Newton force on a rock, the rock 
+accelerates at 50 meters per second squared. What force is required to accelerate the rock to 150 
+meters per second squared? 
+ANSWER: 30 NEWTONS 
+PHYS-91; Short Answer: How are work and power related? 
+ANSWER: POWER IS THE AMOUNT OF WORK PER UNIT TIME 
+PHYS-91; Short Answer: Heat transfer by mixing is more commonly known as what? 
+ANSWER: CONVECTION 
+PHYS-91; Short Answer: Sound waves are an example of what type of wave? 
+ANSWER: COMPRESSIONAL or LONGITUDINAL 
+PHYS-91; Short Answer: In physics, how is intensity defined? 
+ANSWER: POWER PER UNIT AREA 
+PHYS-91; Short Answer: What is the SI unit of inductance? 
+ANSWER: HENRY 
+PHYS-91; Short Answer: What is the SI unit of magnetic flux? 
+ANSWER: WEBER 
+PHYS-91; Short Answer: Who invented the electric battery? 
+ANSWER: (ALLESANDRO) VOLTA 
+PHYS-91; Short Answer: What is the resistance of an ideal voltmeter? 
+ANSWER: INFINITE RESISTANCE 
+PHYS-91; Short Answer: What is the resistance of an ideal ammeter? 
+ANSWER: ZERO
+
+Science Bowl PHYSICS 
+Physics - 43 
+PHYS-91; Short Answer: A hollow METALLIC sphere has an inner radius A and an outer 
+radius B. If charge is placed on the inner surface, that is at radius A, where is the charge located 
+after it has come to rest? 
+ANSWER: ON THE SPHERE'S OUTER SURFACE or OUTSIDE RADIUS B 
+PHYS-91; Multiple Choice: Two parallel wires carrying currents in opposite directions will: 
+w) attract each other 
+x) repel each other 
+y) cause an electric arc to form 
+z) not affect each other 
+ANSWER: X -- REPEL EACH OTHER 
+PHYS-91; Short Answer: In an electromagnetic wave, the ratio of the magnitudes of the electric 
+field to the magnet field is equal to what? 
+ANSWER: THE SPEED OF LIGHT or C 
+PHYS-91; Short Answer: Suppose the power of a prescription lens is 4 diopters. What is the 
+focal length of the lens? 
+ANSWER: = 25 CENTIMETERS 
+PHYS-91; Multiple Choice: Assuming all other parameters remain constant, what happens to the 
+pressure of a gas when the volume of the gas is increased? 
+w) increases 
+x) decreases 
+y) fluctuates sinusoidally 
+z) remains the same 
+ANSWER: X -- DECREASES
+
+Science Bowl PHYSICS 
+Physics - 44 
+PHYS-91; Multiple Choice: If a metallic object is heated, its density generally: 
+w) increases 
+x) decreases 
+y) fluctuates randomly 
+z) remains the same 
+ANSWER: X -- DECREASES 
+PHYS-91; Multiple Choice: Which wave has the highest frequency? 
+w) microwaves 
+x) infrared waves 
+y) ultraviolet waves 
+z) radio waves 
+ANSWER: Y -- ULTRAVIOLET WAVES 
+PHYS-91; Multiple Choice: The characteristic that distinguishes a laser beam from an ordinary 
+light beam is: 
+w) the greater frequency of the laser beam 
+x) the coherence of the laser beam 
+y) the color of the laser beam 
+z) the greater polarization of the laser beam 
+ANSWER: X -- THE COHERENCE OF THE LASER BEAM 
+PHYS-91; Multiple Choice: The mass spectrograph directly yields a value for which one of the 
+following? 
+w) mass of a photon 
+x) mass of a neutron 
+y) masses of isotopes of elements 
+z) mass to charge ratio of ions 
+ANSWER: Z -- MASS TO CHARGE RATIO OF IONS
+
+Science Bowl PHYSICS 
+Physics - 45 
+PHYS-91; Multiple Choice: An alpha particle colliding with an electron loses: 
+w) none of its energy 
+x) little of its energy 
+y) half of its energy 
+z) all of its energy 
+ANSWER: X -- LITTLE OF ITS ENERGY 
+PHYS-91; Multiple Choice: The term "laminar flow" is most often associated with the 
+description of: 
+w) conduction of sound by waves 
+x) current flow in transistors 
+y) effects of viscosity of liquids 
+z) passage of light rays through a liquid 
+ANSWER: Y -- EFFECTS OF VISCOSITY OF LIQUIDS 
+PHYS-91; Multiple Choice: Two point masses, M1 and M2, are 14 centimeters apart. M1 has a 
+mass of 2 grams. M2 has a mass of 5 grams. Locate the center-of-mass of this system. 
+w) 4 cm from M1 
+x) 4 cm from M2 
+y) 5 cm from M2 
+z) 7 cm from M1 
+ANSWER: X -- 4 CM FROM M2 
+PHYS-91; Multiple Choice: The mass, in kilograms, of an object whose weight on earth at sea 
+level is 490 newtons is: 
+w) 50 kilograms 
+x) 100 kilograms 
+y) 225 kilograms 
+z) 1,100 kilograms 
+ANSWER: W -- 50 KILOGRAMS
+
+Science Bowl PHYSICS 
+Physics - 46 
+PHYS-91; Multiple Choice: When the velocity of an object is tripled, another quantity which is 
+tripled at the same time is the object's: 
+w) momentum 
+x) potential energy 
+y) kinetic energy 
+z) mass 
+ANSWER: W -- MOMENTUM 
+PHYS-91; Multiple Choice: What is the only non-metal element that is a liquid at room 
+temperature and one atmosphere? 
+w) bromine 
+x) argon 
+y) silicon 
+z) selenium 
+ANSWER: W -- BROMINE 
+PHYS-91; Multiple Choice: Which of the following is NOT a noble gas? 
+w) radon 
+x) xenon (pron: zee-non) 
+y) astatine (pron: as-tah-teen) 
+z) krypton 
+ANSWER: Y -- ASTATINE 
+PHYS-91; Multiple Choice: What is the SI unit of pressure? 
+w) Pascal 
+x) Torr 
+y) Dyne 
+z) Kelvin 
+ANSWER: W -- PASCAL
+
+Science Bowl PHYSICS 
+Physics - 47 
+PHYS-91; Multiple Choice: What is 20 degrees Celsius in degrees Kelvin? 
+w) 70 degrees 
+x) 293 degees 
+y) 100 degrees 
+z) 212 degrees 
+ANSWER: X -- 293 DEGREES 
+PHYS-91; Multiple Choice: What is the value given to standard pressure in Torrs? 
+w) 540 
+x) 660 
+y) 760 
+z) 780 
+ANSWER: Y -- 760 
+PHYS-91; Multiple Choice: Who invented the barometer? 
+w) Torricelli 
+x) Avogadro 
+y) Rutherford 
+z) Becquerel 
+ANSWER: W -- TORRICELLI 
+PHYS-91; Multiple Choice: The random motion of particles suspended in a fluid is called: 
+w) Boson Condensation 
+x) Fermi Motion 
+y) Brownian Motion 
+z) Pauli Motion 
+ANSWER: Y -- BROWNIAN MOTION 
+PHYS-91; Multiple Choice: The most efficient heat engine that can operate between two 
+temperature reservoirs T1 and T2 is: 
+w) jet engine 
+x) internal combustion engine 
+y) Carnot engine (pron: car-no) 
+z) steam engine 
+ANSWER: Y -- CARNOT ENGINE
+
+Science Bowl PHYSICS 
+Physics - 48 
+PHYS-91; Multiple Choice: The formation of pockets of gas in a liquid is called: 
+w) absorption 
+x) cavitation 
+y) adsorption 
+z) dissolving 
+ANSWER: X -- CAVITATION 
+PHYS-91; Multiple Choice: In the Compton effect, a photon of wavelength l (read: lambdw) 
+collides with a stationary electron. The wavelength of the emitted photon is: 
+w) longer than l 
+x) shorter than l 
+y) the same as l 
+z) no photon is emitted 
+ANSWER: W -- LONGER THAN l 
+PHYS-91; Multiple Choice: The change of a gas to a liquid is called: 
+w) vaporization 
+x) sublimation 
+y) condensation 
+z) freezing 
+ANSWER: Y -- CONDENSATION 
+PHYS-91; Multiple Choice: A semiconductor device made up of a single p-n Junction is called a: 
+w) transistor 
+x) diode 
+y) Fet 
+z) integrated circuit 
+ANSWER: X -- DIODE 
+PHYS-91; Multiple Choice: The law that relates the electric field at the surface of a region to the 
+amount of charge inside the region is called: 
+w) Coulomb's Law 
+x) Faraday's Law 
+y) Gauss' Law 
+z) Biot-Savart Law 
+ANSWER: Y -- GAUSS' LAW
+
+Science Bowl PHYSICS 
+Physics - 49 
+PHYS-91; Multiple Choice: The four underlying equations in electromagnetic theory are called: 
+w) Einstein's Equations 
+x) Maxwell's Equations 
+y) Newton's Equations 
+z) Faraday's Law 
+ANSWER: X -- MAXWELL'S EQUATIONS 
+PHYS-91; Multiple Choice: The splitting of an atomic nucleus is called: 
+w) fission 
+x) fusion 
+y) cleavage 
+z) separation 
+ANSWER: W -- FISSION 
+PHYS-91; Multiple Choice: In an electromagnetic wave, what is the relative orientation of the 
+magnetic and electric fields? 
+w) 180 degrees 
+x) 90 degrees 
+y) 45 degrees 
+z) 22.5 degrees 
+ANSWER: X -- 90 DEGREES 
+PHYS-91; Short Answer: In an electromagnetic wave, the E and B fields are both perpendicular 
+to what?
+ANSWER: THE DIRECTION OF THE WAVE or DIRECTION OF WAVE ROPAG 
+PHYS-91; Multiple Choice: When light is reflected from a surface, the angle of incidence is: 
+w) 30 degrees 
+x) equal to the angle of reflection 
+y) 90 degrees 
+z) 180 degrees 
+ANSWER: X -- EQUAL TO THE ANGLE OF REFLECTION
+
+Science Bowl PHYSICS 
+Physics - 50 
+PHYS-91; Multiple Choice: According to standard convention, the angles of incidence and 
+reflection for a plane surface are measured from: 
+w) the reflecting surface 
+x) lines at 45 degrees to the reflecting surface 
+y) a line at 90 degrees to the reflecting surface 
+z) there is no standard 
+ANSWER: Y -- A LINE AT 90 DEGREES TO THE REFLECTING SURFACE 
+PHYS-91; Multiple Choice: A real image always appears: 
+w) larger than object 
+x) inverted 
+y) erect 
+z) same size as object 
+ANSWER: X -- INVERTED 
+PHYS-91; Multiple Choice: When light enters an optically denser medium, the light ray: 
+w) bends away from a normal to surface 
+x) passes through unbent 
+y) bends towards a normal to surface 
+z) none of the above 
+ANSWER: Y -- BENDS TOWARDS A NORMAL TO SURFACE 
+PHYS-91; Multiple Choice: The speed of light in vacuum "C" divided by the Index of Refraction 
+"N" gives the: 
+w) frequency of the light 
+x) speed of the light in the medium 
+y) energy of the light 
+z) wavelength of the light 
+ANSWER: X -- SPEED OF THE LIGHT IN THE MEDIUM
+
+Science Bowl PHYSICS 
+Physics - 51 
+PHYS-91; Multiple Choice: In order for fiber optics to work, the incident light inside the fiber 
+must hit the wall of the fiber at: 
+w) 90 degrees 
+x) 45 degrees 
+y) an angle greater than the critical angle 
+z) none of the above 
+ANSWER: Y -- AN ANGLE GREATER THAN THE CRITICAL ANGLE 
+PHYS-91; Multiple Choice: When light is traveling through a vacuum, what is the product of the 
+light's wavelength and frequency equal to? 
+w) speed of light 
+x) Plank's constant 
+y) momentum 
+z) wave number 
+ANSWER: W -- SPEED OF LIGHT 
+PHYS-91; Multiple Choice: The inverse of wavelength is referred to as: 
+w) wave number 
+x) frequency 
+y) velocity 
+z) momentum 
+ANSWER: W -- WAVE NUMBER 
+PHYS-91; Multiple Choice: The GeV is a unit of: 
+w) momentum 
+x) energy 
+y) velocity 
+z) time 
+ANSWER: X -- ENERGY 
+PHYS-91; Multiple Choice: In AC Circuit Theory, the term that replaces the resistance is: 
+w) inductance 
+x) capacitance 
+y) impedance 
+z) reactance 
+ANSWER: Y -- IMPEDANCE
+
+Science Bowl PHYSICS 
+Physics - 52 
+PHYS-91; Multiple Choice: The anti-particle to an electron is: 
+w) proton 
+x) positron 
+y) neutron 
+z) anti-proton 
+ANSWER: X -- POSITRON 
+PHYS-91; Multiple Choice: The gravitational potential energy between two bodies is inversely 
+proportional to: 
+w) the cube of the distance 
+x) the first power of the distance 
+y) the square of the distance 
+z) it has no relation to distance 
+ANSWER: X -- THE FIRST POWER OF THE DISTANCE 
+PHYS-91; Multiple Choice: An object is projected vertically upward near the surface of the 
+earth. At the very top of its path, the object's velocity is zero, and its acceleration is: 
+w) 0 
+x) 9.8 meters per second squared DOWNWARD 
+y) 9.8 meters per second squared UPWARD 
+z) depends on the mass of the object 
+ANSWER: X -- 9.8 METERS PER SECOND SQUARED DOWNWARD 
+PHYS-91; Multiple Choice: Of the following choices, approximately how many times greater is 
+the mass of a proton than the mass of an electron? 
+w) 200 
+x) 2000 
+y) 20,000 
+z) 200,000 
+ANSWER: X -- 2000 
+PHYS-91; Short Answer: How many quarks make up a neutron? 
+ANSWER: 3
+
+Science Bowl PHYSICS 
+Physics - 53 
+PHYS-91; Multiple Choice: A twin goes on a high speed space journey (near the speed of light) 
+and returns to meet his twin who stayed on earth. At their meeting the traveling twin has: 
+w) aged more than the earthbound twin 
+x) aged less than the earthbound twin 
+y) aged the same as the earthbound twin 
+ANSWER: X -- AGED LESS THAN THE EARTHBOUND TWIN 
+PHYS-91; Multiple Choice: Which of the following forces is nonconservative? 
+w) gravitational force 
+x) electrostatic force 
+y) sliding frictional force 
+z) restorative force of a spring 
+ANSWER: Y -- SLIDING FRICTIONAL FORCE 
+PHYS-91; Short Answer: What is the potential energy of a 10 kilogram cube 500 meters above 
+the ground? 
+ANSWER: 49,000 JOULES (accept 50,000 joules, uses g = 10m/s2) 
+PHYS-91; Short Answer: A 2 kilogram mass accelerates at 5 meters per second squared for 3 
+seconds. What impulse has acted on the mass? 
+ANSWER: 30 NEWTON-SECONDS or 30 KILOGRAM-METERS PER SECOND 
+PHYS-91; Short Answer: The driveshaft of a car rotates at 450 radians per second with a torque 
+of 150 Newton-meters. How much power is produced? 
+ANSWER: 67,500 WATTS 
+PHYS-91; Short Answer: What is the initial velocity of an object if it is moving 10 meters per 
+second after 2 seconds with a constant acceleration of 4 meters per second squared? 
+ANSWER: 2 METERS PER SECOND
+
+Science Bowl PHYSICS 
+Physics - 54 
+PHYS-91; Short Answer: If an object is in a state of equilibrium, what can be said about all of 
+the forces acting on the object? 
+ANSWER: THE SUM OF ALL FORCES ACTING ON THE OBJECT IS ZERO 
+PHYS-91; Short Answer: The pressure placed on a square with 1/2 meter sides is 1000 Pascals. 
+How much force is being applied to the square? 
+ANSWER: 250 NEWTONS 
+PHYS-91; Short Answer: What is the ratio of a substance's density to the density of water called? 
+ANSWER: SPECIFIC GRAVITY (also accept relative density) 
+PHYS-91; Multiple Choice: Which of the following is NOT closely associated with a 
+non-magnetic Phase Diagram? 
+w) Eutectic Temperature (pron: you-tek-tik) 
+x) Curie Point 
+y) Solidus 
+z) Liquidus Curves 
+ANSWER: X -- CURIE POINT 
+PHYS-91; Multiple Choice: A bimetallic strip commonly found in home furnace thermostats 
+works because of the difference in this property of the two metals. Is it: 
+w) thermal shock 
+x) thermal conductivity 
+y) thermal expansion 
+z) thermal diffusivity 
+ANSWER: Y -- THERMAL EXPANSION 
+PHYS-91; Multiple Choice: Which of the following physical properties is TRUE of most dense 
+ceramic materials? 
+w) high tensile strength 
+x) good ductility 
+y) high compressive strength 
+z) high electrical conductivity 
+ANSWER: Y -- HIGH COMPRESSIVE STRENGTH
+
+Science Bowl PHYSICS 
+Physics - 55 
+PHYS-91; Multiple Choice: The Modulus of Elasticity for a material refers to: 
+w) the ability of a material to resist corrosion 
+x) the ratio of stress over strain 
+y) the maximum load over the cross sectional area 
+z) none of the above 
+ANSWER: X -- THE RATIO OF STRESS OVER STRAIN 
+PHYS-91; Multiple Choice: The rest mass of an electron is closest to: 
+w) 10-15 kilograms 
+x) 10-17 kilograms 
+y) 10-30 kilograms 
+z) 10-50 kilograms 
+ANSWER: Y -- 10-30 KILOGRAMS (accept 9.11 x 10-31kg) 
+PHYS-91; Short Answer: Carbon-14 dating is based on the decay of 14C to 14N. What type of 
+radioactive decay is associated with this nuclear reaction? 
+ANSWER: b-RAY or b DECAY or ELECTRON EMISSION 
+PHYS-91; Short Answer: Normal sunlight is non-polarized. Why are polarized sunglasses worn? 
+ANSWER: REFLECTED LIGHT FROM SMOOTH SURFACES IS POLARIZED 
+PHYS-91; Short Answer: Many common household fluids, such as margarine, undergo a 
+decrease in viscosity when subjected to a shearing force. What is this property called? 
+ANSWER: THIXOTROPIC (pron: thik-sa-trop-ick) 
+PHYS-91; Short Answer: How much energy in consumed if a 100 watt light bulb is operated for 
+10 MINUTES? 
+ANSWER: 60,000 JOULES or 60kJ or 6X104J 
+PHYS-91; Short Answer: If the energy reaching your eyeball at 10 meters from a small light bulb 
+is expressed as x, express the energy which would reach your eyeball at 20 meters? 
+ANSWER: (1/4)x
+
+Science Bowl PHYSICS 
+Physics - 56 
+PHYS-91; Short Answer: How much current does a 1500 Watt heater draw if supplied with a 
+120 Volt source? 
+ANSWER: 12.5 AMPS 
+PHYS-91; Short Answer: The area of thermodynamics concerned with the measuring of thermal 
+properties is called what? 
+ANSWER: CALORIMETRY 
+PHYS-91; Short Answer: The temperature and pressure at which a substance can exist in all 
+three phases of matter simultaneously is called what? 
+ANSWER: TRIPLE POINT 
+PHYS-91: Multiple Choice: Refracting telescopes, if uncorrected, suffer from chromatic 
+aberration. Chromatic aberration occurs because: 
+w) red light is focused more strongly than blue light 
+x) blue light is focused more strongly than red light 
+y) the outer light rays are focused more strongly than the central rays, 
+z) the central light rays are focused more strongly than the outer rays. 
+ANSWER: X -- BLUE LIGHT IS FOCUSED MORE STRONGLY THAN RED LIGHT 
+PHYS-91; Multiple Choice: Which of the following scientific instruments has the greatest 
+resolving power? 
+w) electron microscope 
+x) light microscope 
+y) phase-contrast microscope 
+z) centrifuge 
+ANSWER: W -- ELECTRON MICROSCOPE 
+PHYS-91; Multiple Choice: One curie is equal to: 
+w) the square root of the binding energy 
+x) the energy of an alpha-particle 
+y) 3.7 x 1010 disintegrations per second 
+z) mc2 
+ANSWER: Y -- 3.7 x 1010 DISINTEGRATIONS PER SECOND
+
+Science Bowl PHYSICS 
+Physics - 57 
+PHYS-91; Multiple Choice: Isotopes of an element have different numbers of: 
+w) electrons 
+x) protons 
+y) neutrons 
+z) leptons 
+ANSWER: Y -- NEUTRONS 
+PHYS-91; Multiple Choice: Which one of the following particles travels at the speed of light? 
+w) neutrons 
+x) electrons 
+y) photons 
+z) muons 
+ANSWER: Y -- PHOTONS 
+PHYS-91; Multiple Choice: Heat is transferred from the sun to the earth primarily by: 
+w) conduction 
+x) convection 
+y) radiation 
+z) condensation 
+ANSWER: Y -- RADIATION 
+PHYS-91; Multiple Choice: A block of wood initially at rest slides down an inclined plane. 
+Neglecting friction, the kinetic energy of the block at the bottom of the plane is: 
+w) all converted into heat 
+x) equal to its potential energy (with respect to the bottom of the plane) when it was at 
+the top of the plane 
+y) less than its kinetic energy at the top of the plane 
+z) dependant on the materials of which the block is made 
+ANSWER: X -- EQUAL TO ITS POTENTIAL ENERGY (WITH RESPECT TO THE 
+BOTTOM OF PLANE) WHEN IT WAS AT THE TOP OF THE PLANE.
+
+Science Bowl PHYSICS 
+Physics - 58 
+PHYS-91; Multiple Choice: When an atom undergoes beta decay, the atomic number of the 
+nucleus:
+w) is unchanged 
+x) increases by one 
+y) decreases by one 
+z) none of the above 
+ANSWER: X -- INCREASES BY ONE 
+PHYS-91; Short Answer: Name any three of the six quarks. 
+ANSWER: UP, DOWN, CHARM, STRANGE, TOP (or truth), BOTTOM (or beauty) 
+PHYS-91; Short Answer: There are four fundamental forces in nature. A particle has been 
+associated with each of these four forces. Name any TWO of these particles. 
+ANSWER: GRAVITON (for gravity), PHOTON (for electromagnetiy), GLUONS for s 
+PHYS-91; Multiple Choice: The force on a charged particle moving parallel to magnetic field 
+lines is:
+w) in the direction of the field 
+x) zero 
+y) perpendicular to the field 
+z) in the opposite direction of the field 
+ANSWER: X -- ZERO 
+PHYS-91; Multiple Choice: In any collision, which of the following is conserved: 
+w) kinetic energy 
+x) velocity 
+y) momentum 
+z) potential energy 
+ANSWER: Y -- MOMENTUM
+
+Science Bowl PHYSICS 
+Physics - 59 
+PHYS-91; Multiple Choice: Which of the following will increase the ANGULAR MOMENTUM 
+of a person spinning on a rotatable frictionless bar chair? 
+w) moving the arms closer to the body 
+x) moving the arms farther from the body 
+y) moving one arm farther from the body and the other arm closer to the body with 
+spastic repetition 
+z) none of these 
+ANSWER: Z -- NONE OF THESE 
+PHYS-91; Short Answer: What is the relationship between the frequency and the period of a
+wave? 
+ANSWER: THEY ARE INVERSES OF EACH OTHER 
+PHYS-92; Multiple Choice: For the hydrogen atom, which series describes electron transitions to 
+the N = 2 orbit? Is it the: 
+w) Lyman series 
+x) Paschen series 
+y) Balmer series 
+z) Pfund series 
+ANSWER: Y -- BALMER SERIES 
+PHYS-92; Multiple Choice: The unit of mass in the English system of measure is which of the 
+following? 
+w) pound 
+x) gram 
+y) slug 
+z) dyne 
+ANSWER: Y -- SLUG 
+PHYS-92; Short Answer: What law asserts that it makes no difference in what grouping we add 
+vectors?
+ANSWER: ASSOCIATIVE LAW OF VECTOR ADDITION
+
+Science Bowl PHYSICS 
+Physics - 60 
+PHYS-92; Short Answer: A ball is thrown vertically upwards from the ground with a speed of 80 
+feet/second. In the English system of units, what is the magnitude and direction of the 
+acceleration of the ball? 
+ANSWER: 32 FEET PER SECOND SQUARED DOWN or TOWARDS THE 
+EARTH 
+PHYS-92; Short Answer: A baseball bat strikes a ball with a force of 30 newtons. If the ball was 
+in contact with the bat for 1/10 of a second, what impulse did the ball receive? 
+ANSWER: 3 NEWTON-SECONDS 
+PHYS-92; Multiple Choice: A pendulum which is suspended from the ceiling of a railroad car is 
+observed to hang at an angle of 10 degrees to the left of vertical. Which of the following answers 
+could explain this phenomena? 
+w) The railroad car is at rest. 
+x) The railroad car is accelerating to the left. 
+y) The railroad car is moving with constant velocity to the right. 
+z) The railroad car is accelerating to the right. 
+ANSWER: Z -- THE RAILROAD CAR IS ACCELERATING TO THE RIGHT. 
+PHYS-92; Short Answer: At time t=0, a body has a velocity of 5 meters per second, 
+EASTWARD; at time t=2 seconds, its velocity is 7 meters per second WESTWARD. What is the 
+MAGNITUDE of the body's average acceleration? 
+ANSWER: 6 METERS PER SECOND SQUARED 
+PHYS-92; Short Answer: A man exerts a northward force of 100 newtons on a 50 kilogram box 
+which sits on a level floor. If the frictional force is 80 newtons, what is the magnitude of the 
+northward acceleration of the box? 
+ANSWER: 0.4 METERS PER SECOND SQUARED
+
+Science Bowl PHYSICS 
+Physics - 61 
+PHYS-92; Multiple Choice: Newton's second law states that the net force acting on a body is 
+equal to the body's time rate of change of: 
+w) acceleration 
+x) mass 
+y) momentum 
+z) inertia 
+ANSWER: Y -- MOMENTUM 
+PHYS-92; Short Answer: A girl throws a ball vertically upward, what is the MOMENTUM of 
+the ball at its highest point? 
+ANSWER: ZERO 
+PHYS-92; Short Answer: A girl throws a 2 kilogram rock vertically upward. It reaches a 
+maximum height of 5 meters. What is the kinetic energy of the rock the instant it leaves the girl's 
+hand? 
+ANSWER: 100 JOULES (accept 98 joules) 
+PHYS-92; Short Answer: A spring with a force constant of 20 newtons per meter is known to 
+obey Hooke's Law. The spring is attached to a mass of 5 kilograms and placed on a horizontal, 
+frictionless surface. The mass is displaced 3 meters from its equilibrium position and released. 
+What is the kinetic energy of the mass as it passes through its equilibrium position? 
+ANSWER: 90 JOULES 
+PHYS-92; Multiple Choice: The period of oscillation of a particle undergoing simple harmonic 
+motion is: 
+w) independent of the amplitude of the motion 
+x) directly proportional to the frequency of oscillation 
+y) independent of the frequency of oscillation 
+z) none of the above 
+ANSWER: W -- INDEPENDENT OF THE AMPLITUDE OF THE MOTION 
+
+Science Bowl PHYSICS 
+Physics - 62 
+PHYS-92; Multiple Choice: The angle between the velocity and acceleration of a body is: 
+w) never 90 degrees 
+x) never 180 degrees 
+y) sometimes 180 degrees 
+z) never 0 degrees 
+ANSWER: Y -- SOMETIMES 180 DEGREES 
+PHYS-92; Multiple Choice: In a collision, which of the following four quantities is always 
+conserved? 
+w) momentum 
+x) kinetic energy 
+y) torque 
+z) moment of inertia 
+ANSWER: W -- MOMENTUM 
+PHYS-92; Multiple Choice: Of the following terms, which is the product of force and time? Is it: 
+w) impulse 
+x) power 
+y) energy 
+z) work 
+ANSWER: W -- IMPULSE 
+PHYS-92; Multiple Choice: In physics, a radian per second squared is a unit of: 
+w) angular displacement 
+x) angular velocity 
+y) angular acceleration 
+z) angular momentum. 
+ANSWER: Y -- ANGULAR ACCELERATION 
+PHYS-92; Short Answer: At what centigrade temperature will 1 mole of a gas under 1 
+atmosphere of pressure occupy 22.4 liters? 
+ANSWER: ZERO DEGREES CENTIGRADE
+
+Science Bowl PHYSICS 
+Physics - 63 
+PHYS-92; Short Answer: A pitcher throws a baseball to his first-base man. As the ball flies 
+through the air, assuming no air resistance, what is the shape of its trajectory? 
+ANSWER: PARABOLA 
+PHYS-92; Short Answer: Name the English physicist who discovered electromagnetic induction? 
+ANSWER: (MICHAEL) FARADAY 
+PHYS-92; Short Answer: What famous Scottish physicist died in the same year that Albert 
+Einstein was born? 
+ANSWER: JAMES CLERK MAXWELL 
+PHYS-92; Short Answer: Who received the Nobel Prize in Physics in 1929 for his postulation of 
+the wave nature of electrons? 
+ANSWER: (PRINCE LOUIS-VICTOR) De BROGLIE 
+PHYS-92; Short Answer: Name the three American physicists who received the Nobel Prize in 
+1972 for their development of a theory of superconductivity. 
+ANSWER: (JOHN) BARDEEN, (LEON N.) COOPER, (J. ROBERT) SCHRIEFFER 
+PHYS-92; Short Answer: Who first explained the billiard-ball-like collisions photons make with 
+the free electrons in a scattering material? He received the Nobel Prize in Physics in 1927 for this 
+work. 
+ANSWER: ARTHUR HOLLY COMPTON 
+PHYS-92; Short Answer: An electron is directly west of a proton. The force on the electron is in 
+what direction: north, south, east, or west? 
+ANSWER: EAST or TOWARD THE PROTON
+
+Science Bowl PHYSICS 
+Physics - 64 
+PHYS-92; Multiple Choice: At a point halfway between two identical point charges, the electric 
+field is equal to: 
+w) zero 
+x) half its maximum value 
+y) its maximum value 
+z) pointing away from the two charges 
+ANSWER: W -- ZERO 
+PHYS-92; Multiple Choice: Ten coulombs of positive charge are placed on an irregularly-shaped, 
+solid piece of copper. Once the charge has stopped moving, the electric field inside the copper is: 
+w) zero 
+x) changes as one over the radius squared 
+y) becomes smaller as you approach the center 
+z) becomes larger as you approach the center 
+ANSWER: W -- ZERO 
+PHYS-92; Multiple Choice: Ten coulombs of charge are placed on a solid copper sphere. Once 
+the charge has come to rest, the ELECTRIC POTENTIAL inside the sphere is found to be: 
+w) zero 
+x) uniform inside the sphere and equal to the electric potential on the surface of the 
+sphere 
+y) smaller than the electric potential outside the sphere 
+z) varying as one over r squared 
+ANSWER: X -- UNIFORM INSIDE THE SPHERE AND EQUAL TO THE 
+ELECTRIC POTENTIAL ON THE SURFACE OF THE SPHERE 
+PHYS-92; Short Answer: A current of 5 amps passes through a 10 ohm resistor. How many 
+joules of energy will be generated by this resistor in 2 seconds? 
+ANSWER: 500 JOULES 
+PHYS-92; Short Answer: A charged particle is moving in a UNIFORM magnetic field. If the 
+direction of motion of the charged particle is at right angles to the magnetic field, describe the 
+shape of the charged particle's path. 
+ANSWER: CIRCULAR or CIRCLE
+
+Science Bowl PHYSICS 
+Physics - 65 
+PHYS-92; Multiple Choice: Two infinitely long, parallel wires carry currents which are in 
+opposite directions. The two wires: 
+w) are attracted toward each other 
+x) repel each other 
+y) have no effect on each other. 
+ANSWER: X -- REPEL EACH OTHER 
+PHYS-92; Multiple Choice: Which one of the following laws best describes the operation of an 
+electric generator? 
+w) Ampere's Law 
+x) Gauss' Law 
+y) Ohm's Law for Conductors 
+z) Faraday's Law of Induction 
+ANSWER: Z -- FARADAY'S LAW OF INDUCTION 
+PHYS-92; Short Answer: Capacitors and inductors are commonly used in circuits. Capacitors 
+store electrical energy in the electric field between their plates. How do inductors store energy? 
+ANSWER: IN A MAGNETIC FIELD SURROUNDING THE INDUCTOR 
+PHYS-92; Multiple Choice: A wave and its reflection produce a standing wave with the distance 
+from NODE to nearest ANTINODE of 4 meters. The wavelength of this wave is: 
+w) 4 meters 
+x) 8 meters 
+y) 12 meters 
+z) 16 meters 
+ANSWER: Z -- 16 METERS 
+PHYS-92; Multiple Choice: The wave nature of electrons was EXPERIMENTALLY verified by: 
+w) Einstein 
+x) Davisson and Germer 
+y) Balmer 
+z) Bohr. 
+ANSWER: X -- DAVISSON AND GERMER
+
+Science Bowl PHYSICS 
+Physics - 66 
+PHYS-92; Multiple Choice: Diffraction and interference demonstrate which of the following? 
+w) particle nature of light 
+x) wave nature of light 
+y) polarization of light 
+z) refraction of light 
+ANSWER: X -- WAVE NATURE OF LIGHT 
+PHYS-92; Multiple Choice: An electromagnetic wave is ALWAYS: 
+w) longitudinal 
+x) polarized 
+y) spherical 
+z) transverse. 
+ANSWER: Z -- TRANSVERSE 
+PHYS-92; Multiple Choice: The crack of a bullwhip results from the bullwhip's tip: 
+w) approaching the speed of sound 
+x) exceeding the speed of sound 
+y) moving with constant velocity 
+z) none of the above 
+ANSWER: X -- EXCEEDING THE SPEED OF SOUND 
+PHYS-92; Multiple Choice: This planet's orbit gave proof of the superiority of Einstein's theory 
+of gravity over Newton's: 
+w) Mercury 
+x) Earth 
+y) Mars 
+z) Pluto 
+ANSWER: W -- MERCURY 
+PHYS-92; Multiple Choice: The Weber and the Maxwell are units of measure of: 
+w) conductance 
+x) electrical current 
+y) magnetic flux 
+z) relative speed 
+ANSWER: Y -- MAGNETIC FLUX
+
+Science Bowl PHYSICS 
+Physics - 67 
+PHYS-92; Short Answer: Who first showed that full color pictures can be formed from only two 
+single color images? 
+ANSWER: JAMES H. LAND 
+PHYS-92; Multiple Choice: Carlos is pulling a 40 kilogram cart with a horizontal force of 100 
+newtons. The force of friction on the cart is 20 newtons. The acceleration of the cart is: 
+w) 2 meters per second squared 
+x) 2.5 meters per second squared 
+y) 20 meters per second squared 
+z) 200 meters per second squared 
+ANSWER: W -- 2 METERS PER SECOND SQUARED 
+PHYS-92; Multiple Choice: A car with a mass of 1000 kilogram is moving at a speed of 10 
+meters per second. The kinetic energy of the car is: 
+w) 100 Joules 
+x) 5000 Joules 
+y) 10,000 Joules 
+z) 50,000 Joules 
+ANSWER: Z -- 50,000 JOULES 
+PHYS-92; Multiple Choice: A 10 kilogram object falls from a cliff 100 meters high. At the 
+midpoint of its fall its total energy is: 
+w) 2450 Joules 
+x) 4900 Joules 
+y) 10,000 Joules 
+z) 20,000 Joules 
+ANSWER: Y -- 10,000 JOULES 
+PHYS-92; Short Answer: How much time is needed for a force of 20 Newtons to change the 
+velocity of a 5 kilogram mass by 4 meters per second? 
+ANSWER: 1 SECOND
+
+Science Bowl PHYSICS 
+Physics - 68 
+PHYS-92; Multiple Choice: During an INELASTIC collision, the colliding bodies 
+w) lose kinetic energy 
+x) keep the same amount of kinetic energy 
+y) gains kinetic energy 
+z) first lose, then gain kinetic energy 
+ANSWER: W -- LOSE KINETIC ENERGY 
+PHYS-92; Multiple Choice: A satellite travels at a constant speed in a circular orbit. The 
+acceleration of the satellite is 
+w) zero 
+x) toward the center of the orbit 
+y) away from the center of the orbit 
+z) at a tangent to the orbit 
+ANSWER: X -- TOWARD THE CENTER OF THE ORBIT 
+PHYS-92; Short Answer: An 8 kilogram mass resting on a frictionless horizontal surface is 
+attached to a spring with a force constant of 50 Newtons per meter. If the velocity of the mass 
+through the equilibrium position is 5 meters per second, what is the mass's maximum displacement 
+from equilibrium? 
+ANSWER: 2 METERS 
+PHYS-92; Multiple Choice: The TOTAL energy of a vertically vibrating block attached to a 
+spring is the same: 
+w) only at those points above the equilibrium position 
+x) only at the equilibrium position 
+y) only at those points below the equilibrium position 
+z) at all points in its motion 
+ANSWER: Z -- AT ALL POINTS IN ITS MOTION
+
+Science Bowl PHYSICS 
+Physics - 69 
+PHYS-92; Multiple Choice: Compressional waves are 
+w) transverse waves 
+x) water waves 
+y) longitudinal waves 
+z) light waves 
+ANSWER: Y -- LONGITUDINAL WAVES 
+PHYS-92; Multiple Choice: In a charged hollow metal conductor, the charge is 
+w) on the inside surface only 
+x) on both the inside and outside surfaces 
+y) on the outside surface only 
+z) only between the inside and outside surfaces 
+ANSWER: Y -- ON THE OUTSIDE SURFACE ONLY 
+PHYS-92; Multiple Choice: Two negative point charges are 2 meters apart and repel each other 
+with a force of 2 newtons. When the distance between the charges is doubled, the force between 
+them is 
+w) one fourth as great 
+x) one half as great 
+y) twice as great 
+z) four times as great 
+ANSWER: W -- ONE FOURTH AS GREAT 
+PHYS-92; Multiple Choice: The rate at which electrical energy is used is measured in 
+w) volts 
+x) amperes 
+y) joules 
+z) watts 
+ANSWER: Z -- WATTS
+
+Science Bowl PHYSICS 
+Physics - 70 
+PHYS-92; Multiple Choice: For an electromagnetic wave traveling in a vacuum, if the magnitude 
+of the intensity of the E field is zero, the magnitude of the intensity of the B field is: 
+w) zero 
+x) a negative maximum 
+y) a positive maximum 
+z) the square root of 2 times the positive maximum 
+ANSWER: W -- ZERO 
+PHYS-92; Multiple Choice: The effective capacitance of four, 5-microfarad capacitors connected 
+in series is: 
+w) 0.20 microfarad 
+x) 0.5 microfarad 
+y) 1.0 microfarad 
+z) 1.25 microfarad 
+ANSWER: Z -- 1.25 MICROFARAD 
+PHYS-92; Multiple Choice: The terminal voltage of a cell supplying energy to a circuit is usually 
+less than its emf because of the cell's 
+w) size 
+x) internal resistance 
+y) mass 
+z) energy 
+ANSWER: X -- INTERNAL RESISTANCE 
+PHYS-92; Multiple Choice: A light ray traveling in benzene strikes the benzene-air surface at the 
+critical angle. The angle of refraction of the light ray is: 
+w) 30 degrees 
+x) 60 degrees 
+y) 90 degrees 
+z) 180 degrees 
+ANSWER: Y -- 90 DEGREES
+
+Science Bowl PHYSICS 
+Physics - 71 
+PHYS-92; Multiple Choice: Light bends around sharp corners as a result of 
+w) refraction 
+x) reflection 
+y) diffraction 
+z) dispersion 
+ANSWER: Y -- DIFFRACTION 
+PHYS-92; Multiple Choice: A light ray traveling from glass into air strikes the glass-air surface at 
+an angle 50 degrees to the normal. If the critical angle for the glass-air combination is 42 degrees, 
+the percentage of light reflected from the surface is 
+w) 6 
+x) 25 
+y) 38 
+z) 100 
+ANSWER: Z -- 100 
+PHYS-92; Multiple Choice: In the Millikan oil-drop experiment the UPWARD force on the drop 
+is due to the: 
+w) gravitational and electric fields 
+x) gravitational field and the charge on the drop 
+y) electric field and the size of the drop 
+z) electric field and the charge on the drop 
+ANSWER: Z -- ELECTRIC FIELD AND THE CHARGE ON THE DROP 
+PHYS-92; Multiple Choice: In changing from an energy state of -1.51 electron-volts to -3.40 
+electron-volts, an atom emits a photon whose energy is: 
+w) 1.51 electron-volts 
+x) 1.89 electron-volts 
+y) 3.40 electron-volts 
+z) 4.91 electron-volts 
+ANSWER: X -- 1.89 ELECTRON-VOLTS
+
+Science Bowl PHYSICS 
+Physics - 72 
+PHYS-92; Multiple Choice: In an elastic collision, the RELATIVE velocities of separation of the 
+two bodies after impact compared with the relative velocity of approach before impact is: 
+w) always greater 
+x) always smaller 
+y) always the same 
+z) first greater, then smaller 
+ANSWER: Y -- ALWAYS THE SAME 
+PHYS-92; Multiple Choice: Two hockey pucks, of unequal mass and connected by a spring of 
+negligible mass, rest on a horizontal frictionless surface. The spring is released, and the pucks 
+move apart. The center of mass of the two pucks does one of the following. Does it: 
+w) move in a circle 
+x) move in the direction of the greater mass 
+y) remain stationary 
+z) move in the direction of the smaller mass 
+ANSWER: Y -- REMAIN STATIONARY 
+PHYS-92; Multiple Choice: A 500 kilogram car moving at 20 meters per second strikes a stone 
+wall and is brought to a halt in 0.1 second. The average force of the car on the wall during impact 
+is: 
+w) 10 Newtons 
+x) 1000 Newtons 
+y) 10,000 Newtons 
+z) 100,000 Newtons 
+ANSWER: Z -- 100,000 NEWTONS 
+PHYS-92; Multiple Choice: A bullet is fired with a muzzle velocity of 1000 meters per second 
+from a rifle clamped to a window 4.9 meters above ground level. Neglecting air resistance, the 
+horizontal distance from the rifle at which the bullet will strike the ground is 
+w) 4.9 meters 
+x) 500 meters 
+y) 1000 meters 
+z) 4900 meters 
+ANSWER: Y -- 1000 METERS
+
+Science Bowl PHYSICS 
+Physics - 73 
+PHYS-92; Multiple Choice: The acceleration due to gravity on the moon is 1.6 meters per 
+second squared. If a pendulum is whose length is 6.4 meters is placed on the moon, its period will 
+be: 
+w) 1.57 seconds 
+x) 3.14 seconds 
+y) 12.56 seconds 
+z) 25.12 seconds 
+ANSWER: Y -- 12.56 SECONDS 
+PHYS-92; Multiple Choice: Of the following, the type of wave that CANNOT be polarized is 
+w) electromagnetic 
+x) light 
+y) sound 
+z) radio 
+ANSWER: Y -- SOUND 
+PHYS-92; Multiple Choice: Pressure is equal to: 
+w) Area divided by force 
+x) force divided by area 
+y) area times force 
+z) area minus force 
+ANSWER: X -- FORCE DIVIDED BY AREA 
+PHYS-92; Multiple Choice: The radiator of a room contains 10 kilogram of water. If the water 
+gives off 50,000 calories of heat to the room, the drop in temperature of the water is: 
+w) 1 degree Celsius 
+x) 2 degrees Celsius 
+y) 5 degrees Celsius 
+z) 10 degrees Celsius 
+ANSWER: Y -- 5 DEGREES CELSIUS
+
+Science Bowl PHYSICS 
+Physics - 74 
+PHYS-92; Multiple Choice: In N-type semiconductors the majority of the carriers are: 
+w) holes 
+x) electrons 
+y) protons 
+z) neutrons 
+ANSWER: X -- ELECTRONS 
+PHYS-92; Multiple Choice: As a pendulum swings from its highest to its lowest point, it has the 
+SMALLEST acceleration when it is: 
+w) at its lowest point 
+x) at its highest point 
+y) at a point 1/3 the distance from the top of its swing 
+z) at a point 1/2 the distance from the top of its swing. 
+ANSWER: W -- AT ITS LOWEST POINT 
+PHYS-92; Multiple Choice: Two cars collide head-on. They stop at the point of collision. Both 
+cars must have one of the following. Do they have 
+w) equal masses 
+x) equal but opposite velocities before the collision 
+y) equal but opposite momenta before the collision 
+ANSWER: Y -- EQUAL BUT OPPOSITE MOMENTA BEFORE THE COLLISION 
+PHYS-92; Multiple Choice: When the speed of a train moving on a circular track is doubled, the 
+centripetal force acting on the train does one of the following. Does the force: 
+w) remain the same 
+x) increase by a factor of 2 
+y) increase by a factor of 4 
+z) increase by a factor of 8 
+ANSWER: Y -- INCREASE BY A FACTOR OF 4
+
+Science Bowl PHYSICS 
+Physics - 75 
+PHYS-92; Multiple Choice: It takes 500 watts to operate a machine whose power output is 480 
+watts. Which of the following is the efficiency of the machine? Is it 
+w) 20% 
+x) 48% 
+y) 96% 
+z) 98% 
+ANSWER: Y -- 96% 
+PHYS-92; Multiple Choice: Which of the following statements is TRUE about an ELASTIC 
+collision between two particles? Is it true that: 
+w) neither particle loses any of its kinetic energy 
+x) neither particle loses any of its momentum 
+y) the velocity gained by one particle is equal to that lost by the other 
+z) the total kinetic energy before and after the collision remains constant 
+ANSWER: Z -- THE TOTAL KINETIC ENERGY BEFORE AND AFTER THE 
+COLLISION RE 
+PHYS-92; Multiple Choice: Ten calories of heat are added to 2 grams of water. The 
+temperature of the water rises to a total of how many degrees? Is it: 
+w) 2 degrees Celsius 
+x) 5 degrees Celsius 
+y) 10 degrees Celsius 
+z) 20 degrees Celsius 
+ANSWER: X -- 5 DEGREES CELSIUS 
+PHYS-92; Multiple Choice: If water is warmed from 0 degrees Celsius to 6 degrees Celsius, 
+which of the following things happen. Will the water: 
+w) expand steadily 
+x) contract steadily 
+y) expand at first and then contract 
+z) contract first then expand 
+ANSWER: Z -- CONTRACT FIRST THEN EXPAND
+
+Science Bowl PHYSICS 
+Physics - 76 
+PHYS-92; Multiple Choice: A gas at 0 degrees C and at normal atmospheric pressure has a 
+volume of 273 cubic centimeters. If it is held at constant pressure until its volume is doubled, its 
+temperature will be which one of the following? Will it be 
+w) 2 degrees Celsius 
+x) 200 degrees Celsius 
+y) 273 degrees Celsius 
+z) 546 degrees Celsius 
+ANSWER: Y -- 273 DEGREES CELSIUS 
+PHYS-92; Multiple Choice: Infrared rays are absorbed best by which one of the following. Is it: 
+w) bodies of air 
+x) white bodies with rough surfaces 
+y) mirrors 
+z) black bodies with rough surfaces 
+ANSWER: Z -- BLACK BODIES WITH ROUGH SURFACES 
+PHYS-92; Multiple Choice: Energy stored in a body as thermal or internal energy consists of one 
+of the following. Does it consist of: 
+w) heat in the form of radiant energy 
+x) molecular kinetic energy only 
+y) molecular potential energy only 
+z) both kinetic and potential energy 
+ANSWER: Z -- BOTH KINETIC AND POTENTIAL ENERGY 
+PHYS-92; Multiple Choice: When white light passes through a red plate of glass and then 
+through a green plate of glass which one of the following things occur? 
+w) the light is totally absorbed 
+x) the light that emerges is a combination of red and green 
+y) the light that emerges lacks only its red and green components 
+z) the light that emerges is green 
+ANSWER: W -- THE LIGHT IS TOTALLY ABSORBED
+
+Science Bowl PHYSICS 
+Physics - 77 
+PHYS-92; Multiple Choice: By which one of the following can a real image be produced? Can it 
+be produced by a: 
+w) concave mirror 
+x) plane mirror 
+y) diverging lens 
+z) convex mirror 
+ANSWER: W -- CONCAVE MIRROR 
+PHYS-92; Multiple Choice: A metal ball on an insulated stand is touched by a positively charged 
+glass rod. What happens to the metal ball? Does it 
+w) gain protons and lose electrons 
+x) gain protons 
+y) gain more protons than electrons 
+z) lose electrons 
+ANSWER: Z -- LOSE ELECTRONS 
+PHYS-92; Multiple Choice: A zinc plate is attached to the knob of a negatively charged 
+electroscope. What will happen to the leaves of the electroscope when ultraviolet light is shown 
+on the zinc plate. Will the leaves: 
+w) collapse at once 
+x) gradually come together 
+y) gradually spread further apart 
+z) remain unaffected 
+ANSWER: X -- GRADUALLY COME TOGETHER 
+PHYS-92; Multiple Choice: A high voltage applied to a gas discharge tube containing neon gas 
+at very low pressure causes a current to flow through the tube. Which one of the following are 
+the particles that flow towards the cathode? Are they 
+w) electrons 
+x) protons 
+y) negatively charged neon ions 
+z) positively charged neon ions 
+ANSWER: Z -- POSITIVELY CHARGED NEON IONS
+
+Science Bowl PHYSICS 
+Physics - 78 
+PHYS-92; Multiple Choice: Which of the following phrases completes the following statement: 
+The strength of the electric field between two oppositely charged parallel plates is: 
+w) a maximum midway between the plates 
+x) a maximum near the positively charged plate 
+y) constant between the plates except near the edges 
+z) zero midway between the plates 
+ANSWER: Y -- CONSTANT BETWEEN THE PLATES EXCEPT NEAR THE 
+EDGES 
+PHYS-92; Multiple Choice: Which one of the following is the advantage of connecting two dry 
+cells in parallel instead of in series? Is it because the parallel arrangement: 
+w) gives twice the EMF of one dry cell 
+x) has no internal resistance 
+y) generates heat in an external circuit half as fast as would a single cell 
+z) has half the internal resistance of a single cell 
+ANSWER: Z -- HAS HALF THE INTERNAL RESISTANCE OF A SINGLE CELL 
+PHYS-92; Multiple Choice: Magnetic lines of force have all but one of the following 
+characteristics. The one that they DO NOT have is: 
+w) they go from the South-pole to the North-pole of a magnet outside of the magnet 
+x) they are most concentrated at the poles of a magnet 
+y) they pass through copper 
+z) they never cross one another 
+ANSWER: W -- THEY GO FROM THE SOUTH-POLE TO THE NORTH-POLE OF 
+THE M AGNET 
+PHYS-92; Multiple Choice: Which one of the following is the way in which a galvanometer is 
+converted into a voltmeter? Is it by connecting: 
+w) a high resistance coil in parallel with its moveable coil 
+x) a low resistance coil in parallel with its moveable coil 
+y) a high resistance coil in series with its moveable coil 
+z) a low resistance coil in series with its moveable coil 
+ANSWER: Y -- A HIGH RESISTANCE COIL IN SERIES WITH ITS MOVEABLE 
+COIL 
+
+Science Bowl PHYSICS 
+Physics - 79 
+PHYS-92; Multiple Choice: An electron and a proton are moving at the same speed in circular 
+paths in the same uniform magnetic field. The radius of the path of the proton is one of the 
+following. Is this radius: 
+w) the same as that of the electron 
+x) about 2000 times larger than that of the electron 
+y) a little larger than that of the electron 
+z) smaller than that of the electron 
+ANSWER: X -- ABOUT 2000 TIMES LARGER THAN THAT OF THE ELECTRON 
+PHYS-92; Multiple Choice: In the mass spectrograph, two positively charged ions having the 
+same velocity pass through a slit and enter a uniform magnetic field at right angles to their initial 
+velocities. The ions will NOT be separated if: 
+w) they have the same masses but different charges 
+x) they have the same charges but different masses 
+y) the products of their charges and their masses are equal 
+z) the ratios of their charges to their masses are equal 
+ANSWER: Z -- THE RATIOS OF THEIR CHARGES TO THEIR MASSES ARE 
+EQUAL 
+PHYS-92; Multiple Choice: A capacitor and a coil are connected in series. The capacitor is 
+charged and allowed to discharge through the coil. The current that will then flow through the 
+capacitor-coil combination will do one of the following things. Will it: 
+w) flow in one direction, beginning at a maximum and decreasing rapidly to zero 
+x) oscillate indefinitely 
+y) oscillate but diminish steadily to zero 
+z) oscillate at high frequency at first but then at slower frequency 
+ANSWER: Y -- OSCILLATE BUT DIMINISH STEADILY TO ZERO 
+PHYS-92; Multiple Choice: The energy associated with one photon of a light beam is 
+proportional to one of the following. Is it proportional to: 
+w) the intensity of the light source from which it came 
+x) the number of photons in the beam 
+y) the frequency of the photon 
+z) the speed of the photon 
+ANSWER: Y -- THE FREQUENCY OF THE PHOTON
+
+Science Bowl PHYSICS 
+Physics - 80 
+PHYS-92; Multiple Choice: When a certain beam of light falls upon a metal surface, it ejects 
+photoelectrons from it. The number of photoelectrons ejected per second by the beam of light 
+depends upon one of the following. Is it proportional to: 
+w) the threshold frequency of the metal 
+x) the work function of the metal 
+y) the frequency of the beam 
+z) the intensity of the beam 
+ANSWER: Z -- THE INTENSITY OF THE BEAM 
+PHYS-92; Multiple Choice: In Rutherford's experiment involving the deflection of alpha particles 
+by atomic nuclei, the fact that some of the alpha particles bombarding the thin gold foil were 
+back-scattered, led to one of the following conclusions. It was concluded that: 
+w) the charge of an electron is negative 
+x) the nucleus of a gold atom carries all its charge 
+y) most of the mass of a gold atom is in its nucleus 
+z) the nucleus of a gold atom occupies nearly the entire space of the atom 
+ANSWER: Y -- MOST OF THE MASS OF A GOLD ATOM IS IN ITS NUCLEUS 
+PHYS-92; Multiple Choice: Standing waves are formed when two sets of waves of equal 
+amplitude and frequency 
+w) are in phase 
+x) are in opposite phase 
+y) move through each other in opposite directions 
+z) are reflected from the same surface 
+ANSWER: Y -- MOVE THROUGH EACH OTHER IN OPPOSITE DIRECTIONS 
+PHYS-92; Multiple Choice: The common-emitter transistor circuit can amplify a small current 
+signal because a small change in the signal current produces one of the following. Does the 
+change in signal produce a large change in the: 
+w) emitter-base voltage 
+x) base current 
+y) collector current 
+z) collector voltage 
+ANSWER: Y -- COLLECTOR CURRENT
+
+Science Bowl PHYSICS 
+Physics - 81 
+PHYS-92; Multiple Choice: The binding energy of a nucleus is defined as one of the following. 
+Is this definition: 
+w) the energy equivalent to its mass 
+x) the mass difference between its neutrons and protons 
+y) the energy needed to remove a neutron from the nucleus 
+z) the difference between the mass of the nucleus and the sum of the masses of its protons 
+and neutrons 
+ANSWER: Z -- THE DIFFERENCE BETWEEN THE MASS OF THE NUCLEUS 
+AND THE UM 
+PHYS-92; Multiple Choice: In the equation of a nuclear reaction, all but one of the following 
+quantities are equal to each other on both sides of the equation. Which quantity is NOT 
+conserved: 
+w) the net electric charge 
+x) the total mass-energy 
+y) the number of protons 
+z) the number of nucleons 
+ANSWER: Y -- THE NUMBER OF PROTONS 
+PHYS-92; Multiple Choice: Which of the following terms refer to the amount of heat needed to 
+raise the temperature of a unit mass of a substance through one degree? 
+w) Heat of fusion 
+x) Liquification heat 
+y) Internal heat 
+z) Specific heat 
+ANSWER: Z -- SPECIFIC HEAT 
+PHYS-92; Multiple Choice: There is evidence that quarks come in how many flavors? Is it: 
+w) 1 
+x) 3 
+y) 5 
+z) 7 
+ANSWER: Y -- 5
+
+Science Bowl PHYSICS 
+Physics - 82 
+PHYS-92; Multiple Choice: To develop the correct mathematical description of the distribution of 
+radiated energy of a blackbody with respect to wavelength for a given temperature, Planck found 
+it necessary to assume that the molecular oscillators of the blackbody emitted and absorbed: 
+w) no radiant energy 
+x) radiant energy in discrete units or quanta 
+y) radiant energy in a continuous form 
+z) none of the above. 
+ANSWER: X -- RADIANT ENERGY IN DISCRETE UNITS OR QUANTA 
+PHYS-92; Short Answer: How many torr are there in one atmosphere? 
+ANSWER: 760 
+PHYS-92; Short Answer: A stone weighing 10 Newtons is sitting on the side of a hill that is at a 
+30o angle with the horizontal. What is the magnitude of the component of the stone's weight 
+parallel to the side of the hill. 
+ANSWER: 5 NEWTONS 
+PHYS-92; Multiple Choice: A curve in the road has a radius of 500 meters, and is banked at an 
+angle of O (read: "theta") for a traffic speed of 90 kilometers per hour, or 25 meters per second. 
+Is O: 
+w) Less than 2o 
+x) Between 2o and 5o 
+y) Between 5o and 10o 
+z) Greater than 10o 
+The tangent of 2o is 0.035, the tangent of 5o is 0.09 and the tangent of 10o is 0.18. 
+ANSWER: Y -- BETWEEN 5o AND 10o 
+PHYS-92; Short Answer: Laura weighs 50 Newtons and pushes against a stationary brick wall 
+that weighs 1,000 Newtons. Her arm is two-thirds of a meter long. According to the laws of 
+physics, how much work does she do? 
+ANSWER: NONE or ZERO
+
+Science Bowl PHYSICS 
+Physics - 83 
+PHYS-92; Short Answer: A 45 kilogram bicyclist on a 5 kilogram bicycle rides down a 50 meter 
+high hill with her brakes partially on. Her speed at the bottom of the hill is 10 meters per second. 
+How many kilojoules of heat were dissipated by the cyclist's brakes? 
+ANSWER: 22.5 KILOJOULES or 22.0 KILOJOULES (based on 9.8 m/s2) 
+PHYS-92; Multiple Choice: A two-stage rocket attains a velocity of 3,000 meters per second 
+when it drops the first stage and ignites the second. It consumes 1 kilogram of fuel per second 
+and its exhaust speed is 2,000 meters per second. What is the thrust on the spacecraft? 
+w) 2,000 Newtons 
+x) 3,000 Newtons 
+y) 2,000 Newton-seconds 
+z) 3,000 Newton-seconds 
+ANSWER: W -- 2,000 NEWTONS 
+PHYS-92; Multiple Choice: A round viewing window with a 20 centimeter diameter is installed in 
+a tank at the Shedd Aquarium. It is 5 meters below the water surface. The force on the window 
+is approximately: 
+w) 1,500 Newtons 
+x) 10,000 Newtons 
+y) 25,000 Newtons 
+z) 50,000 Newtons 
+ANSWER: W -- 1,500 NEWTONS 
+PHYS-92; Multiple Choice: The density of lead is 12 grams per cm3. A lead brick has a mass of 
+1.5 kilograms. Its dimensions are 10 cm by 5 cm by 4 cm. Is it: 
+w) More than 75% hollow 
+x) Between 50 and 75% hollow 
+y) Between 25 and 50% hollow 
+z) Between 0 and 25% hollow 
+ANSWER: Y -- BETWEEN 25 AND 50% HOLLOW
+
+Science Bowl PHYSICS 
+Physics - 84 
+PHYS-92; Multiple Choice: Ice skating is possible and practical because of a unique property of 
+water. Is it because: 
+w) The coefficient of kinetic friction of steel on frozen water decreases with decreasing 
+temperature 
+x) Ice readily sublimes 
+y) The melting point decreases with increasing pressure 
+z) Ice is a good thermal insulator 
+ANSWER: Y -- THE MELTING POINT DECREASES WITH INCREASING 
+PRESSURE 
+PHYS-92; Multiple Choice: 1 kilogram of boiling water is poured into an empty thermos whose 
+mass is 1 kilogram and whose temperature is 25o Celsius. No heat is lost from the thermos. The 
+specific heats of water and the thermos are 1 and 0.5 kilocalories per kilogram degree Celsius, 
+respectively. Their final temperature is: 
+w) 50o Celsius 
+x) 65o Celsius 
+y) 75o Celsius 
+z) 90o Celsius 
+(Read: "degrees Celsius") 
+ANSWER: Y -- 75o CELSIUS 
+PHYS-92; Multiple Choice: An aluminum rod at a temperature of 100o Celsius radiates energy at 
+a rate of 10 watts. If its temperature is increased to 200o Celsius, at approximately what rate will 
+it radiate energy? 
+w) 15 watts 
+x) 20 watts 
+y) 26 watts 
+z) 80 watts 
+ANSWER: Y -- 26 WATTS
+
+Science Bowl PHYSICS 
+Physics - 85 
+PHYS-92; Multiple Choice: The coating on the plastic tape you use in your cassette players is 
+w) diamagnetic 
+x) paramagnetic 
+y) ferromagnetic 
+z) a permanent magnet 
+ANSWER: Y -- FERROMAGNETIC 
+PHYS-92; Multiple Choice: Which color light has the highest frequency? 
+w) green 
+x) violet 
+y) red 
+z) yellow 
+ANSWER: X -- VIOLET 
+PHYS-92; Multiple Choice: Your Minolta camera has a 50 millimeter lens. The 50 millimeters is 
+the lens'
+w) diameter 
+x) focal length 
+y) magnification 
+z) aperture 
+ANSWER: X -- FOCAL LENGTH 
+PHYS-92; Multiple Choice: You want to put up a mirror at a blind corner in a building. Which 
+of the following will give you the largest field of view? Is it a: 
+w) convex mirror 
+x) concave mirror 
+y) cylindrical mirror 
+z) plane mirror 
+ANSWER: W -- CONVEX MIRROR
+
+Science Bowl PHYSICS 
+Physics - 86 
+PHYS-92; Multiple Choice: Dr. Leon Lederman and two other physicists won the Nobel prize 
+for discovering an elementary particle. That particle is the: 
+w) positron 
+x) meson 
+y) muon 
+z) neutrino 
+ANSWER: Z -- NEUTRINO 
+PHYS-92; Multiple Choice: Neutrinos are a subset of which of the following categories? 
+w) photons 
+x) leptons 
+y) mesons 
+z) baryons 
+ANSWER: X -- LEPTONS 
+PHYS-92; Multiple Choice: A flywheel rotating at 5 revolutions per second is brought to rest by 
+a constant torque in 10 seconds. How many revolutions does the flywheel make while coming to 
+a stop? 
+w) 25 
+x) 50 
+y) 75 
+z) 100 
+ANSWER: W -- 25 
+PHYS-92; Multiple Choice: A wooden board 2 meters long, 30 centimeters wide and 4 
+centimeters thick floats in water with 1 centimeter of its thickness above the surface. The mass of 
+the board is: 
+w) 1.8 kilograms 
+x) 18 kilograms 
+y) 24 kilograms 
+z) 176 kilograms 
+ANSWER: X -- 18 KILOGRAMS
+
+Science Bowl PHYSICS 
+Physics - 87 
+PHYS-92; Multiple Choice: The minimum number of forces with unequal magnitudes whose 
+vector sum can equal zero is: 
+w) 1 
+x) 2 
+y) 3 
+z) 4 
+ANSWER: Y -- 3 
+PHYS-92; Multiple Choice: A hiker stands at the bottom of steep hill. The hiker may follow a 
+straight line path to the top of the hill, a distance of 300 feet, or she may follow a zig-zag path to 
+the top of the hill and walk a distance of 600 feet. The work done by the force of gravity along 
+the zig-zag path is how many times the work going along the straight path? Is it: 
+w) equal 
+x) twice 
+y) 4 times 
+z) 8 times? 
+ANSWER: W -- EQUAL 
+PHYS-92; Multiple Choice: A pendulum is displaced through an arc of 1o. When the pendulum 
+is released, it takes the pendulum 1 second to swing through the 1o arc. How long would it take 
+the pendulum to swing through a 2o arc? Is it: 
+w) 1/2 second 
+x) 1 second 
+y) 2 seconds 
+z) 4 seconds 
+ANSWER: X -- 1 SECOND 
+PHYS-92; Multiple Choice: A perfectly spherical bubble of air is suspended in a tank of water. A 
+beam of light consisting of parallel rays passes through the bubble. As the light emerges from the 
+opposite side of the bubble the light rays: 
+w) diverge 
+x) converge 
+y) are unaffected 
+ANSWER: W -- DIVERGE
+
+Science Bowl PHYSICS 
+Physics - 88 
+PHYS-92; Multiple Choice: An explorer is riding his camel in the desert. Up ahead he sees what 
+appears to be a pool of water. He can tell if it is a real pool of water or a mirage by putting on his 
+polarized sun glasses because: 
+w) the mirage is polarized and reflections from the water are not 
+x) reflections from water are polarized while the mirage is not 
+y) neither are polarized so one will not be able to discern a difference 
+z) both are polarized so one will not be able to discern a difference 
+ANSWER: X -- REFLECTIONS FROM WATER ARE POLARIZED WHILE THE 
+MIRAGE S NOT 
+PHYS-92; Short Answer: What name is given to the class of subatomic particles which include 
+the proton, the neutron, and several heavier particles, such as the lambda, the sigma and the 
+omega.
+ANSWER: BARYONS 
+PHYS-92; Multiple Choice: What is the SI unit for pressure? 
+w) Torr 
+x) pounds per square inch 
+y) Pascal 
+z) Kelvin 
+ANSWER: Y -- PASCAL 
+PHYS-92; Multiple Choice: A virtual image always appears: 
+w) larger than object 
+x) inverted 
+y) erect 
+z) same size as object 
+ANSWER: Y -- ERECT 
+PHYS-92; Short Answer: How many quarks make up a proton? 
+ANSWER: 3
+
+Science Bowl PHYSICS 
+Physics - 89 
+PHYS-92; Multiple Choice: A 50 kilogram ice skater glides across the ice in a straight line at 7 
+meters per second. If she bends down and scoops up a 20 kilogram child standing on the ice, 
+what will be the final speed of the skater and the child? 
+w) 1 meter per second 
+x) 3 meters per second 
+y) 5 meters per second 
+z) 7 meters per second 
+ANSWER: Y -- 5 METERS PER SECOND 
+PHYS-92; Multiple Choice: What is the wavelength of red light emitted by a helium-neon laser? 
+w) 122 nanometers 
+x) 633 nanometers 
+y) 2.43 picometers 
+z) 1.37 micrometers 
+ANSWER: X -- 633 NANOMETERS (actually 632.8 nm) 
+PHYS-92; Short Answer: Name the German theoretical physicist who was awarded the Nobel 
+prize for his principle of radiation which states that radiant energy is composed of tiny bits of 
+energy called quanta, the magnitude of which can be calculated by multiplying the frequency of 
+the radiation times a universal constant? 
+ANSWER: (MAX) PLANCK 
+PHYS-92; Short Answer: The law or principle which states that a body in a state of rest or 
+motion at constant velocity will remain in that state is known as? 
+ANSWER: NEWTON'S FIRST LAW or THE LAW OF INERTIA 
+PHYS-92; Short Answer: An ice skater is spinning like a top on a frozen lake. She raises her 
+arms from their initial horizontal position to a vertical position over her head. The skater will 
+experience an increase in angular velocity due to what physical law? 
+ANSWER: LAW OF CONSERVATION OF ANGULAR MOMENTUM 
+PHYS-92; Short Answer: As an individual fires a shotgun, a recoil will be experienced. Which of 
+Newton's laws would best describe this phenomena? 
+ANSWER: NEWTON'S THIRD LAW
+
+Science Bowl PHYSICS 
+Physics - 90 
+PHYS-92; Short Answer: A nuclear reaction in which small nuclei combine to produce a larger 
+nucleus is known as: 
+ANSWER: FUSION or NUCLEAR FUSION 
+PHYS-92; Short Answer: Two atoms of the same element will have the same number of protons. 
+If they have a different number of neutrons, what are they called? 
+ANSWER: ISOTOPES 
+PHYS-92; Multiple Choice: Consider a car driving around a circular bend in the road. Which of 
+the following CANNOT be constant? 
+w) velocity of car 
+x) speed of car 
+y) nonrelativistic mass of car 
+z) angular momentum of the car about the center of the circle 
+ANSWER: W -- VELOCITY OF CAR 
+PHYS-92; Multiple Choice: A firecracker is placed in the middle of a cluster of stationary billiard 
+balls. The firecracker-billiard ball system sits on a frictionless surface. As the firecracker 
+explodes, the balls scatter. What is the momentum of the SYSTEM after the explosion of the 
+firecracker? 
+w) greater than the momentum of the system before the explosion 
+x) equal to the combined speed of the balls 
+y) equal to the mass of the balls 
+z) zero 
+ANSWER: Z -- ZERO 
+PHYS-92; Multiple Choice: The equation, X = A cos(wt + f) (read: X equals A times the 
+cosine of omega t + phi (fee)), can represent an expression for: 
+w) accelerating due to gravity 
+x) uniform straight line motion 
+y) dc current 
+z) a simple harmonic oscillator 
+ANSWER: Z -- A SIMPLE HARMONIC OSCILLATOR
+
+Science Bowl PHYSICS 
+Physics - 91 
+PHYS-92; Multiple Choice: For a point charge to feel a net force in a homogeneous magnetic 
+field, which one of the following statements is true? The charge must: 
+w) move parallel to the magnetic lines of flux 
+x) have a component of its motion perpendicular to the lines of flux 
+y) be stationary 
+z) be a positive charge 
+ANSWER: X -- HAVE A COMPONENT OF ITS MOTION PERPENDICULAR TO 
+THE LINES OF FLUX 
+PHYS-92; Multiple Choice: According to Gauss' Law, the magnitude of the electric field is zero 
+everywhere inside a conductor if: 
+w) electrostatic equilibrium is achieved 
+x) the surface is a metal 
+y) the conductor is moving 
+z) the conductor is a non-Gaussian surface 
+ANSWER: W -- ELECTROSTATIC EQUILIBRIUM IS ACHIEVED 
+PHYS-92; Short Answer: An air dielectric is replaced with a glass dielectric inside a capacitor of 
+fixed dimensions. Relatively speaking, what will happen to the quantity of charge the capacitor 
+can hold after the glass is inserted? 
+ANSWER: IT IS INCREASED WITH THE GLASS DIELECTRIC. 
+PHYS-92; Short Answer: In a simple dc circuit, voltage equals resistance multiplied by current. 
+This is also considered true in an AC circuit if the what values of the current and voltage are used. 
+ANSWER: ROOT MEAN SQUARE (RMS) VALUES 
+PHYS-92; Multiple Choice: Gauss' law of electricity, Gauss' law of magnetism, Faraday's law of 
+induction, and Amperes' law form the basic equations of electromagnetism. This combination is 
+collectively known as: 
+w) Coulomb's equations 
+x) Volta's equations 
+y) Fermi's equations 
+z) Maxwell's equations 
+ANSWER: Z -- MAXWELL'S EQUATIONS
+
+Science Bowl PHYSICS 
+Physics - 92 
+PHYS-92; Multiple Choice: The index of refraction can be considered: 
+w) a ratio of material thickness between substances 
+x) a ratio of velocities of light in different materials 
+y) a ratio of mass between materials 
+z) to have the units of photons 
+ANSWER: X -- A RATIO OF VELOCITIES OF LIGHT OF DIFFERENT 
+MATERIALS 
+PHYS-92; Short Answer: In an ideal case, if a point source of light is placed at the focal point in 
+front of a concave reflector, where will the image form? 
+ANSWER: WILL NOT FORM or FORMS AT INFINITY 
+PHYS-92; Multiple Choice: You are sitting in a frictionless barber chair. The barber decides to 
+have some fun with you, so he spins the chair. As you spin, you find that you can slow down by 
+extending your arms and legs. You have: 
+w) decreased your angular momentum 
+x) increased your angular momentum 
+y) increased your moment of inertia 
+z) changed the direction of the momentum vector 
+ANSWER: Y --INCREASED YOUR MOMENT OF INERTIA 
+PHYS-92; Short Answer: A 10 kg mass initially sitting on the ground is placed on a ledge 3 
+meters above ground level. What is the increase in potential energy of the mass? 
+ANSWER: 294 JOULES (accept 300 JOULES, ASSUMES g=10m/sec2) 
+PHYS-92; Multiple Choice: A person sees a lightning bolt in the distance and tries to guess the 
+distance to the bolt based on the time between the flash and the thunder. What general time span 
+should she use? 
+w) 1 second equals 1 mile 
+x) 5 seconds equal 1 mile 
+y) 10 seconds equal 1 mile 
+z) 20 seconds equal 1 mile 
+ANSWER: X -- 5 SECONDS EQUAL 1 MILE
+
+Science Bowl PHYSICS 
+Physics - 93 
+PHYS-92; Multiple Choice: A piano tuner notices a standing Lissajous (pron: Liss-a-jew) curve 
+on his oscilloscope. The tone being projected is: 
+w) out of harmony 
+x) sharp 
+y) resonating 
+z) flat 
+ANSWER: Y -- RESONATING 
+PHYS-92; Multiple Choice: Photons and gravitons are names associated with a category of 
+particles called: 
+w) mesons 
+x) bosons 
+y) leptons 
+z) baryons 
+ANSWER: X --BOSONS 
+PHYS-92; Short Answer: An electron is moved through a potential difference of 1 volt. How 
+much energy in joules was used to move the electron? 
+ANSWER: 1.6 x 10-19 JOULES 
+PHYS-92; Short Answer: Who said this about alpha particles and the reflection of these particles 
+from thin foils? "It was about as credible as if you fired a 15-inch shell at a piece of tissue paper 
+and it came back at you." 
+ANSWER: RUTHERFORD 
+PHYS-92; Short Answer: A string of length L is fixed between two points. If a standing wave of 
+5 nodes is produced, what is the relationship between the string's length, L, and its wavelength? 
+ANSWER: WAVELENGTH = 1/2 L 
+PHYS-92; Short Answer: A freight car weighing 20 tons and moving at a speed of 7 miles per 
+hour on a horizontal track collides and couples with a stationary car that weighs 15 tons. 
+Neglecting friction, determine the velocity of the coupled cars. 
+ANSWER: 4 MILES PER HOUR
+
+Science Bowl PHYSICS 
+Physics - 94 
+PHYS-92; Multiple Choice: The Grand Unified Theory of the forces of nature combines three of 
+the four forces. Which force is NOT included? 
+w) gravitational 
+x) electromagnetic 
+y) weak nuclear 
+z) strong nuclear 
+ANSWER: W -- GRAVITATIONAL 
+PHYS-92; Short Answer: A person who is nearsighted will need what type of lenses in his 
+glasses in order to see correctly? 
+ANSWER: DIVERGING or CONCAVE LENSES 
+PHYS-92; Short Answer: If a car is traveling at 20 meters per second in a straight line, how 
+many seconds will it take the car to stop if it decelerates at 5 meters per second squared? 
+ANSWER: 4 SECONDS 
+PHYS-92; Multiple Choice: Which of the following men was involved with the first controlled 
+nuclear reaction? 
+w) Linus Pauling 
+x) Nelson Sartoris 
+y) Edward Teller 
+z) Enrico Fermi 
+ANSWER: Z -- ENRICO FERMI 
+PHYS-92; Multiple Choice: If the half-life of a radioisotope is 2 days, after how many days is the 
+quantity reduced to 12.5% of its original amount? 
+w) 4 days 
+x) 6 days 
+y) 8 days 
+z) 10 days 
+ANSWER: X -- 6 DAYS 
+PHYS-92; Short Answer: What term which begins with the letter "A" is used to describe the 
+reduction in intensity of radiation as it passes through matter? 
+ANSWER: ATTENUATION
+
+Science Bowl PHYSICS 
+Physics - 95 
+PHYS-92; Short Answer: What name is given to the visible light emitted when charged particles 
+pass through a transparent medium with a velocity exceeding the velocity of light in the medium? 
+ANSWER: CERENKOV RADIATION 
+PHYS-92; Short Answer: What element was first discovered in the spectrum of the sun before it 
+was discovered on earth? 
+ANSWER: HELIUM 
+PHYS-92; Short Answer: A gluon is the carrier of which force of nature? 
+ANSWER: STRONG FORCE or STRONG NUCLEAR FORCE. 
+PHYS-92; Multiple Choice: Close inspection of a failed metal part reveals artifacts on the fracture 
+surface commonly referred to as "striations" or "beach marks". This indicates the component 
+failed as a result of: 
+w) Sudden overloading 
+x) Cyclical loading 
+y) Stress corrosion cracking 
+z) None of the above 
+ANSWER: X -- CYCLICAL LOADING 
+PHYS-92; Short Answer: How many neutrons are present in the nucleus of an element with an 
+atomic weight of 119 and an atomic number of 50? 
+ANSWER: 69 
+PHYS-92; Short Answer: Zero degrees Kelvin is equal to what temperature on the Celsius scale? 
+ANSWER: - 273 DEGREES CELSIUS or -273.15 DEGREES CELSIUS 
+PHYS-92; Short Answer: Dirac theoretically predicted the existence of the positron. Who 
+experimentally identified positrons in 1932 in cloud chamber pictures of cosmic ray particle 
+tracks? 
+ANSWER: (C. D.) ANDERSON
+
+Science Bowl PHYSICS 
+Physics - 96 
+PHYS-92; Short Answer: These two chemical elements, named after two world-renowned 
+scientists, were first formed in a thermonuclear explosion which occurred in the South Pacific in 
+1952. The atomic numbers of these elements are 99 and 100. Their chemical symbols are Es and 
+Fm. Name these elements. 
+ANSWER: EINSTEINIUM AND FERMIUM 
+PHYS-92; Multiple Choice: The dark lines constituting the absorption spectrum exhibited by 
+sunlight are frequently called: 
+w) Fresnel lines 
+x) Fraunhofer lines 
+y) Fermi lines 
+z) Franklin lines 
+ANSWER: X -- FRAUNHOFER LINES 
+PHYS-92; Multiple Choice: The temperature of a gas measures the: 
+w) number of calories of heat present 
+x) average kinetic energy of the particles in the gas 
+y) exact number of particles in the gas 
+z) potential energy of the gas 
+ANSWER: X -- AVERAGE KINETIC ENERGY OF THE PARTICLES IN THE GAS 
+PHYS-92; Multiple Choice: If two atoms exert equal attractions for electrons, they can form: 
+w) a nonpolar covalent bond 
+x) an ionic bond 
+y) a polar covalent bond 
+z) no bond 
+ANSWER: W -- A NONPOLAR COVALENT BOND 
+PHYS-92; Multiple Choice: An element has the following numbers of electrons in its shells: 
+2-8-8-2. Which of the following is true? The element: 
+w) is a nonmetal 
+x) forms an ion with a charge of +2 
+y) can accept two electrons 
+z) forms a negative ion 
+ANSWER: X -- FORMS AN ION WITH A CHARGE OF +2
+
+Science Bowl PHYSICS 
+Physics - 97 
+PHYS-92; Multiple Choice: A characteristic of the noble gases is that they all: 
+w) have eight electrons in the outer shell 
+x) have low stability 
+y) form many compounds 
+z) have filled outer electron shells 
+ANSWER: Z -- HAVE FILLED OUTER ELECTRON SHELLS 
+PHYS-92; Multiple Choice: A reduction reaction always involves the: 
+w) loss of electrons 
+x) gain of electrons 
+y) addition of oxygen 
+z) removal of oxygen 
+ANSWER: X -- GAIN OF ELECTRONS 
+PHYS-92; Multiple Choice: The photoelectric effect is a demonstration of: 
+w) the wave nature of light 
+x) the particle nature of light 
+y) Compton scattering 
+z) the continuous spectrum of radiation 
+ANSWER: X -- THE PARTICLE NATURE OF LIGHT 
+PHYS-92; Multiple Choice: When a solid material is heated, it always: 
+w) emits a discrete radiation spectrum 
+x) glows red 
+y) emits a continuous radiation spectrum 
+z) emits only visible radiation 
+ANSWER: Y -- EMITS A CONTINUOUS RADIATION SPECTRUM 
+PHYS-92; Multiple Choice: An electron is classified as a: 
+w) boson 
+x) nucleon 
+y) fermion 
+z) meson 
+ANSWER: Y -- FERMION
+
+Science Bowl PHYSICS 
+Physics - 98 
+PHYS-92; Multiple Choice: Laser radiation is: 
+w) monochromatic 
+x) directed in a narrow beam 
+y) produced with large power densities 
+z) all of the above 
+ANSWER: Z -- ALL OF THE ABOVE 
+PHYS-92; Multiple Choice: Which of the following implies the greatest precision? 
+w) 1.02 x 105 
+x) 102 x 103 
+y) 0.102 x 106 
+z) 1.020 x 105 
+ANSWER: Z -- 1.020 x 105 
+PHYS-92; Multiple Choice: Which of the following is NOT one of the fundamental quantities in 
+physics?
+w) time 
+x) length 
+y) weight 
+z) mass 
+ANSWER: Y -- WEIGHT 
+PHYS-92; Multiple Choice: A sphere which has half the radius but twice the density of another 
+sphere has: 
+w) more mass 
+x) less mass 
+y) the same mass 
+z) the same weight 
+ANSWER: X -- LESS MASS
+
+Science Bowl PHYSICS 
+Physics - 99 
+PHYS-92; Multiple Choice: What process produces most of the energy that is radiated by the 
+Sun? 
+w) gravitational contraction 
+x) chemical combustion 
+y) nuclear fusion 
+z) nuclear fission 
+ANSWER: Y -- NUCLEAR FUSION 
+PHYS-92; Multiple Choice: What is the hydrostatic pressure at the bottom of a pool 6 meters 
+deep? 
+w) 60,000 Newtons per meter squared 
+x) 6,000 Newtons per meter squared 
+y) 600 Newtons per meter squared 
+z) 60 Newtons per meter squared 
+ANSWER: W -- 60,000 NEWTONS PER METER SQUARED 
+PHYS-92; Multiple Choice: What is a typical wavelength of an AM radio wave? 
+w) 3000 meters 
+x) 300 meters 
+y) 30 meters 
+z) 3 meters 
+ANSWER: X -- 300 METERS 
+PHYS-92; Multiple Choice: A ball is thrown upwards with an initial velocity of 5 meters per 
+second. How many seconds will it take to reach maximum height? 
+w) 0.5 seconds 
+x) 1 second 
+y) 1.5 seconds 
+z) 2 seconds 
+ANSWER: W -- 0.5 SECONDS
+
+Science Bowl PHYSICS 
+Physics - 100 
+PHYS-92; Multiple Choice: Albert Einstein received the Nobel prize in physics for his work on: 
+w) gravitation 
+x) relativity 
+y) photoelectric effect 
+z) Brownian motion 
+ANSWER: Y -- PHOTOELECTRIC EFFECT 
+PHYS-92; Multiple Choice: A typical microwave oven produces microwave radiation with a 
+wavelength of: 
+w) 3 meters 
+x) 3 x 10-2 meters (read: 3 times 10 to the minus 2 meters) 
+y) 3 x 10 -6 meters (read: 3 times 10 to the minus 6 meters) 
+z) 3 x 10-9 meters (read: 3 times 10 to the minus 9 meters) 
+ANSWER: X -- 3 x 10-2 METERS 
+PHYS-92; Multiple Choice: An ELECTRON moving horizontally along the +x axis enters a 
+region of space with a horizontal uniform magnetic field pointing in the +y direction. The 
+electron will be deflected: 
+w) -y direction 
+x) +y direction 
+y) -z direction 
+z) +z direction 
+ANSWER: Y -- -Z DIRECTION 
+PHYS-92; Multiple Choice: Entropy is a measure of: 
+w) magnetization 
+x) disorder 
+y) temperature 
+z) heat 
+ANSWER: X -- DISORDER
+
+Science Bowl PHYSICS 
+Physics - 101 
+PHYS-92; Multiple Choice: The magnetic field produced by a long straight wire carrying a 
+current points: 
+w) in the direction of the current 
+x) toward the wire 
+y) away from the wire 
+z) circles around the wire 
+ANSWER: Z -- CIRCLES AROUND THE WIRE 
+PHYS-92; Multiple Choice: What is the molecular mass of a gas that effuses through a small hole 
+at twice the rate as oxygen gas at the same temperature. (The molecular mass of O2 is 32.) 
+w) 8.0 atomic mass units 
+x) 16 atomic mass units 
+y) 48 atomic mass units 
+z) 64 atomic mass units 
+ANSWER: W -- 8.0 ATOMIC MASS UNITS 
+PHYS-92; Multiple Choice: Liquid "X" is at equilibrium with its vapor in a cylinder and piston 
+apparatus. When the volume of the space above the liquid is 50 ml and the temperature 25!, the 
+vapor pressure of "X" is 120 torr. What will the vapor pressure of "X" be when the volume 
+above the liquid is 100 ml and the temperature 25!C? Some liquid is always present. 
+w) 30 torr 
+x) 60 torr 
+y) 120 torr 
+z) 240 torr 
+ANSWER: Y -- 120 TORR 
+PHYS-92; Short Answer: A bird weighing 2 pounds is inside a completely enclosed box 
+weighing 3 pounds. There is no air exchange between the inside and outside of the box. If the 
+box is placed on a scale, and the bird is flying inside the box, what weight does the scale read? 
+ANSWER: 5 POUNDS
+
+Science Bowl PHYSICS 
+Physics - 102 
+PHYS-92; Multiple Choice: Mickey is fishing from his row boat at his favorite spot in the lake. 
+He has a large rock in the bottom of the boat for stability and ballast. Mickey decides to call it 
+quits. To lighten his load, he tosses the rock overboard before rowing to shore. Does the water 
+level of the lake: 
+w) go up 
+x) go down 
+y) remain the same 
+ANSWER: X -- GO DOWN 
+PHYS-92; Multiple Choice: An electrical discharge ionizing the air around a conductor is called: 
+w) Flux 
+x) Corona 
+y) Ozone 
+z) Field 
+ANSWER: X -- CORONA 
+PHYS-92; Multiple Choice: The speed of sound (at sea level) in air is: 
+w) 340 meters per second 
+x) 400 meters per second 
+y) 500 meters per second 
+z) 760 kilometers per second 
+ANSWER: W -- 340 METERS PER SECOND 
+PHYS-92; Multiple Choice: How many molecules are present in 2.5 liters of gas at STP? 
+w) 5.6 x 1024 molecules 
+x) 1.5 x 1024 molecules 
+y) 6.0 x 1023 molecules 
+z) 6.7 x 1022 molecules 
+ANSWER: Z -- 6.7 X 1022 MOLECULES 
+PHYS-92; Multiple Choice: If 64Cu emits a beta particle, what would the product be? 
+w) 63Cu 
+x) 64Cu+1 
+y) 64Cu-1 
+z) 64Zn 
+ANSWER: Z -- 64Zn
+
+Science Bowl PHYSICS 
+Physics - 103 
+PHYS-92; Multiple Choice: Magnifying glasses are useful, because they create an enlarged: 
+w) virtual image behind the actual object. 
+x) real image behind the actual object. 
+y) virtual image in front of the actual object. 
+z) real image in front of the actual object. 
+ANSWER: W -- VIRTUAL IMAGE BEHIND THE ACTUAL OBJECT. 
+PHYS-92; Multiple Choice: Which pot of water will boil LAST when all are heated by the same 
+source?
+w) aluminum pot 
+x) iron pot 
+y) brass pot 
+z) titanium pot 
+ANSWER: Z -- TITANIUM POT 
+PHYS-92; Multiple Choice: How many atoms per unit cell are in a face-centered-cubic crystal? 
+w) two 
+x) four 
+y) six 
+z) eight 
+ANSWER: X -- FOUR 
+PHYS-92; Multiple Choice: Refractory metals are known for which of the following properties: 
+w) lack of chemical reactivity 
+x) low density 
+y) high melting point 
+z) high thermal conductivity 
+ANSWER: Y -- HIGH MELTING POINT
+
+Science Bowl PHYSICS 
+Physics - 104 
+PHYS-92; Multiple Choice: A small hole in a sheet of aluminum foil is used to diffract yellow 
+light both under water and in a vacuum. Which is true? 
+w) light diffracts less in the water because its wavelength is larger. 
+x) light diffracts less in the water because its wavelength is smaller. 
+y) light diffracts more in the water because its wavelength is larger. 
+z) light diffracts more in the water because its wavelength is smaller. 
+ANSWER: X -- LIGHT DIFFRACTS LESS IN THE WATER BECAUSE ITS 
+WAVELENGTH IS SMALLER 
+PHYS-92; Multiple Choice: A 20 ohm resistor and a 60 ohm resistor are connected in parallel to 
+a voltage source. If the current in the 60 ohm resistor is one ampere, the current in the 20 ohm 
+resistor will be: 
+w) 1/3 ampere 
+x) 2/3 ampere 
+y) 1 ampere 
+z) 3 amperes 
+ANSWER: Z -- 3 AMPERES 
+PHYS-92; Multiple Choice: An LED is operated on a 12 volt automobile circuit. The voltage 
+drop across the LED is 2 volts and the current must be limited to 50 milliamps to prevent its 
+overheating and destruction. What size resistor must be used? 
+w) 60 ohms 
+x) 100 ohms 
+y) 120 ohms 
+z) 200 ohms 
+ANSWER: Z -- 200 OHMS 
+PHYS-92; Multiple Choice: Which is NOT a characteristic of a series circuit? 
+w) The current is the same throughout. 
+x) The total resistance is the sum of the individual resistance. 
+y) The voltage of the source equals the sum of the circuit's individual voltage drops. 
+z) The total resistance is the sum of the reciprocals of the individual resistances. 
+ANSWER: Z -- THE TOTAL RESISTANCE IS THE SUM OF THE RECIPROCALS 
+OF THE RECIPROCAL OF THE INDIVIDUAL RESISTANCES.
+
+Science Bowl PHYSICS 
+Physics - 105 
+PHYS-92; Multiple Choice: If the distance between the centers of mass of two bodies is doubled, 
+the gravitational force between the bodies will become what portion of the original force: 
+w) double 
+x) one half 
+y) remain the same 
+z) one quarter 
+ANSWER: Z -- ONE QUARTER 
+PHYS-92; Multiple Choice: The Doppler Effect predicts that the spectrum of light from a visible 
+body moving AWAY from the Earth will experience a shift in frequency when viewed from Earth. 
+This particular shift is known as the: 
+w) Blue shift 
+x) Neutral shift 
+y) Red shift 
+z) Dirac shift 
+ANSWER: Y -- RED SHIFT 
+PHYS-92; Short Answer: On a weather map, the lines that depict equal pressure are called what? 
+ANSWER: ISOBARS 
+PHYS-92; Multiple Choice: A far-sighted person, without optical correction, is typically able to 
+see nearby objects more clearly in bright light. The reason for this phenomena is: 
+w) bright light provides better illumination. 
+x) the pupil of the eye narrows which increases the depth of focus. 
+y) the pupil of the eye widens which increases the depth of focus. 
+z) the bright light causes squinting which flattens the eyeball which tends to correct the 
+far-sighted condition. 
+ANSWER: X -- THE PUPIL OF THE EYE NARROWS WHICH INCREASES THE 
+DEPTH OF FOCUS
+
+Science Bowl PHYSICS 
+Physics - 106 
+PHYS-92; Multiple Choice: The first reflecting telescope was built by: 
+w) Galileo 
+x) Copernicus 
+y) Tycho Brahe 
+z) Isaac Newton 
+ANSWER: Z -- ISAAC NEWTON 
+PHYS-92; Multiple Choice: Ten Coulombs of charge flowing through a wire per second is equal 
+to: 
+w) 100 Amperes 
+x) 10 Ampere 
+y) 1 Amperes 
+z) 0.1 Amperes 
+ANSWER: X -- 10 AMPERES 
+PHYS-92; Multiple Choice: Magnetic fields are produced by: 
+w) resistance 
+x) an electric potential difference 
+y) electric current 
+z) stationary charge 
+ANSWER: Y -- CURRENT 
+PHYS-92; Multiple Choice: A 10 ohm and a 20 ohm resistor are connected in parallel to a 
+current source. What fraction of the current flows through the 20 ohm resistor? 
+w) 1/2 
+x) 1/3 
+y) 2/3 
+z) 3/4 
+ANSWER: X -- 1/3
+
+Science Bowl PHYSICS 
+Physics - 107 
+PHYS-92; Multiple Choice: One barrel of oil has about the same heat content as how much coal: 
+w) 70 pounds 
+x) 700 pounds 
+y) 1,400 pounds 
+z) 2,800 pounds 
+ANSWER: X -- 700 POUNDS 
+PHYS-92; Multiple Choice: Two identical resistors are connected in parallel and consume 200 
+watts together. A third identical resistor is added in parallel. The total power consumed is: 
+w) 100 watts 
+x) 200 watts 
+y) 300 watts 
+z) 400 watts 
+ANSWER: Y -- 300 WATTS 
+PHYS-92; Multiple Choice: The length of both sides of a square parallel plate capacitor are 
+doubled. The capacitance is: 
+w) halved 
+x) the same 
+y) doubled 
+z) quadrupled 
+ANSWER: Z -- QUADRUPLED 
+PHYS-92; Multiple Choice: A series circuit consists of a two ohm RESISTOR and a one ohm 
+INDUCTOR. The relationship between current and voltage is: 
+w) current will lag by 30 degrees. 
+x) current will lag by 26 degrees. 
+y) current will lead by 26 degrees. 
+z) current will lead by 30 degrees. 
+ANSWER: X -- CURRENT WILL LAG BY 26 DEGREES.
+
+Science Bowl PHYSICS 
+Physics - 108 
+PHYS-92; Multiple Choice: A transformer has a turns ratio of two to one. If a 100 ohm resistor 
+is connected on the high side, its resistance as measured on the low side would be: 
+w) 25 ohms 
+x) 50 ohms 
+y) 100 ohms 
+z) 400 ohms 
+ANSWER: W -- 25 OHMS 
+PHYS-92; Short Answer: The doorbell on your house requires a 12 volt alternating current. A 
+transformer having a primary winding of 1,600 turns is to be used to step down your house's 
+110-volt alternating current. How many turns are there on the secondary winding? 
+ANSWER: 175 TURNS 
+PHYS-92; Multiple Choice: What is the impedance of a one microfarad capacitor at 60 Hertz: 
+w) 16,700 ohms 
+x) 2,650 ohms 
+y) 3.8x10-4 ohms 
+z) 6x10-5 ohms 
+ANSWER: X -- 2,650 OHMS 
+PHYS-92; Multiple Choice: Which of the following instruments should never have their test leads 
+connected directly to a wall outlet: 
+w) ammeter 
+x) voltmeter 
+y) oscilloscope 
+z) frequency counter 
+ANSWER: W -- AMMETER 
+PHYS-92; Multiple Choice: The speed of light through a single-mode optical fiber is 
+approximately: 
+w) c (equal to 3 x 108 m/s) 
+x) 70 percent of c 
+y) 80 percent of c 
+z) 90 percent of c 
+ANSWER: X -- 70 PERCENT OF c
+
+Science Bowl PHYSICS 
+Physics - 109 
+PHYS-92; Multiple Choice: The father of the atomic bomb is: 
+w) Einstein 
+x) Oppenheimer 
+y) Faraday 
+z) Strangelove 
+ANSWER: X -- OPPENHEIMER 
+PHYS-92; Multiple Choice: At what point is the temperature the same on the Celsius and 
+Fahrenheit scales? 
+w) Absolute zero 
+x) Zero 
+y) Negative 40 degrees 
+z) Never 
+ANSWER: Y -- NEGATIVE 40 DEGREES 
+PHYS-92; Multiple Choice: What does the letter "s" stand for in the acronym laser? 
+w) scientific 
+x) simulated 
+y) stimulated 
+z) solar 
+ANSWER: Y -- STIMULATED (LIGHT AMPLIFICATION BY STIMULATED 
+MISSI) 
+PHYS-92; Multiple Choice: What is the DeBroglie wavelength of a 1,200 kilogram corvette 
+traveling at a rate of 25 meters per second? Planck's constant is equal to 6.62 x 10-34 
+Joule-seconds. 
+w) 5.3 x 10-32 meters 
+x) 5.9 x 10-34 meters 
+y) 2.1 x 10-38 meters 
+z) 1.6 x 10-40 meters 
+ANSWER: Y -- 2.1 x 10-38 METERS
+
+Science Bowl PHYSICS 
+Physics - 110 
+PHYS-92; Multiple Choice: What property of a metal describes the onset of plastic deformation 
+in a tensile test? 
+w) tensile strength 
+x) elongation 
+y) yield strength 
+z) reduction in area 
+ANSWER: Y -- YIELD STRENGTH 
+PHYS-92; Multiple Choice: It is a very hot day. You are in a special kitchen, in that there are no 
+exits and the walls of this kitchen are thermally very well insulated. If you open the refrigerator 
+door, the room will eventually: 
+w) cool off. 
+x) remain the same. 
+y) heat up. 
+ANSWER: Y -- HEAT UP. 
+PHYS-92; Multiple Choice: Consider two water drops at a temperature T. These drops are 
+NOT allowed to exchange energy with their environment. These two drops collide and combine. 
+How does the temperature of these drops change when they combine? Does it: 
+w) decrease 
+x) remain the same 
+y) increase 
+ANSWER: Y -- INCREASE 
+PHYS-92; Short Answer: A model airplane flies over the ocean in level flight at an altitude of 
+19.6 meters. How long does it take a bomb, dropped from under the wing, to impact the water? 
+ANSWER: 2 SECONDS 
+PHYS-92; Multiple Choice: A space ship traveling toward Mars at 0.6 times the speed of light c 
+shoots an ELECTRON beam at Mars. If the electrons travel at 0.6 c RELATIVE TO THE 
+SPACE SHIP, at what speed do the electrons impact the surface of Mars? 
+w) 0.6 c 
+x) 0.88 c 
+y) 1.2 c 
+z) 1.34 c 
+ANSWER: X -- 0.88 c
+
+Science Bowl PHYSICS 
+Physics - 111 
+PHYS-92; Multiple Choice: An object dropped from rest near the Earth's surface will fall how far 
+in the first second: 
+w) 4.9 meters 
+x) 9.8 meters 
+y) 16.0 meters 
+z) 32 meters 
+ANSWER: W -- 4.9 METERS 
+PHYS-92; Multiple Choice: To a person standing on shore, an object dropped from the mast of a 
+passing sailboat will trace what path, assuming negligible air resistance. Is it: 
+w) vertical straight line 
+x) slanted straight line 
+y) parabola 
+z) hyperbola 
+ANSWER: Y -- PARABOLA 
+PHYS-92; Multiple Choice: The energy dissipated when a car hits a tree at 70 miles per hour is 
+ABOUT how much greater than that dissipated at 50 miles per hour? 
+w) 20 percent 
+x) 40 percent 
+y) 70 percent 
+z) 100 percent 
+ANSWER: Z -- 100 PERCENT 
+PHYS-92; Multiple Choice: What happens to the period of a pendulum if the mass of the bob is 
+quadrupled? 
+w) it is cut in half 
+x) it stays the same 
+y) it is doubled 
+z) it is quadrupled 
+ANSWER: X -- IT STAYS THE SAME
+
+Science Bowl PHYSICS 
+Physics - 112 
+PHYS-92; Multiple Choice: According to the theory of relativity, people who travel at relativistic 
+velocities and then return home will be: 
+w) shorter than if they had not made the trip. 
+x) taller than if they had not made the trip. 
+y) younger than if they had not made the trip. 
+z) older than if they had not made the trip. 
+ANSWER: Y -- YOUNGER THAN IF THEY HAD NOT MADE THE TRIP. 
+PHYS-92; Multiple Choice: Which of the following units of energy is the smallest: 
+w) calorie 
+x) Joule 
+y) erg 
+z) electron-volt 
+ANSWER: Z -- ELECTRON-VOLT 
+PHYS-92; Multiple Choice: Which of the following quantities has the GREATEST influence on 
+the overall efficiency of a conventional (Rankine cycle) electric generating station burning fossil 
+fuels? 
+w) steam temperature at the steam turbine inlet 
+x) net heating value of the fuel 
+y) steam pressure at the steam turbine inlet 
+z) pounds of ash and sulfur per pound of fuel 
+ANSWER: W -- STEAM TEMPERATURE AT THE STEAM TURBINE INLET 
+PHYS-92; Multiple Choice: The index of refraction of a plastic material is 1.5. The speed of 
+light in this material relative to that in a vacuum is: 
+w) 2 
+x) 1.5 
+y) 2/3 
+z) 1/2 
+ANSWER: Y -- 2/3
+
+Science Bowl PHYSICS 
+Physics - 113 
+PHYS-92; Multiple Choice: Four identical samples of a metal are heated to different 
+temperatures. Based on the colors of their incandescences, which sample is the hottest? The 
+sample that is: 
+w) blue-white 
+x) bright red 
+y) yellow 
+z) orange 
+ANSWER: W -- BLUE-WHITE 
+PHYS-92; Multiple Choice: A 5 kilogram mass is lifted at constant velocity from a shop floor by 
+a rope that passes through a pulley attached to the shop's ceiling. Neglecting the mass of the rope 
+and friction in the pulley, what is the approximate tension in the rope? 
+w) 100 newtons 
+x) 50 newtons 
+y) 25 newtons 
+z) 5 newtons 
+ANSWER: X -- 50 NEWTONS 
+PHYS-92; Multiple Choice: Ball "A" ROLLS down an inclined plane without slipping. An 
+identical ball, Ball "B", SLIDES down the same inclined plane without rolling. Which of the 
+following statements is true? 
+w) Ball "A" has more kinetic energy 
+x) Ball "B" has more kinetic energy 
+y) their kinetic energies are the same 
+z) their rotational kinetic energies are equal just after release 
+ANSWER: Y -- THEIR KINETIC ENERGIES ARE THE SAME 
+PHYS-92; Short Answer: An object located four focal lengths in front of a thin, converging lens 
+is moved to within two focal lengths of the lens. As a result, does the size of the image produced 
+by the lens increase, decrease or remain the same? 
+ANSWER: INCREASE
+
+Science Bowl PHYSICS 
+Physics - 114 
+PHYS-92; Multiple Choice: What is the wavelength in millimeters of a sound wave whose 
+frequency is 35 KILOHERTZ. Assume the speed of sound is 350 METERS PER SECOND? 
+w) 100 millimeters 
+x) 1,000 millimeters 
+y) 10 millimeters 
+z) 1/10 millimeters 
+ANSWER: Y -- 10 MILLIMETERS 
+PHYS-92; Multiple Choice: Heat from the sun reaches the Earth by: 
+w) conduction 
+x) convection 
+y) radiation 
+z) none of the above 
+ANSWER: Y -- RADIATION 
+PHYS-92; Multiple Choice: What is a calorie? 
+w) amount of heat required to raise one gram of water one degree Celsius. 
+x) amount of work required to move one gram of water by one centimeter. 
+y) amount of heat required to melt ice. 
+z) amount of heat required to raise one gram of water one degree Fahrenheit 
+ANSWER: W -- AMOUNT OF HEAT REQUIRED TO RAISE ONE GRAM OF 
+WATER ONE DEGREE CELSIUS 
+PHYS-92; Short Answer: To within 1 pound per square inch, what is the nominal pressure due to 
+water at a depth of 100 feet below the surface of a body of water? 
+ANSWER: 43.3 POUNDS PER SQUARE INCH (accept 42.3 to 44.3) 
+PHYS-92; Multiple Choice: The energy of molecular motion in a gas appears in the form of: 
+w) friction 
+x) internal energy 
+y) temperature 
+z) potential energy 
+ANSWER: Y -- TEMPERATURE
+
+Science Bowl PHYSICS 
+Physics - 115 
+PHYS-92; Multiple Choice: It has been said that the universe will die an "entropy death". This 
+means that: 
+w) the universe will eventually explode. 
+x) the universe will be at the same temperature everywhere. 
+y) the universe will collapse into a black hole. 
+z) matter and antimatter will never combine. 
+ANSWER: X -- THE UNIVERSE WILL BE AT THE SAME TEMPERATURE 
+EVERYWHERE. 
+PHYS-92; Short Answer: What is the color of light emitted from an Argon-Ion laser? 
+ANSWER: GREEN or BLUE-GREEN 
+PHYS-92; Short Answer: The type of radiative scattering commonly associated with the 
+atmosphere and the reason the sky is blue is called what? 
+ANSWER: RAYLEIGH SCATTERING 
+PHYS-92; Short Answer: Radiant energy emitted from a blackbody is only a function of what? 
+ANSWER: TEMPERATURE 
+PHYS-92; Multiple Choice: Two coal trains, one southbound, the other westbound, reach an 
+over and under crossing at the same instant and each proceed at 40 kilometers per hour on their 
+respective courses. Approximately how far apart are the lead cars two hours later, to the nearest 
+kilometer? 
+w) 80 
+x) 113 
+y) 136 
+z) 160 
+ANSWER: X -- 113 
+PHYS-92; Short Answer: State the unit of electromagnetic induction. 
+ANSWER: GAUSS OR TESLA
+
+Science Bowl PHYSICS 
+Physics - 116 
+PHYS-92; Short Answer: Which of the laws of Thermodynamics is often invoked to discredit 
+attempts at perpetual motion? 
+ANSWER: SECOND LAW OF THERMODYNAMICS 
+PHYS-92; Short Answer: A ball is dropped from a height of 256 feet. The acceleration due to 
+gravity is 32 feet per second squared. How many seconds will it take for the ball to reach the 
+ground?
+ANSWER: 4 
+PHYS-92; Multiple Choice: A resistor of value R/2 is connected in parallel with a resistor of 
+value R/3. The voltage drop across the parallel combination is V. The total current supplied by 
+the voltage source is: 
+w) 2 V/R (read: 2 V over R) 
+x) 3 V/R (read: 3 V over R) 
+y) 4 V/R (read: 4 V over R) 
+z) 5 V/R (read: 5 V over R) 
+ANSWER: Z -- 5 V/R 
+PHYS-92; Multiple Choice: The idea that we CANNOT know both the position and velocity of a 
+subatomic particle at the same time was formulated by: 
+w) Einstein 
+x) Heisenberg 
+y) Fermi 
+z) Schroedinger 
+ANSWER: X -- HEISENBERG 
+PHYS-92; Short Answer: Suppose a crane lifts a 900 kilogram wrecking ball 12 meters above a 
+concrete slab. 105,840 Joules of potential energy are stored in the wrecking ball. Now the ball is 
+dropped. When the ball is 6 meters above the concrete slab, what is it's potential energy in 
+Joules? 
+ANSWER: 52,920 JOULES
+
+Science Bowl PHYSICS 
+Physics - 117 
+PHYS-92; Multiple Choice: To create an enlarged real image using a concave mirror, the object 
+must be placed: 
+w) beyond the center of curvature. 
+x) between the center and the focus. 
+y) at the focus. 
+z) closer than the focus. 
+ANSWER: X -- BETWEEN THE CENTER AND THE FOCUS. 
+PHYS-92; Multiple Choice: Which of the following iron core electromagnets creates the greatest 
+amount of magnetic flux: 
+w) 1,000 coils, 2 amps of current 
+x) 250 coils, 7 amps of current 
+y) 700 coils, 3 amps of current 
+ANSWER: Y -- 700 COILS, 3 AMPS OF CURRENT 
+PHYS-92; Multiple Choice: A car traveling at a constant velocity of 20 meters per second passes 
+a second car which is initially at rest. The car which was at rest starts accelerating at 10 meters 
+per second squared the instant it is passed by the first car. They will meet again in: 
+w) 2 seconds 
+x) 4 seconds 
+y) 6 seconds 
+z) 8 seconds 
+ANSWER: X -- 4 SECONDS 
+PHYS-92; Multiple Choice: A projectile is fired into the air at an angle of 23 degrees. At what 
+other angle would this projectile have the same range if air resistance is neglected? 
+w) 46 degrees 
+x) 60 degrees 
+y) 67 degrees 
+z) 68 degrees 
+ANSWER: Y -- 67 DEGREES
+
+Science Bowl PHYSICS 
+Physics - 118 
+PHYS-92; Multiple Choice: At one atmosphere, a cylinder with movable piston contains 2,000 
+milliliters of gas. If the pressure is increased to 5 atmospheres and the temperature remains 
+unchanged, what is the new volume of the gas? 
+w) 10,000 milliliters 
+x) 400 milliliters 
+y) 1,000 milliliters 
+z) 4,000 milliliters 
+ANSWER: X -- 400 MILLILITERS 
+PHYS-92; Multiple Choice: At zero degrees Celsius and one atmosphere (STP), the volume of a 
+gas is 1,000 milliliters. If the temperature is increased to 25 degrees Celsius and the pressure is 
+doubled, what is the new volume of the gas? 
+w) 546 milliliters 
+x) 500 milliliters 
+y) 1,000 milliliters 
+z) 273 milliliters 
+ANSWER: W -- 546 MILLILITERS 
+PHYS-92; Multiple Choice: The region of the electromagnetic spectrum immediately above the 
+frequencies to which the human eye is sensitive is called: 
+w) ir 
+x) ultra-violet 
+y) rf 
+z) gamma ray 
+ANSWER: X -- ULTRA-VIOLET 
+PHYS-92; Short Answer: What is the WAVELENGTH of the carrier wave, in meters, of a radio 
+station which is broadcasting at a frequency of 100 megahertz? 
+ANSWER: 3 METERS 
+PHYS-92; Short Answer: A piece of metal weighing 55 grams weighs only 50 grams when 
+suspended in water. What is its specific gravity? 
+ANSWER: 11
+
+Science Bowl PHYSICS 
+Physics - 119 
+PHYS-92; Short Answer: A British Thermal Unit, or BTU, is the amount of heat required to 
+raise one pound of what material one degree Fahrenheit? 
+ANSWER: WATER 
+PHYS-92; Multiple Choice: For which of the following reasons is plutonium-238 used for 
+generating electricity on spacecraft? 
+w) It is an alpha emitter with long half-life. 
+x) It is a beta emitter with high specific power. 
+y) It occurs abundantly in nature. 
+z) It has low specific power. 
+ANSWER: W -- IT IS AN ALPHA EMITTER WITH LONG HALF-LIFE. 
+PHYS-92; Multiple Choice: Enrichment of uranium by gaseous diffusion relies on the fact that 
+uranium-235 diffuses through holes in the barriers more readily than uranium-238 does because 
+uranium-235 is: 
+w) a different chemical compound. 
+x) a different wavelength. 
+y) resistant to magnetism. 
+z) slightly lighter than uranium-238. 
+ANSWER: Z -- SLIGHTLY LIGHTER THAN URANIUM-238. 
+PHYS-92; Short Answer: In a light-water reactor, the coolant is ordinary water. What is the 
+moderator? 
+ANSWER: WATER or THE SAME WATER 
+PHYS-92; Multiple Choice: Of the following, which non-fissioning element is used in the cooling 
+water of nuclear power plants to help control the rate of the fission reaction by absorbing 
+neutrons: 
+w) zirconium 
+x) boron 
+y) krypton 
+z) cesium 
+ANSWER: X -- BORON
+
+Science Bowl PHYSICS 
+Physics - 120 
+PHYS-92; Multiple Choice: The part of a nuclear power plant that prevents thermal pollution of 
+lakes or rivers is the: 
+w) reactor 
+x) coolant/moderator 
+y) cooling tower 
+z) control rod 
+ANSWER: Y -- COOLING TOWER 
+PHYS-92; Multiple Choice: The form of the fuel in U.S. commercial nuclear power plants is 
+which of the following: 
+w) uranium oxide ceramic pellets 
+x) atomic vapor 
+y) uranium metal tubes 
+z) uranium solution in water 
+ANSWER: W -- URANIUM OXIDE CERAMIC PELLETS 
+PHYS-92; Multiple Choice: Which of the following is NEVER used as a coolant in nuclear 
+reactors: 
+w) liquid nitrogen 
+x) liquid sodium 
+y) water 
+z) helium gas 
+ANSWER: W -- LIQUID NITROGEN 
+PHYS-92; Multiple Choice: In a breeder reactor, new fuel is formed as non-fuel uranium-238 
+absorbs a neutron and ultimately becomes which of the following fissionable atoms: 
+w) uranium-235 
+x) plutonium-239 
+y) uranium-239 
+z) neptunium-239 
+ANSWER: X -- PLUTONIUM-239
+
+Science Bowl PHYSICS 
+Physics - 121 
+PHYS-92; Multiple Choice: Of the following, which is the best fuel for a nuclear fusion reactor: 
+w) hydrogen 
+x) lithium 
+y) deuterium 
+z) helium 
+ANSWER: Y -- DEUTERIUM 
+PHYS-92; Multiple Choice: In a spent fuel assembly, the radioactive elements having the longest 
+half-lives are the: 
+w) fission products 
+x) actinides 
+y) activation products 
+z) radioisotopes of lead 
+ANSWER: X -- ACTINIDES 
+PHYS-92; Multiple Choice: Reactors in commercial nuclear power plants in the U.S. are often 
+referred to as thermal reactors. A thermal reactor uses: 
+w) fissionable plutonium-239 as fuel. 
+x) a relatively low heat output. 
+y) neutrons moderated to relatively low energies. 
+z) liquid sodium as a coolant. 
+ANSWER: Y -- NEUTRONS MODERATED TO RELATIVELY LOW ENERGIES. 
+PHYS-92; Multiple Choice: A fast reactor uses: 
+w) an extremely short time to get to the maximum operating reactivity. 
+x) uranium-235 as fuel. 
+y) heavy water as a coolant. 
+z) essentially unmoderated neutrons. 
+ANSWER: Z -- ESSENTIALLY UNMODERATED NEUTRONS.
+
+Science Bowl PHYSICS 
+Physics - 122 
+PHYS-92; Multiple Choice: Most of the new atoms formed when atoms in a nuclear reactor 
+capture neutrons without fissioning are: 
+w) fission products 
+x) activation products 
+y) actinides 
+z) lead isotopes 
+ANSWER: Y -- ACTINIDES 
+PHYS-92; Short Answer: Most of what we call background radiation comes from two sources. 
+One is the naturally radioactive elements around us. What is the other source? 
+ANSWER: COSMIC RADIATION 
+PHYS-92; Short Answer: In 1932, the first ARTIFICIAL source of radiation was created in 
+France by two famous scientists. Name the TWO scientists. 
+ANSWER: IRENE and FREDERIC (JOLIOT-)CURIE 
+PHYS-92; Multiple Choice: The average annual dose of NATURAL radiation by the average 
+American is about: 
+w) 3 millirems 
+x) 30 millirems 
+y) 300 millirems 
+z) 3,000 millirems 
+ANSWER: Y -- 300 MILLIREMS 
+PHYS-92; Multiple Choice: In the fission of U235, what is the average number of neutrons 
+produced in the fission reaction? 
+w) 1.5 
+x) 2.5 
+y) 3.5 
+z) 4.5 
+ANSWER: X -- 2.5
+
+Science Bowl PHYSICS 
+Physics - 123 
+PHYS-92; Multiple Choice: Of the following, the most energetic form of NON-IONIZING 
+radiation is: 
+w) ultra-violet light 
+x) infra-red light 
+y) radar 
+z) microwaves 
+ANSWER: W -- ULTRA-VIOLET LIGHT 
+PHYS-92; Short Answer: To within one minute, what is the half-life of the neutron? 
+ANSWER: 11.7 MINUTES (accept: 10.7 to 12.7 minutes) 
+PHYS-92; Multiple Choice: When radiation breaks an electron pair bond in a molecule and each 
+fragment of the molecule gets one of the bond electrons, the molecular fragments that are formed 
+are called: 
+w) ions 
+x) free radicals 
+y) stable molecules 
+z) gases 
+ANSWER: X -- FREE RADICALS 
+PHYS-92; Multiple Choice: The ability of an atom to absorb neutrons is its neutron capture cross 
+section. The unit of measurement for neutron capture cross section is: 
+w) the nucleus volume 
+x) capture capacity 
+y) resonance quotient 
+z) barn 
+ANSWER: Z -- BARN 
+PHYS-92; Multiple Choice: In EXTRA-TERRESTRIAL SPACE, heat is transferred by: 
+w) conduction 
+x) convection 
+y) conduction and convention 
+z) radiation 
+ANSWER: Z -- RADIATION
+
+Science Bowl PHYSICS 
+Physics - 124 
+PHYS-92; Short Answer: A 100-watt light bulb is left on for 10 hours. Electricity is 10 cents per 
+kilowatt-hour. How much did it cost to operate the light bulb? 
+ANSWER: 10 CENTS 
+PHYS-92; Short Answer: The position of a particle with respect to time is given by the equation: 
+x = t3 + 2 where x is in feet and t is in seconds. What is the acceleration of the particle at a time 
+of 2 seconds? 
+ANSWER: 12 FEET PER SECOND SQUARED 
+PHYS-92; Multiple Choice: The principle that energy may be converted from one form to 
+another but it cannot be either created or destroyed is: 
+w) First Law of Thermodynamics. 
+x) Second Law of Thermodynamics. 
+y) Third Law of Thermodynamics. 
+z) Principle of photoelectricity. 
+ANSWER: W -- FIRST LAW OF THERMODYNAMICS. 
+PHYS-92; Multiple Choice: Photoelectric electricity is produced directly from solar energy when 
+which of the following are absorbed in a semiconductor to create an electric current? 
+w) protons 
+x) electrons 
+y) neutrons 
+z) photons 
+ANSWER: Z -- PHOTONS 
+PHYS-92; Multiple Choice: A solar cell does NOT respond to red light, but DOES respond to 
+green light. The solar cell will be able to respond to: 
+w) microwaves 
+x) infra-red light 
+y) ultraviolet light 
+z) all of the above 
+ANSWER: Y -- ULTRAVIOLET LIGHT
+
+Science Bowl PHYSICS 
+Physics - 125 
+PHYS-92; Multiple Choice: What is the theoretical limit of the efficiency of a single-crystal 
+single-junction cell in a photovoltaic system? 
+w) 9 percent 
+x) 29 percent 
+y) 79 percent 
+z) 99 percent 
+ANSWER: X -- 29 PERCENT 
+PHYS-92; Short Answer: What is the ideal efficiency of a reversible heat engine cyclically 
+operating between a source temperature of 600 degrees Kelvin and a sink temperature of 150 
+degrees Kelvin? 
+ANSWER: 75 PERCENT 
+PHYS-92; Multiple Choice: A four cycle internal combustion automobile engine operates on 
+what kind of cycle? 
+w) Rankine 
+x) Otto 
+y) Brayton 
+z) Joule 
+ANSWER: X -- OTTO 
+PHYS-92; Multiple Choice: If materials become superconducting when cooled, any magnetic 
+field will be expelled. This is called: 
+w) diamagnetism 
+x) repulsion 
+y) the Landow Effect 
+z) the Meissner effect 
+ANSWER: Z -- THE MEISSNER EFFECT
+
+Science Bowl PHYSICS 
+Physics - 126 
+PHYS-92; Short Answer: A kilogram of water goes from 90 degrees Celsius to 10 degrees 
+Celsius in a period of 2 hours. If the specific heat of water is 4 kilojoules per kilogram per degree 
+Celsius, how much heat has the water lost? 
+ANSWER: 320 KILOJOULES or 320,000 JOULES 
+PHYS-92; Short Answer: What is the total resistance of three 15-ohm resistors connected in 
+parallel?
+ANSWER: 5 OHMS 
+PHYS-92; Multiple Choice: A proton and an alpha particle pass through the gap of a strong 
+magnet. If both particles have the same initial velocity, how many times greater will the defection 
+of the proton be relative to the deflection of the alpha particle? Will it be: 
+w) the same 
+x) 2 times 
+y) 4 times 
+z) 8 times 
+ANSWER: X -- 2 TIMES 
+PHYS-92; Short Answer: Pendulum "A" swings through one complete oscillation in one second. 
+If Pendulum "B" is four times as long as Pendulum "A", how long does it take Pendulum "B" to 
+swing through one complete oscillation? 
+ANSWER: 2 SECONDS 
+PHYS-92; Short Answer: An electric clothes dryer is connected to a 100-volt source. How 
+much current does it use if it requires 2,000 watts of electric power? 
+ANSWER: 20 AMPERES 
+PHYS-92; Short Answer: The actual mechanical advantage of a block and tackle is 5. The ideal 
+mechanical advantage is 6. How many strands support the mass to be lifted? 
+ANSWER: 6
+
+Science Bowl PHYSICS 
+Physics - 127 
+PHYS-92; Multiple Choice: Planck's constant was first introduced in order to obtain a correct 
+theoretical prediction of: 
+w) the distribution of frequencies occurring in black body radiation. 
+x) the energy produced by the transformation of mass into energy. 
+y) the speed of light. 
+z) lifetime of the neutron. 
+ANSWER: W -- THE DISTRIBUTION OF FREQUENCIES OCCURRING IN BLACK 
+BODY RADIATION 
+PHYS-92; Multiple Choice: The theory which ascribes wave-like properties to particles is called: 
+w) general relativity 
+x) quantum mechanics 
+y) special relativity 
+z) classical mechanics 
+ANSWER: X -- QUANTUM MECHANICS 
+PHYS-92; Multiple Choice: The magnitude of the quarks' electric charge is: 
+w) zero. 
+x) greater than the electron's charge. 
+y) equal to the electron's charge. 
+z) less than the electron's charge. 
+ANSWER: Z -- LESS THAN THE ELECTRON'S CHARGE. 
+PHYS-92; Short Answer: What important property of light is demonstrated by the photoelectric 
+effect? 
+ANSWER: PARTICLE NATURE OF LIGHT 
+PHYS-92; Short Answer: The magnetic pressure of a 0.5 Tesla field is about one atmosphere. 
+What is the pressure of a 4 Tesla field? 
+ANSWER: 64 ATMOSPHERES (PROPORTIONAL TO B2)
+
+Science Bowl PHYSICS 
+Physics - 128 
+PHYS-92; Multiple Choice: Weather satellites transmit cloud cover and temperature-humidity 
+profiles back to Earth using images of which combination of the electromagnetic radiation types? 
+w) infra-red and visible light 
+x) ultraviolet and nuclear magnetic 
+y) ultraviolet and infra-red 
+z) ultraviolet and visible light 
+ANSWER: W -- INFRA-RED AND VISIBLE LIGHT 
+PHYS-92; Short Answer: In a nuclear power reactor, fission produces heat which is used to 
+produce electricity. A reactor producing more fissionable material than it consumes is known as 
+what kind of reactor? 
+ANSWER: BREEDER REACTOR 
+PHYS-92; Short Answer: Processes which occur without the addition or withdrawal of heat from 
+the surrounding are called what? 
+ANSWER: ADIABATIC 
+PHYS-92; Short Answer: The velocity of a ball tossed vertically into the air is expressed by the 
+equation v(t) = -32t + 4, where t is given in seconds. Give the velocity of the ball when it reaches 
+its highest point. 
+ANSWER: 0 
+PHYS-92; Multiple Choice: An object is located 1 meter in front of a converging lens having a 
+focal length of 20 centimeters. At what distance behind the lens (whose thickness is negligible) 
+will the image be formed? 
+w) 18 centimeters 
+x) 20 centimeters 
+y) 22 centimeters 
+z) 25 centimeters 
+ANSWER: Z -- 25 CENTIMETERS
+
+Science Bowl PHYSICS 
+Physics - 129 
+PHYS-92; Short Answer: A 50 millimeter focal length camera lens photographs a 4 meter tall 
+tree at a distance of 20 meters. How tall is the image of the tree? 
+ANSWER: 10 MILLIMETERS 
+PHYS-92; Multiple Choice: What reflecting surface forms a geometrically perfect image of a 
+point source located at infinity (such as that approximated by a star)? 
+w) Paraboloid 
+x) Ellipsoid 
+y) spherical 
+z) Hyperboloid 
+ANSWER: W -- PARABOLOID 
+PHYS-92; Multiple Choice: The dominant charge carriers in p-type semiconductors are: 
+w) neutrons 
+x) electrons 
+y) protons 
+z) holes 
+ANSWER: Z -- HOLES 
+PHYS-92; Multiple Choice: Imagine that a 20 mile diameter hole is bored along the diameter of 
+the Earth extending from the North Pole to the South Pole, that all air and gases are pumped out 
+of this hole, and that the temperature throughout this hole is maintained at 300 Kelvins. A boy 
+throws a ping pong ball into this hole. The ping pong ball would: 
+w) fall to the center of the Earth and remain forever suspended there. 
+x) fall to the opposite side of the Earth's surface and remain forever suspended there. 
+y) forever oscillate in simple harmonic motion along the hole between the loci of the hole 
+with the opposite surfaces of the Earth. 
+z) none of the above. 
+ANSWER: Y -- FOREVER OSCILLATE IN SIMPLE HARMONIC MOTION ALONG 
+THE OLE
+
+Science Bowl PHYSICS 
+Physics - 130 
+PHYS-92; Multiple Choice: An automobile needs an antenna for its radio to play properly 
+because: 
+w) the automobile's tires insulate it from the ground. 
+x) the automobile's body acts as a Faraday cage. 
+y) when the automobile moves, the velocity of the radio signal appears changed with 
+respect to when it is at rest. 
+z) the transmitter also uses an antenna. 
+ANSWER: X -- THE AUTOMOBILE'S BODY ACTS AS A FARADAY CAGE. 
+PHYS-92; Short Answer: Name any THREE of the four elements that are ferromagnetic at room 
+temperature (25 degrees Celsius). 
+ANSWER: IRON (FE); COBALT (CO); NICKEL (NI); GADOLINIUM GD) 
+PHYS-92; Short Answer: Estimate the number of atoms comprising a silicon chip that is 0.2 
+millimeters by 0.2 millimeters by 0.1 millimeters, given that the density of silicon is 2.34 grams per 
+cubic centimeter, the number of atoms in a gram-weight is approximately 6 x 1023 atoms, and the 
+atomic weight of silicon is 28: 
+ANSWER: 2 x 1017 
+PHYS-92; Multiple Choice: A man picks up a 50 kilogram block and carries it up a flight of 
+stairs 10 meters high. He then carries the block back down the stairs and places the block in its 
+original position. What is the NET work done on the block? 
+w) 1,000 joules 
+x) 750 joules 
+y) 500 joules 
+z) 0 joules 
+ANSWER: Z -- 0 JOULES 
+PHYS-92; Multiple Choice: What is the atomic number of Antimony? 
+w) 33 
+x) 51 
+y) 85 
+z) 122 
+ANSWER: X -- 51
+
+Science Bowl PHYSICS 
+Physics - 131 
+PHYS-92; Short Answer: What kind of particles will be accelerated in the Superconducting 
+Super Collider? 
+ANSWER: PROTONS 
+PHYS-92; Multiple Choice: The Superconducting Super Collider will produce collisions with an 
+energy of: 
+w) 40 joules 
+x) 40 MeV 
+y) 40 TeV 
+z) 200 TeV 
+ANSWER: Y -- 40 TeV 
+PHYS-92; Multiple Choice: Superconducting materials are being used in the Superconducting 
+Super Collider to: 
+w) cool the particles. 
+x) minimize electrical power consumption. 
+y) maximize the acceleration potentials. 
+z) provide radiation shielding. 
+ANSWER: X -- MINIMIZE ELECTRICAL POWER CONSUMPTION. 
+PHYS-92; Multiple Choice: One of the particles expected to be discovered at the 
+Superconducting Super Collider is the: 
+w) Higg's boson. 
+x) tau meson. 
+y) tachyon. 
+z) anti-proton. 
+ANSWER: W -- HIGG'S BOSON. 
+PHYS-93; Multiple Choice: For a parallel connection of light bulbs, which of the following 
+statements is correct? 
+w) The resistance of each light bulb must be the same. 
+x) If one goes out they all go out. 
+y) Each of the light bulbs operates independently. 
+ANSWER: Y -- EACH OF THE LIGHT BULBS OPERATES INDEPENDENTLY. 
+
+Science Bowl PHYSICS 
+Physics - 132 
+PHYS-93; Multiple Choice: Which of the following pair are vector quantities? 
+w) time and space 
+x) force and momentum 
+y) energy and time 
+z) momentum and mass 
+e) mass 
+ANSWER: X -- FORCE and MOMENTUM 
+PHYS-93; Short Answer: A force of 15 newtons is acting on an object which has a mass of 3 
+kilograms. If this is the only force acting on the object, what is the acceleration of the object? 
+ANSWER: 5 METERS PER SECOND SQUARED 
+PHYS-93; Multiple Choice: An object with a mass of 5 kilograms is a distance of 5 meters above 
+the surface of the earth. If the acceleration due to gravity is 10 meters per second squared, the 
+potential energy of the object relative to the surface of the earth is: 
+w) 10 joules 
+x) 20 joules 
+y) 100 joules 
+z) 250 joules 
+e) none of the above 
+ANSWER: Z -- 250 JOULES 
+PHYS-93; Multiple Choice: For a body to be in equilibrium, which of the following conditions 
+must exist? 
+w) no forces may be acting on the body. 
+x) the body must be accelerating. 
+y) the velocity of the body must be zero. 
+z) the sum of the forces acting on the body must be equal to zero. 
+ANSWER: Z -- THE SUM OF THE FORCES ACTING ON THE BODY MUST BE 
+EQUAL TO ZERO.
+
+Science Bowl PHYSICS 
+Physics - 133 
+PHYS-93; Multiple Choice: Newton's first law is often referred to as which of the following? 
+w) The law of straight-line motion. 
+x) The law of momentum 
+y) The law of inertia 
+z) F = ma (Spell out M-A) 
+ANSWER: Y -- THE LAW OF INERTIA 
+PHYS-93; Multiple Choice: The statement, "In regions where fluid velocity is smaller, the 
+pressure is higher, and vice versa", is known as the principle of: 
+w) Pascal 
+x) Bernoulli 
+y) Torricelli 
+z) Archimedes 
+ANSWER: X -- BERNOULLI 
+PHYS-93; Multiple Choice: Relative to its period on the earth, is the period of a pendulum on the 
+moon: 
+w) shorter 
+x) longer 
+y) remain unchanged 
+ANSWER: X -- LONGER 
+PHYS-93; Multiple Choice: Two bodies each have a mass 'M'. If the mass of each body is 
+doubled, the force of attraction between the two bodies is: 
+w) twice the original force 
+x) 1/4 the original force 
+y) 4 times the original force 
+z) unchanged 
+ANSWER: Y -- 4 TIMES THE ORIGINAL FORCE
+
+Science Bowl PHYSICS 
+Physics - 134 
+PHYS-93; Multiple Choice: An object in equilibrium always has zero: 
+w) velocity 
+x) momentum 
+y) mass 
+z) acceleration. 
+ANSWER: Z -- ACCELERATION 
+PHYS-93; Multiple Choice: Which of the following is NOT an SI unit of measure? 
+w) watt 
+x) newton 
+y) joule 
+z) erg 
+e) second 
+ANSWER: Z -- ERG 
+PHYS-93; Multiple Choice: A body which is attached to a spring undergoes simple harmonic 
+motion. The magnitude of the body's acceleration is: 
+w) constant 
+x) proportional to its displacement from its equilibrium position 
+y) zero 
+z) always increasing. 
+ANSWER: X -- PROPORTIONAL TO ITS DISPLACEMENT FROM ITS 
+EQUILIBRIUM POSITION 
+PHYS-93; Multiple Choice: If the resultant force acting on a body of constant mass is zero, the 
+body's acceleration is: 
+w) increasing 
+x) decreasing 
+y) always zero 
+z) negative. 
+ANSWER: Y -- ALWAYS ZERO 
+PHYS-93; Short Answer: What is the name of the Scottish physicist who developed the 
+mathematical explanation of the theory of light? 
+ANSWER: (JAMES CLERK) MAXWELL
+
+Science Bowl PHYSICS 
+Physics - 135 
+PHYS-93; Short Answer: Who received the Nobel Prize in Physics in 1923 for his experiment 
+which measured the charge of the electron. The experiment consisted of allowing drops of oil 
+which had become charged to fall in an electric field. 
+ANSWER: (ROBERT ANDREWS) MILLIKAN 
+PHYS-93; Short Answer: Who received the Nobel Prize in Physics in 1922 for his theory which 
+predicted the electron orbits of the Hydrogen atom? 
+ANSWER: (NIELS) BOHR 
+PHYS-93; Short Answer: Who was the first female to be awarded the Nobel Prize in Physics? 
+ANSWER: MARIE SKLOWDOWSKA-CURIE or MADAM CURIE 
+PHYS-93; Short Answer: A current of 6 amperes flows through a 2 ohm resistor for 30 seconds. 
+How many coulombs of charge have passed through the resistor? 
+ANSWER: 180 COULOMBS 
+PHYS-93; Short Answer: The potential difference across a 4 ohm resistor is 20 volts. What is the 
+current in the resistor? 
+ANSWER: 5 AMPS 
+PHYS-93; Short Answer: At a point directly east of a negative point charge, the electric field 
+points in what direction? 
+ANSWER: WEST 
+PHYS-93; Multiple Choice: The temperature of a gas is held constant while its volume is 
+reduced. The pressure the gas exerts on the walls of its container increases because its molecules: 
+w) strike the container walls more often 
+x) strike the container walls with higher speeds 
+y) strike the container walls with greater force 
+z) all of the above 
+ANSWER: W -- STRIKE THE CONTAINER WALLS MORE OFTEN
+
+Science Bowl PHYSICS 
+Physics - 136 
+PHYS-93; Multiple Choice: The electric field of a point charge varies: 
+w) linearly with distance and inversely with charge 
+x) linearly with distance and inversely with charge squared 
+y) linearly with charge and inversely with distance squared 
+z) linearly with charge and inversely with distance 
+ANSWER: Z -- LINEARLY WITH CHARGE AND INVERSELY WITH DISTANCE 
+PHYS-93; Short Answer: A two farad and a four farad capacitor are connected in parallel. What 
+single capacitance is "equivalent" to this combination? 
+ANSWER: 6 FARADS 
+PHYS-93; Short Answer: A current of 5 amps passes through a 10 ohm resistor. What power is 
+dissipated by this resistor under these conditions? 
+ANSWER: 250 WATTS 
+PHYS-93; Short Answer: Is the filament resistance lower or higher in a 500 watt light bulb than 
+in a 100 watt light? Assume that both bulbs have been designed to operate at 110 volts. 
+ANSWER: LOWER 
+PHYS-93; Short Answer: A five ohm and a ten ohm resistor are connected in parallel, what 
+single resistance is "equivalent" to this combination? 
+ANSWER: 3 AND 1/3 OHM 
+PHYS-93; Multiple Choice: Three resistors which have different values are connected in series. 
+Which one of the following statements is correct? 
+w) The potential drop across all three resistors is the same. 
+x) The same current passes through all three resistors. 
+y) The same power is dissipated by all three resistors. 
+ANSWER: X -- THE SAME CURRENT PASSES THROUGH ALL THREE 
+RESISTORS. 
+
+Science Bowl PHYSICS 
+Physics - 137 
+PHYS-93; Multiple Choice: A beam of light is incident on a perfectly smooth body of water. The 
+angle that the REFLECTED ray makes with the normal is: 
+w) greater than 
+x) smaller than 
+y) the same as the angle the incident ray makes with the normal. 
+ANSWER: Y -- THE SAME AS 
+PHYS-93; Multiple Choice: A beam of light is incident on a large block of glass. The index of 
+refraction of the glass is greater than one. Is the wavelength of the light in the glass: 
+w) longer than 
+x) shorter than 
+y) the same as the wavelength of the light in the air? 
+ANSWER: X -- SHORTER THAN 
+PHYS-93; Short Answer: The focal length of a concave mirror is 2 meters. An object is 
+positioned 8 meters in front of the mirror. Is the image of this object real or virtual? 
+ANSWER: REAL 
+PHYS-93; Short Answer: A converging thin lens has a focal length of 27 centimeters. An object 
+is placed 9 centimeters from the lens. Is the image of the object real or virtual? 
+ANSWER: VIRTUAL 
+PHYS-93; Short Answer: Light has wavelength, frequency, and speed. Which, if any, of these 
+quantities remains unchanged when light passes from a vacuum into a block of glass? 
+ANSWER: FREQUENCY 
+PHYS-93; Multiple Choice: Which of the following waves is not a transverse wave? 
+w) a wave traveling on a string 
+x) an electromagnetic wave 
+y) a sound wave 
+ANSWER: Y -- A SOUND WAVE
+
+Science Bowl PHYSICS 
+Physics - 138 
+PHYS-93; Short Answer: Assume that a ray of light passes from glass into air at an angle of 
+incidence greater than zero degrees. Will the ray of light be bent toward or away from the normal 
+as it passes into the air? 
+ANSWER: AWAY FROM 
+PHYS-93; Short Answer: If one looks at a point P on the bottom of a swimming pool, one sees 
+an image point P prime. Is the image point, P prime, a real or a virtual image? 
+ANSWER: VIRTUAL 
+PHYS-93; Multiple Choice: A real image can be formed by which of the following single 
+mirrors? 
+w) a plane mirror 
+x) a concave spherical mirror 
+y) a convex spherical mirror 
+ANSWER: X -- A CONCAVE SPHERICAL MIRROR 
+PHYS-93; Multiple Choice: If two different gases have the same volume, temperature, and 
+pressure and behave like ideal gases, they will also be identical in which one of the following 
+ways? 
+w) average molecular velocity 
+x) total mass 
+y) total molecular kinetic energy 
+z) average momentum per molecule 
+ANSWER: Y -- TOTAL MOLECULAR KINETIC ENERGY 
+PHYS-93; Short Answer: The frequency of a wave is 2/10 Hertz. What is the period of this 
+wave? 
+ANSWER: 5 SECONDS
+
+Science Bowl PHYSICS 
+Physics - 139 
+PHYS-93; Multiple Choice: As a source of sound approaches a stationary listener, the apparent 
+wavelength: 
+w) increases 
+x) decreases 
+y) stays the same. 
+ANSWER: X -- DECREASES 
+PHYS-93; Multiple Choice: The particle nature of light is demonstrated by which of the 
+following? 
+w) the photoelectric effect 
+x) the various colors of light 
+y) the speed of light 
+z) diffraction. 
+ANSWER: W -- THE PHOTOELECTRIC EFFECT 
+PHYS-93; Multiple Choice: A wavelength is commonly measured in which one of the following 
+units? 
+w) radians 
+x) angstroms 
+y) electron volts 
+z) seconds 
+ANSWER: X -- ANGSTROMS 
+PHYS-93; Multiple Choice: Which of the following three nuclear radiations is the most 
+penetrating? 
+w) alpha 
+x) beta 
+y) gamma 
+ANSWER: Y -- GAMMA
+
+Science Bowl PHYSICS 
+Physics - 140 
+PHYS-93; Multiple Choice: An electrical current in a superconducting ring will theoretically flow 
+unchanged for: 
+w) several milliseconds 
+x) a second 
+y) several weeks 
+z) forever 
+ANSWER: Z -- FOREVER 
+PHYS-93; Short Answer: What three colors form the picture in a color tv? 
+ANSWER: RED GREEN BLUE 
+PHYS-93; Short Answer: What is the name of the process whereby waves travel around corners 
+and obstacles in their paths? 
+ANSWER: DIFFRACTION 
+PHYS-93; Multiple Choice: The physicist Chadwick is known for his association with: 
+w) the alpha particle 
+x) the neutron 
+y) the cloud chamber 
+z) the electron 
+ANSWER: X -- THE NEUTRON 
+PHYS-93; Multiple Choice: A color with a wavelength longer than that of yellow is: 
+w) red 
+x) blue 
+y) violet 
+z) green 
+ANSWER: W -- RED
+
+Science Bowl PHYSICS 
+Physics - 141 
+PHYS-93; Multiple Choice: The knot is a nautical measure of: 
+w) length 
+x) speed 
+y) acceleration 
+z) displacement 
+ANSWER: X -- SPEED 
+PHYS-93; Multiple Choice: Assuming constant gravity and no air resistance, the path of a 
+cannonball fired from a cannon is: 
+w) a semi-circle 
+x) an ellipse 
+y) a parabola 
+z) a hyperbola 
+ANSWER: Y -- A PARABOLA 
+PHYS-93; Multiple Choice: As you go up a mountain top, your weight: 
+w) increases slightly 
+x) decreases slightly 
+y) remains exactly the same. 
+ANSWER: X -- DECREASES SLIGHTLY 
+PHYS-93; Multiple Choice: The shape of a magnetic field around a long straight current 
+carrying wire is: 
+w) elliptical. 
+x) square 
+y) varies depending on the magnitude of the current 
+z) circular 
+ANSWER: Z -- CIRCULAR 
+PHYS-93; Short Answer: What number represents the ratio of speed of an object to the speed of 
+sound in the surrounding air? 
+ANSWER: MACH NUMBER
+
+Science Bowl PHYSICS 
+Physics - 142 
+PHYS-93; Multiple Choice: Of the following answers, which is the frequency closest to middle-C 
+on a piano? 
+w) 20 
+x) 256 
+y) 2520 
+z) 25200 
+ANSWER: X -- 256 
+PHYS-93; Multiple Choice: The non-relativistic mass of an object 
+w) must be the same as its weight 
+x) depends on where you measure it 
+y) does not change with increasing velocity 
+z) is greatest at the poles 
+ANSWER: Y -- DOES NOT CHANGE WITH INCREASING VELOCITY 
+PHYS-93; Multiple Choice: A ball is thrown horizontally from the top of a cliff. Assuming no air 
+resistance, the acceleration of the ball while it is in flight is: 
+w) in the vertical direction only 
+x) in the horizontal direction only 
+y) in the vertical and horizontal directions 
+z) zero. 
+ANSWER: W -- IN THE VERTICAL DIRECTION ONLY 
+PHYS-93; Multiple Choice: While traveling in a straight line, a car uniformly changes its speed 
+from 50 kilometers per hour to 110 kilometers per hour in 5 seconds. The acceleration of the car 
+during this time is: 
+w) 5 kilometers per hour per second 
+x) 12 kilometers per hour per second 
+y) 50 kilometers per hour per second 
+z) 60 kilometers per hour per second 
+ANSWER: X -- 12 KILOMETERS PER HOUR PER SECOND
+
+Science Bowl PHYSICS 
+Physics - 143 
+PHYS-93; Multiple Choice: If there is to be a change in velocity, there MUST be a change in 
+w) speed only 
+x) direction only 
+y) either speed or direction 
+z) both speed and direction 
+ANSWER: Y -- EITHER SPEED OR DIRECTION 
+PHYS-93; Multiple Choice: Susan pushes against a 100 kilogram rock with a force of 5 
+Newtons, but the rock doesn't move. The force the rock exerts on Susan is 
+w) 0 Newtons 
+x) 5 Newtons 
+y) 20 Newtons 
+z) 100 Newtons 
+ANSWER: X -- 5 NEWTONS
+

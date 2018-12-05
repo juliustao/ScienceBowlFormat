@@ -1,0 +1,4081 @@
+Science Bowl CHEMISTRY 
+Chemisty - 1 
+CHEM-91; Multiple Choice: Which of the following scientists was awarded the Nobel Prize in 
+1911 for the discovery of the radioactive elements, radium and polonium? 
+w) John Dalton 
+x) Dmitri Mendeleev 
+y) Emil Fischer 
+z) Marie Curie 
+ANSWER: Z -- MARIE CURIE 
+CHEM-91; Short Answer: Who was awarded a Nobel Prize in 1911 for the discovery of the 
+radioactive elements, radium and polonium? 
+ANSWER: D -- MARIE CURIE 
+CHEM-91; Multiple Choice: Which of the following pairs of German scientists discovered the 
+atomic fission of uranium and set the stage for the nuclear age? 
+w) Hahn and Strassman 
+x) Nernst and Planck 
+y) Ostwald and Heisenberg 
+z) Bohr and Rutherford 
+ANSWER: W -- HAHN AND STRASSMAN 
+CHEM-91; Multiple Choice: Name the person who developed a table of elements which revealed 
+regularities in elemental properties in 1869? 
+w) Theodore Richards 
+x) Antoine Lavoisier 
+y) Dmitri Mendeleev 
+z) Svante Arrhenius 
+ANSWER: Y -- DMITRI MENDELEEV 
+CHEM-91; Short Answer: Name the person who developed a table of elements which revealed 
+regularities in elemental properties? 
+ANSWER: DMITRI MENDELEEV
+
+Science Bowl CHEMISTRY 
+Chemisty - 2 
+CHEM-91; Multiple Choice: Who was the first American chemist to receive a Nobel Prize? He 
+was selected in 1914 for his precise determination of atomic weights. 
+w) Edward Frankland 
+x) Theodore Richards 
+y) John Bardeen 
+z) Paul Dirac 
+ANSWER: X -- THEODORE RICHARDS 
+CHEM-91; Multiple Choice: How many electrons can occupy an s orbital? 
+w) one 
+x) two 
+y) three 
+z) four 
+ANSWER: X -- TWO 
+CHEM-91; Short Answer: What is the maximum number of electrons that can occupy an s 
+orbital?
+ANSWER: TWO 
+CHEM-91; Multiple Choice: Which of the following is a necessary characteristic for electrons that 
+share an s orbital? 
+w) coplanar spins 
+x) parallel spins 
+y) opposite spins 
+z) none of these 
+ANSWER: Y -- OPPOSITE SPINS 
+CHEM-91; Multiple Choice: Which of the following terms refers to the number of molecules or 
+ions attached to a central metallic atom? 
+w) coordination number 
+x) connection number 
+y) bonding number 
+z) none of these 
+ANSWER: W -- COORDINATION NUMBER
+
+Science Bowl CHEMISTRY 
+Chemisty - 3 
+CHEM-91; Multiple Choice: Which of the following pairs do NOT show similar chemical 
+properties? 
+w) fluorine-argon 
+x) beryllium-aluminum 
+y) boron-silicon 
+z) lithium-magnesium 
+ANSWER: W -- FLUORINE-ARGON 
+CHEM-91; Short Answer: What is the common name for calcium oxide, CaO? 
+ANSWER: QUICKLIME (LIME) 
+CHEM-91; Multiple Choice: Which of the following terms refers to a material which slows 
+neutrons? 
+w) retarder 
+x) moderator 
+y) buffer 
+z) bottleneck 
+ANSWER: X -- MODERATOR 
+CHEM-91; Multiple Choice: Which of the following refers to the scattering of light by colloidal 
+particles? 
+w) Rutherford effect 
+x) Tyndall effect (pron: tin-dahl) 
+y) Thompson effect 
+z) none of these 
+ANSWER: X -- TYNDALL EFFECT 
+CHEM-91; Short Answer: Who is accredited in the history of modern chemistry of proving that 
+neutrons existed? 
+ANSWER: JAMES CHADWICK
+
+Science Bowl CHEMISTRY 
+Chemisty - 4 
+CHEM-91; Multiple Choice: Which of the following refers to an easily melted product of the 
+reaction between the flux and the impurities of an ore? 
+w) slag 
+x) slurry 
+y) slug 
+z) none of the above 
+ANSWER: W -- SLAG 
+CHEM-91; Short Answer: Name the thermodynamic state function that is a measure of 
+randomness. 
+ANSWER: ENTROPY 
+CHEM-91; Short Answer: What term is used to describe silver which contains 7.5% copper? 
+ANSWER: STERLING 
+CHEM-91; Short Answer: Name the state function that represents the heat content of a system. 
+ANSWER: ENTHALPY 
+CHEM-91; Multiple Choice: Which of the following is NOT a physical property of crystalline 
+boron? 
+w) brown color 
+x) diamond hardness 
+y) brittleness 
+z) high electrical resistance 
+ANSWER: W -- BROWN COLOR (Crystalline boron is transparent.) 
+CHEM-91; Multiple Choice: Which noble gas has the highest melting point ? 
+w) argon 
+x) krypton 
+y) xenon 
+z) radon 
+ANSWER: Z -- RADON
+
+Science Bowl CHEMISTRY 
+Chemisty - 5 
+CHEM-91; Multiple Choice: The noble gases have low boiling points because: 
+w) their ionization potentials are very low 
+x) only weak Van der Waals forces hold the atoms together 
+y) they are produced by the fractional distillation of liquid air 
+z) they have eight electrons in the outer shell 
+ANSWER: X -- ONLY WEAK VAN DER WAALS FORCES HOLD THE ATOMS 
+TOGETHER 
+CHEM-91; Multiple Choice: For which of the following classes of salts are all of its compounds 
+soluble in water? 
+w) sulfates 
+x) nitrates 
+y) hydroxides 
+z) chlorides 
+ANSWER: X -- NITRATES 
+CHEM-91; Multiple Choice: Which of the following is NOT a general property of hydroxide 
+bases in aqueous solution? 
+w) High solubility 
+x) Bitter taste 
+y) Ability to neutralize aqueous acid solutions 
+z) Ability to change phenolphthalein from colorless to red 
+ANSWER: W -- HIGH SOLUBILITY (The hydroxides of the alkali metals are 
+soluble in water but all the other metal hydroxides are only moderately or sparingly soluble.) 
+CHEM-91; Multiple Choice: Aqua regia is: 
+w) concentrated nitric acid 
+x) a mixture of three parts of concentrated hydrochloric acid and one part concentrated 
+nitric acid 
+y) concentrated hydrochloric acid 
+z) a mixture of sulfuric acid and hydrochloric acid 
+ANSWER: X -- A MIXTURE OF THREE PARTS OF CONCENTRATED 
+HYDROCHLORIC ACID AND ONE PART CONCENTRATED NITRIC ACID 
+
+Science Bowl CHEMISTRY 
+Chemisty - 6 
+CHEM-91; Short Answer: What is the common name given to a mixture of three parts of 
+concentrated hydrochloric acid and one part concentrated nitric acid? 
+ANSWER: AQUA REGIA 
+CHEM-91; Multiple Choice: A solution with a pH of 12 is: 
+w) weakly acidic 
+x) strongly acidic 
+y) weakly basic 
+z) strongly basic 
+ANSWER: Z -- STRONGLY BASIC 
+CHEM-91; Multiple Choice: The halogen with the largest atomic radius is: 
+w) Cl 
+x) I 
+y) Br 
+z) At 
+ANSWER: Z -- At 
+CHEM-91; Short Answer: Which halogen has the largest atomic radius: 
+ANSWER: ASTATINE 
+CHEM-91; Multiple Choice: Compounds of iodine are NOT used for which of the following? 
+w) as a refrigerant 
+x) in photographic film 
+y) as an essential part of diet 
+z) as an antiseptic 
+ANSWER: W -- AS A REFRIGERANT
+
+Science Bowl CHEMISTRY 
+Chemisty - 7 
+CHEM-91; Multiple Choice: Allotropic modifications of phosphorus include each of the 
+following EXCEPT: 
+w) red phosphorus 
+x) black phosphorus 
+y) white phosphorus 
+z) green phosphorus 
+ANSWER: Z -- GREEN PHOSPHORUS 
+CHEM-91; Short Answer: How many milligrams are in one metric carat? 
+ANSWER: 200 MILLIGRAMS 
+CHEM-91; Short Answer: What class of organic compounds is characterized by an -OH group 
+bonded to an alkyl group? 
+ANSWER: ALCOHOL 
+CHEM-91; Multiple Choice: Which of the following contain sp2 hybridized carbon atoms? 
+w) alkanes 
+x) alkenes 
+y) alkynes 
+z) cycloalkanes 
+ANSWER: X -- ALKENES 
+CHEM-91; Multiple Choice: Which of the following phrases is NOT appropriate for a 
+description of benzene? 
+w) characteristic reactivity of an alkene 
+x) volatile liquid 
+y) aromatic hydrocarbon 
+z) resonance hybridization 
+ANSWER: W -- CHARACTERISTIC REACTIVITY OF AN ALKENE 
+
+Science Bowl CHEMISTRY 
+Chemisty - 8 
+CHEM-91; Multiple Choice: Which of the following is NOT an aromatic hydrocarbon? 
+w) naphthalene 
+x) hexane 
+y) styrene 
+z) xylene 
+ANSWER: X -- HEXANE 
+CHEM-91; Multiple Choice: Which of the following is NOT an aliphatic hydrocarbon? 
+w) n-octane 
+x) propylene 
+y) n-tridecane 
+z) benzene 
+ANSWER: Z -- BENZENE 
+CHEM-91; Multiple Choice: Which of the following is NOT a means of preparing carbon 
+dioxide?
+w) burning coke in the absence of air 
+x) combustion of methane 
+y) heating certain normal carbonates 
+z) action of acids on carbonates 
+ANSWER: W -- BURNING COKE IN THE ABSENCE OF AIR 
+CHEM-91; Short Answer: After carbon, hydrogen, and oxygen, the next most abundant element 
+in proteins is: 
+ANSWER: NITROGEN 
+CHEM-91; Multiple Choice: One of the following is NOT a lipid. Is it: 
+w) fats and oils 
+x) starches 
+y) steroids 
+z) waxes 
+ANSWER: X -- STARCHES
+
+Science Bowl CHEMISTRY 
+Chemisty - 9 
+CHEM-91; Multiple Choice: Which one of the following is NOT a vitamin? 
+w) ascorbic acid 
+x) niacin (pron: nI-eh-sen) 
+y) trypsin (pron: trip-sen) 
+z) riboflavin (pron: rye-bow-fla-vin) 
+ANSWER: Y -- TRYPSIN 
+CHEM-91; Multiple Choice: Of the following, which has units of "Pascal". 
+w) force 
+x) volume 
+y) pressure 
+z) viscosity 
+ANSWER: Y -- PRESSURE 
+CHEM-91; Multiple Choice: A Poise is the unit of measure of which of the following? 
+w) pressure 
+x) viscosity 
+y) force 
+z) mass 
+ANSWER: X -- VISCOSITY 
+CHEM-91; Multiple Choice: Which of the following is the element represented by the symbol B? 
+w)Barium 
+x)Bismuth 
+y)Boron 
+z)Beryllium 
+ANSWER: Y -- BORON 
+CHEM-91; Short Answer: Which element is represented by the symbol B? 
+ANSWER: BORON 
+CHEM-91; Short Answer: What is the element represented by the symbol Rb? 
+ANSWER: RUBIDIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 10 
+CHEM-91; Short Answer: What is the element represented by the symbol Sn? 
+ANSWER: TIN 
+CHEM-91; Short Answer: What is the element represented by the symbol Sr? 
+ANSWER: STRONTIUM 
+CHEM-91; Multiple Choice: In the periodic table, which of the following identifies a horizontal 
+row? 
+w) period 
+x) group 
+y) family 
+z) series 
+ANSWER: W -- PERIOD 
+CHEM-91; Short Answer: In the periodic table, which term identifies a horizontal row? 
+ANSWER: PERIOD 
+CHEM-91; Multiple Choice: Which of the following describes the orientation of bonds in an sp3 
+hybridized atom? 
+w)triagonal 
+x)linear 
+y)tetrahedral 
+z)planar 
+ANSWER: Y -- TETRAHEDRAL 
+CHEM-91; Multiple Choice: Forces in ionic crystalline solids are primarily which of the 
+following? 
+w)covalent 
+x)electrostatic 
+y)Van der Waals 
+z)magnetic 
+ANSWER: X -- ELECTROSTATIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 11 
+CHEM-91; Multiple Choice: In which of the following is the "octet rule" violated? 
+w) CO2 
++ 
+x) NH4 (read: N - H - 4 - plus) 
+2- 
+y) SO4 (read: S - O - 4 - 2 minus) 
+z) NO2 
+ANSWER: Z -- NO2 
+CHEM-91; Multiple Choice: Normality is defined as the number of: 
+w) moles of solute per 1000 grams of solvent 
+x) equivalent weights of solute per liter of solution 
+y) kilograms of solute per liter of solution 
+z) moles of solute per 1000 grams of solution 
+ANSWER: X -- EQUIVALENT WEIGHTS OF SOLUTE PER LITER OF 
+SOLUTION 
+CHEM-91; Multiple Choice: The oxidation number of N in NaNO2 is: 
+w) +5 
+x) +2 
+y) +3 
+z) -3 
+ANSWER: Y -- +3 (Accept 3) 
+CHEM-91; Short Answer: What is the oxidation number of nitrogen in NaNO2: 
+ANSWER: +3 (Accept 3)
+
+Science Bowl CHEMISTRY 
+Chemisty - 12 
+CHEM-91; Multiple Choice: Which one of the following atoms has two unpaired electrons in its 
+ground state: 
+w) Sodium 
+x) Calcium 
+y) Oxygen 
+z) Aluminum 
+ANSWER: Y -- OXYGEN 
+CHEM-91; Multiple Choice: In which of the following compounds is the bonding most covalent? 
+w) NaCl 
+x) F2 
+y) MgS 
+z) Fe3C 
+ANSWER: X -- F2 
+CHEM-91; Multiple Choice: The elements in group 1A of the periodic table are called: 
+w) halogens 
+x) alkaline earths 
+y) alkali metals 
+z) rare earths 
+ANSWER: Y -- ALKALI METALS 
+CHEM-91; Short Answer: What is the family name given to the elements in group 1A of the 
+periodic table? 
+ANSWER: ALKALI METALS 
+CHEM-91; Short Answer: What is the name of the organic compound whose chemical name is 
+amygdalin (pron: a-MIG-da-lin) and is found in the pits of apricots and peaches? 
+ANSWER: LAETRILE
+
+Science Bowl CHEMISTRY 
+Chemisty - 13 
+CHEM-91; Multiple Choice: Name the element discovered upon its extraction from pitchblende? 
+w) platinum 
+x) uranium 
+y) iridium 
+z) plutonium 
+ANSWER: X -- URANIUM 
+CHEM-91; Short Answer: All proteins contain at least 5 specific elements. Four of them are 
+carbon, oxygen, hydrogen, and nitrogen. What is the fifth element? 
+ANSWER: SULFUR 
+CHEM-91; Multiple Choice: Cinnabar, pyrite and galena are minerals which consist of one or 
+more metals combined with the same element. Which one of the following is the element that is 
+common to all three of these minerals? Is it: 
+w) iron 
+x) copper 
+y) sulfur 
+z) sodium 
+ANSWER: C-- SULFUR 
+CHEM-91; Multiple- choice: In a flame test, the presence of copper in a solution is evident by 
+what color flame? Is the flame 
+w) red 
+x) orange 
+y) indigo 
+z) blue-green 
+ANSWER: Z -- BLUE-GREEN
+
+Science Bowl CHEMISTRY 
+Chemisty - 14 
+CHEM-91; Multiple Choice: Alpha rays are different from beta rays in one of the following 
+ways. Are they different since: 
+w) alpha rays are deflected in a magnetic field and beta rays are not 
+x) alpha rays are identical to the electron in mass, and beta rays are not 
+y) alpha rays have a positive charge and beta rays have a negative charge 
+z) alpha rays are produced within the nucleus and beta rays are produced outside the 
+nucleus
+ANSWER: Y -- ALPHA RAYS HAVE A POSITIVE CHARGE AND BETA RAYS 
+HAVE A NEGATIVE CHARGE 
+CHEM-91; Multiple Choice: Which one of the following statements is TRUE regarding the 
+molar heat capacity for the noble gases? 
+w) heat capacity decreases from Helium to Xenon 
+x) heat capacity increases from helium to argon 
+y) heat capacity increases from Helium to Argon, then decreases to Xenon 
+z) heat capacity is the same for all noble gases 
+ANSWER: Z -- HEAT CAPACITY IS THE SAME FOR ALL NOBLE GASES 
+CHEM-91; Multiple Choice: Of the following types of material, which is the one that is 
+heterogeneous? Is it: 
+w) quartz 
+x) feldspar 
+y) granite 
+z) mica 
+ANSWER: Y -- GRANITE 
+CHEM-91; Multiple Choice: Which of the following halogens does NOT replace the other 
+halogens from their compounds? 
+w) fluorine 
+x) iodine 
+y) bromine 
+z) chlorine 
+ANSWER: X -- IODINE
+
+Science Bowl CHEMISTRY 
+Chemisty - 15 
+CHEM-91; Short Answer: Excluding Astatine, which halogen does NOT replace the other 
+halogens from their compounds? 
+ANSWER: IODINE 
+CHEM-91; Multiple Choice: The bond in hydrogen chloride is which of the following types? Is it 
+w) ionic 
+x) nonpolar covalent 
+y) polar covalent 
+z) covalent network 
+ANSWER: Y -- POLAR COVALENT 
+CHEM-91; Multiple Choice: The bond in Fluorine is which of the following types? Is it 
+w) ionic 
+x) nonpolar covalent 
+y) polar covalent 
+z) covalent network 
+ANSWER: X -- NONPOLAR COVALENT 
+CHEM-91; Multiple Choice: Which of the following concentration expressions is defined as the 
+number of moles of solute per kilogram of solvent: 
+w) molarity 
+x) molality 
+y) normality 
+z) equivalents 
+ANSWER: X -- MOLALITY 
+CHEM-91; Multiple Choice: Among the following, the substance that is considered to be the 
+earliest stage in coal formation is: 
+w) sub-bituminous 
+x) bituminous 
+y) anthracite 
+z) lignite 
+ANSWER: Z -- LIGNITE
+
+Science Bowl CHEMISTRY 
+Chemisty - 16 
+CHEM-91; Multiple Choice: When an aldehyde is heated with Fehling's solution, the aldehyde 
+undergoes one of the following processes. Does it undergo: 
+w) neutralization 
+x) oxidation 
+y) reduction 
+z) esterification 
+ANSWER: X -- OXIDATION 
+CHEM-91; Multiple Choice: The hydrolysis of a fat using a solution of a strong hydroxide is 
+called: 
+w) neutralization 
+x) esterification 
+y) saponification 
+z) condensation 
+ANSWER: Y -- SAPONIFICATION 
+CHEM-91; Multiple Choice: In the common dry cell, the zinc atoms are: 
+w) reduced at the cathode 
+x) oxidized at the cathode 
+y) oxidized at the anode 
+z) reduced at the anode 
+ANSWER: Y -- OXIDIZED AT THE ANODE 
+CHEM-91; Multiple Choice: As one goes across a period in the periodic table, the ionization 
+energy generally increases for one of the following reasons. Is it because of the increasing 
+w) atomic radius 
+x) melting point 
+y) nuclear charge 
+z) density 
+ANSWER: Y -- NUCLEAR CHARGE
+
+Science Bowl CHEMISTRY 
+Chemisty - 17 
+CHEM-91; Multiple Choice: Which of the following reactions involve NEITHER oxidation nor 
+reduction? 
+w) burning antimony in chlorine 
+x) decomposition of potassium chlorate 
+y) reaction of sodium with water 
+z) reaction of potassium hydroxide with nitric acid 
+ANSWER: Z -- REACTION OF POTASSIUM HYDROXIDE WITH NITRIC ACID 
+CHEM-91; Short Answer: In a flame test both lithium and strontium produce various shades of 
+this color. What is this color? 
+ANSWER: RED 
+CHEM-91; Multiple Choice: Who hypothesized that it would be impossible to know the exact 
+location and exact momentum of a particle at the same time? Was it: 
+w) Heisenberg 
+x) De Broglie 
+y) Planck 
+z) Schrodinger 
+ANSWER: A -- HEISENBERG 
+CHEM-91; Short Answer: Who hypothesized that it would be impossible to know the exact 
+location and exact momentum of a particle at the same time? 
+ANSWER: HEISENBERG 
+CHEM-91;Multiple Choice: Ammonia can be considered a Lewis base because it can donate: 
+w) electrons 
+x) protons 
+y) hydronium ions 
+z) hydroxide ions 
+ANSWER: A -- ELECTRONS
+
+Science Bowl CHEMISTRY 
+Chemisty - 18 
+CHEM-91; Multiple Choice: Acids react with bases to form which of the following? Do they 
+form: 
+w) salt and acidic anhydride 
+x) water and basic anhydride 
+y) basic anhydride and salt 
+z) salt and water 
+ANSWER: D -- SALT AND WATER 
+CHEM-91; Multiple Choice: Which of the following is a metallic salt of a fatty acid? Is it: 
+w) soap 
+x) plastic 
+y) rubber 
+z) petroleum 
+ANSWER: A -- SOAP 
+CHEM-91; Multiple Choice: Which of the following choices are considered to be polymers of 
+amino acids? Are they: 
+w) nucleotides 
+x) carbohydrates 
+y) lipids 
+z) proteins 
+ANSWER: Z -- PROTEINS 
+CHEM-91; Multiple Choice: Which of the following pairs of compounds could NOT be used to 
+create a buffer solution? Would it be: 
+w) HCL and NaCl (read: H - C - L and N - A - C - L) 
+x) HCN and NaCN (read: H - C - N and N - A - C - N) 
+y) NH3 and NH4Cl (read: N - H - 3 and N - H - 4 - C - L) 
+z) HNO2 and NaNO2 (read: H - N - O -2 and N - A - N - O - 2) 
+ANSWER: W -- HCL AND NaCl (read: H - C - L and N - A - C - L) 
+
+Science Bowl CHEMISTRY 
+Chemisty - 19 
+CHEM-91; Short Answer: In a body-centered structure for cesium chloride how many nearest 
+neighbor chloride ions surround a cesium ion? 
+ANSWER: 8 
+CHEM-91; Short Answer: Metallic elements are often obtained from ores. Name the metallic 
+element which is produced from the ore Bauxite. 
+ANSWER: ALUMINUM 
+CHEM-91; Short Answer: Name any five of the six noble gases. 
+ANSWER: HELIUM, NEON, ARGON, KRYPTON, XENON, OR RADON 
+CHEM-91; Short Answer: Name any four alkali metals. 
+ANSWER: LITHIUM, SODIUM, POTASSIUM, RUBIDIUM, CESIUM, AND 
+FRANCIUM 
+CHEM-91; Short Answer: The element I am thinking about has several interesting 
+characteristics. It occupies the same column in the periodic table as lead. Resistors which are 
+commonly found in electronic circuits are often made out of this element. In addition, in one of 
+its forms, this element is one of the hardest substances on earth. What element am I thinking 
+about? 
+ANSWER: CARBON 
+CHEM-91; Short Answer: Give me the names, in order of increasing mass, of the four lightest 
+members the halogen family. 
+ANSWER: FLUORINE, CHLORINE, BROMINE, AND IODINE 
+CHEM-91; Short Answer: Ketones are organic compounds. Name the functional group that all 
+ketone molecules contain. 
+ANSWER: CARBONYL GROUP pr C DOUBLE BOND O
+
+Science Bowl CHEMISTRY 
+Chemisty - 20 
+CHEM-91; Short Answer: Four of the lightest ten elements in the periodic table are solids at 
+standard temperature and pressure. Name these four elements. 
+ANSWER: LITHIUM, BERYLLIUM, BORON, CARBON 
+CHEM-91; Multiple Choice: Which of the following scientists first stated the law of conservation 
+of mass? Was it: 
+w) Lavoisier 
+x) Dalton 
+y) Proust 
+z) Boyle 
+ANSWER: W -- LAVOISIER 
+CHEM-91; Multiple Choice: Which of the following scientists explained the photoelectric effect? 
+Was it: 
+w) Einstein 
+x) Planck 
+y) Bohr 
+z) Chadwick 
+ANSWER: W -- EINSTEIN 
+CHEM-91; Multiple Choice: Which of the following scientists hypothesized that it would be 
+possible for particles to have wave-like properties ? Was it: 
+w) Planck 
+x) Heisenberg 
+y) Einstein 
+z) de Broglie 
+ANSWER: Z -- DE BROGLIE 
+CHEM-91; Short Answer: Who developed the equation that is used to determine the 
+PROBABILITY of finding the electron in any given place? 
+ANSWER: SCHRODINGER
+
+Science Bowl CHEMISTRY 
+Chemisty - 21 
+CHEM-91; Short Answer: How many hydrogen atoms are there in the organic compound 
+1,1,2,2-tetrabromoethane (read: tetra - bromo - ethane)? 
+ANSWER: 2 
+CHEM-91; Short Answer: Give the empirical formula for the organic compound naphthalene? 
+ANSWER: C10H8 
+CHEM-91; Multiple Choice: The triple bond between the carbon atoms causes acetylene, C2H2, 
+to have which of the following shapes? 
+w) trigonal planar (pron: try-gon-al) 
+x) linear 
+y) tetrahedral 
+z) trigonal bipyramidal 
+ANSWER: X -- LINEAR 
+CHEM-91; Short Answer: What is the EMPIRICAL formula for glucose? 
+ANSWER: CH2O (read: C - H - 2 - O) 
+CHEM-91; Multiple Choice: Which of the following four elements has the largest atomic radius? 
+Is it: 
+w) strontium 
+x) francium 
+y) calcium 
+z) bromine 
+ANSWER: X -- FRANCIUM 
+CHEM-91; Multiple Choice: Which of the following odors does the ester, methyl salicylate, 
+produce? Is the odor that of: 
+w) cinnamon 
+x) avocado 
+y) orange 
+z) oil of wintergreen 
+ANSWER: D -- OIL OF WINTERGREEN
+
+Science Bowl CHEMISTRY 
+Chemisty - 22 
+CHEM-91; Short Answer: What two chemical elements are found in sphalerite? 
+ANSWER: ZINC AND SULFUR (ZnS) 
+CHEM-91; Short Answer: Periclase is composed of what two elements? 
+ANSWER: MAGNESIUM AND OXYGEN (MgO) 
+CHEM-91; Short Answer: Who patented the common dry cell? 
+ANSWER: GEORGES LECLANCH� 
+CHEM-91; Multiple Choice: Ca(BrO3)2 (read: C - a, left parenthesis, B - r - O - subscript 3, 
+right parenthesis, subscript 2) is called: 
+w) calcium bromate 
+x) calcium bromite 
+y) calcium dibromite 
+z) calcium bromide 
+ANSWER: W -- CALCIUM BROMATE 
+CHEM-91; Short Answer: What is the common oxidation state of Radium? 
+ANSWER: +2 (read: Plus two) 
+CHEM-91; Short Answer: What is the pH of a solution that is 1000 times more acidic than pure 
+water? 
+ANSWER: 4 
+CHEM-91; Multiple Choice: Which of the following are saturated aliphatic hydrocarbons? 
+w) alkanes 
+x) alkenes 
+y) alkynes 
+z) nixanes 
+ANSWER: W -- ALKANES
+
+Science Bowl CHEMISTRY 
+Chemisty - 23 
+CHEM-91; Multiple Choice: Sucrose, ordinary table sugar, may be classified as a: 
+w) Monosaccharide 
+x) Disaccharide 
+y) Polysaccharide 
+z) Oligosaccharide 
+ANSWER: X -- DISACCHARIDE 
+CHEM-91; Multiple Choice: Pure water is approximately what molar concentration: 
+w) .55 Molar 
+x) 5.5 Molar 
+y) 55 Molar 
+z) 550 Molar 
+ANSWER: Y -- 55 MOLAR 
+CHEM-91; Multiple Choice: The rate at which dissolution occurs is LEAST dependent upon 
+which one of the following factors: 
+w) temperature 
+x) pressure 
+y) solution concentration 
+z) solute surface area 
+ANSWER: X -- PRESSURE 
+CHEM-91; Short Answer: Name the person who developed a table of elements which revealed 
+regularities in elemental properties? 
+ANSWER: DMITRI MENDELEEV 
+CHEM-91; Multiple Choice: Who was the first American chemist to receive a Nobel Prize? He 
+was selected in 1914 for his precise determination of atomic weights. 
+w) Edward Frankland 
+x) Theodore Richards 
+y) John Bardeen 
+z) Paul Dirac 
+ANSWER: X -- THEODORE RICHARDS
+
+Science Bowl CHEMISTRY 
+Chemisty - 24 
+CHEM-91; Short Answer: What is the word that describes a substance that reacts with both 
+strong acids and strong bases? 
+ANSWER: AMPHOTERIC 
+CHEM-91; Multiple Choice: Of the following, which has units of "Pascal". 
+w) force 
+x) volume 
+y) pressure 
+z) viscosity 
+ANSWER: Y -- PRESSURE 
+CHEM-91; Short Answer: What is the name of the point on a phase diagram which indicates the 
+temperature above which a gas cannot be converted to a liquid? 
+ANSWER: THE CRITICAL TEMPERATURE 
+CHEM-91; Short Answer: List the following atoms in order of increasing electron affinity: 
+oxygen, boron, and fluorine. 
+ANSWER: (1) BORON, (2) OXYGEN, (3) FLUORINE 
+CHEM-91: Short Answer: What name is given to the chemical elements with atom numbers 90 
+to 103, inclusively. 
+ANSWER: ACTINIDES or ACTINIDE SERIES 
+CHEM-91; Short Answer: The removal of two hydrogen atoms from an alcohol yie what type of 
+chemical substance? 
+ANSWER: ALDEHYDE 
+CHEM-91; Short Answer: I will be describing a chemical element. Try to identify it with the 
+fewest number of clues. This chemical element is a silver-white metal, with bluish tinge, capable 
+of taking a high polish. T element occurs abundantly in all ordinary rocks, except limestone and 
+sandstone; is third in abundance of the elements in the earth's crust and used to make drink cans. 
+The atomic number of this element is 13. Name t element. 
+ANSWER: ALUMINUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 25 
+CHEM-91; Multiple Choice: All alloys contain this element if they are amalga The element is: 
+w) iron 
+x) mercury 
+y) gold 
+z) platinum 
+ANSWER: X -- MERCURY 
+CHEM-91; Multiple Choice: Azo (pron: A-zo) Compounds characteristically are compounds 
+containing the group: 
+w) C2 
+x) N2 
+y) O2 
+z) Cl2 
+ANSWER: X -- N2 (N = N) 
+CHEM-91; Short Answer: I will be describing a chemical element. Try to identify it with the 
+fewest number of clues. This element is a halogen wh is a liquid at standard conditions. The 
+element volatilizes readily at ro temperature to form a reddish vapor which is very irritating to the 
+eyes a flesh. The atomic number of this element is 35 and its chemical symbol is Br. Name this 
+element.
+ANSWER: BROMINE 
+CHEM-91; Short Answer: Name the 5 elements of the periodic classification wh comprise the 
+Carbon Group. 
+ANSWER: CARBON, SILICON, GERMANIUM, TIN AND LEAD 
+CHEM-91; Multiple Choice: This noncombustible liquid in its dry form is noncorrosive to 
+common metals except aluminum. About 90% of all of this material which is manufactured goes 
+into the production of chlorofluorocarbons. Is this substance: 
+w) carbon tetrachloride 
+x) methylene chloride 
+y) hydrogen chloride 
+z) methyl fluoride 
+ANSWER: W -- CARBON TETRACHLORIDE
+
+Science Bowl CHEMISTRY 
+Chemisty - 26 
+CHEM-91; Multiple Choice: A compound which contains two ring structures havi one common 
+carbon atom is known as a: 
+w) spiro-compound 
+x) nonpolar compound 
+y) interstitial compound 
+z) inner compound 
+ANSWER: W -- SPIRO-COMPOUND 
+CHEM-91; Multiple Choice: Which of the following elements would form an acid oxide with the 
+formula XO2 and an acidic compound with hydrogen with the formula XH2? 
+w) Sodium 
+x) Magnesium 
+y) Aluminum 
+z) Sulfur 
+ANSWER: Z -- SULFUR 
+CHEM-91; Multiple Choice: Which of the following would have the largest THIR ionization 
+energy? Is it: 
+w) Boron 
+x) Carbon 
+y) Nitrogen 
+z) Magnesium 
+ANSWER: Z -- MAGNESIUM 
+CHEM-91; Multiple Choice: How many atoms of oxygen are in a glucose molecule 
+w) 2 
+x) 6 
+y) 10 
+z) 12 
+ANSWER: X -- 6
+
+Science Bowl CHEMISTRY 
+Chemisty - 27 
+CHEM-91; Multiple Choice: Which of the following compounds contains a double bond? 
+w) butene 
+x) acetylene 
+y) butane 
+z) propane 
+ANSWER: W -- BUTENE 
+CHEM-91; Multiple Choice: An alcohol is related to an ester as a hydroxide compound is related 
+to: 
+w) an acid 
+x) a ketone 
+y) an ether 
+z) a salt 
+ANSWER: Z -- A SALT 
+CHEM-91; Multiple Choice: In any chemical reaction, a quantity that decrease to a minimum is: 
+w) free energy 
+x) entropy 
+y) temperature 
+z) enthalpy 
+ANSWER: W -- FREE ENERGY 
+CHEM-91; Multiple Choice: It is believed that carbon-14 in nature is slowly generated by the 
+action of: 
+w) protons on carbon-12 
+x) electrons on hydrogen 
+y) cosmic rays on boron 
+z) neutrons on nitrogen 
+ANSWER: Z -- NEUTRONS ON NITROGEN 
+CHEM-91; Multiple Choice: When water at 10!C is heated to 20!C, its internal energy: 
+w) changes by 10!C 
+x) is doubled 
+y) is less than doubled 
+z) is more than doubled 
+ANSWER: Y -- IS LESS THAN DOUBLED
+
+Science Bowl CHEMISTRY 
+Chemisty - 28 
+CHEM-91; Multiple Choice: In the filling of electron orbitals for the elemen sulfur, which has 16 
+electrons, the number of electrons in the 3p orbitals is: 
+w) 3 
+x) 4 
+y) 6 
+z) 0 
+ANSWER: X -- 4 
+CHEM-91; Short Answer: You have a solution of 5 molar Sodium Phosphate and n to prepare a 
+solution of 500 millimolar Sodium Phosphate. How much water would you add to 100 milliliter 
+of the original 5 molar solution to produc the 500 millimolar solution? 
+ANSWER: 900 MILLILITERS (or 0.9 LITERS) 
+CHEM-91; Multiple Choice: Which of the following is the weakest acid? 
+w) hydrochloric acid 
+x) hydrofluoric acid 
+y) sulfuric acid 
+z) nitric acid 
+ANSWER: X -- HYDROFLUORIC ACID 
+CHEM-91; Short Answer: Marie Curie shared the 1911 Nobel Prize in chemistry with two fellow 
+chemists. Name them. 
+ANSWER: PIERRE CURIE and (A. HENRI) BECQUEREL 
+CHEM-91; Multiple Choice: A mystical substance supposedly released during combustion was 
+called: 
+w) thermal flax 
+x) ether 
+y) caloric 
+z) phlogiston (pron: flow-gis-ton) 
+ANSWER: Z -- PHLOGISTON
+
+Science Bowl CHEMISTRY 
+Chemisty - 29 
+CHEM-91; Multiple Choice: Of the following liquids, which is most dense? 
+w) water 
+x) gasoline 
+y) acetone 
+z) chloroform 
+ANSWER: Z -- CHLOROFORM 
+CHEM-91; Short Answer: What is the most abundant element in the human body, WEIGHT? 
+ANSWER: OXYGEN 
+CHEM-91; Multiple Choice: Solids may be considered to be either crystalline noncrystalline. 
+The basic difference between them is that a crystal, in contrast to a noncrystal: 
+w) has a sharp melting point 
+x) has an irregular array of atoms 
+y) exhibits double refraction 
+z) has a completely regular atomic or molecular structure 
+ANSWER: Z -- HAS A COMPLETELY REGULAR ATOMIC OR MOLECULAR 
+STRUCTURE 
+CHEM-91; Multiple Choice: The Rate Law expresses the rate of a reaction in terms of the 
+concentrations of the: 
+w) reactants 
+x) products 
+y) by-products 
+z) catalysts 
+ANSWER: W -- REACTANTS 
+CHEM-91; Multiple Choice: Hydrocarbons that contain a triple bond between carbon atoms are 
+known as: 
+w) alkenes 
+x) alkanes 
+y) alkynes 
+z) polymers 
+ANSWER: Y -- ALKYNES
+
+Science Bowl CHEMISTRY 
+Chemisty - 30 
+CHEM-91; Multiple Choice: Which of the following metals melts in your hand? 
+w) gallium 
+x) cesium 
+y) sodium 
+z) magnesium 
+ANSWER: W -- GALLIUM 
+CHEM-91; Multiple Choice: When vinegar and baking soda are mixed together, w gas is 
+formed?
+w) oxygen 
+x) nitrogen 
+y) carbon dioxide 
+z) hydrogen 
+ANSWER: Y -- CARBON DIOXIDE 
+CHEM-91; Short Answer: How many carbons are found in a propane molecule? 
+ANSWER: 3 
+CHEM-91; Multiple Choice: The atoms in sugar are bound by what type of bond? 
+w) ionic 
+x) hydrogen 
+y) covalent 
+z) van der Waals 
+ANSWER: Y -- COVALENT 
+CHEM-91; Multiple Choice: Which is an example of a polymer? 
+w) salt 
+x) oil 
+y) plastic 
+z) glucose 
+ANSWER: Y -- PLASTIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 31 
+CHEM-91; Multiple Choice: Vegetable oil is made into margarine through: 
+w) halogenation 
+x) partial hydrogenation 
+y) methylation 
+z) oxidation 
+ANSWER: X -- PARTIAL HYDROGENATION 
+CHEM-91; Multiple Choice: What is the name given to the equation PV=nRT? 
+w) law of partial pressure 
+x) ideal gas equation 
+y) quadratic equation 
+z) Raoult's equation 
+ANSWER: X -- IDEAL GAS EQUATION 
+CHEM-91; Short Answer: What term describes the process when a solid phase changes directly 
+to the gas phase? 
+ANSWER: SUBLIMATION 
+CHEM-91; Multiple Choice: Which of the following elements can form the great number of 
+covalent bonds? 
+w) carbon 
+x) nitrogen 
+y) oxygen 
+z) sulfur 
+ANSWER: Z -- SULFUR 
+CHEM-91; Multiple Choice: Which of the following elements forms a tetrahedra structure? 
+w) carbon 
+x) beryllium 
+y) boron 
+z) fluorine 
+ANSWER: W -- CARBON
+
+Science Bowl CHEMISTRY 
+Chemisty - 32 
+CHEM-91; Multiple Choice: Which of the following metals is a solid at room temperature, yet 
+melts in your hand? 
+w) gallium 
+x) cesium 
+y) sodium 
+z) magnesium 
+ANSWER: W -- GALLIUM 
+CHEM-91; Short Answer: When water and an active metal react, what are the tw products that 
+result? 
+ANSWER: HYDROGEN AND A BASE (HYDROXIDE) 
+CHEM-91; Multiple Choice: 2.5 liters of a sodium chloride (NaCl) solution contain 5 moles of 
+the solute. What is the molarity? 
+w) 5 molar 
+x) 2 molar 
+y) 2.5 molar 
+z) 12.5 molar 
+ANSWER: X -- 2 MOLAR 
+CHEM-91; Short Answer: What is the active ingredient in many common laxative that is also an 
+acid-base indicator? 
+ANSWER: PHENOLPHTHALEIN (pron: fEn-el-thal-E-en) 
+CHEM-91; Multiple Choice: The structure of an ammonia molecule can best be described as: 
+w) linear 
+x) tetrahedral 
+y) pyramidal 
+z) triagonal planar 
+ANSWER: Y -- PYRAMIDAL
+
+Science Bowl CHEMISTRY 
+Chemisty - 33 
+CHEM-91; Short Answer: What naturally occurring radioactive element is so common in homes 
+that testing for its presence is often advisable? 
+ANSWER: RADON 
+CHEM-91; Multiple Choice: How many moles of carbon are in 48 grams of carbon 
+w) 4 
+x) 3 
+y) 2 
+z) 1 
+ANSWER: W -- 4 
+CHEM-91; Short Answer: What is the molality of a salt solution prepared by dissolving two 
+moles of salt in 500 grams of water? 
+ANSWER: 4 
+CHEM-91; Short Answer: During electrolysis of water, what gas is evolved fro the cathode? 
+ANSWER: HYDROGEN 
+CHEM-91; Multiple Choice: Crude oil is separated into its components by: 
+w) chemical reaction 
+x) simple distillation 
+y) fractional distillation 
+z) settling 
+ANSWER: Y -- FRACTIONAL DISTILLATION 
+CHEM-91; Short Answer: What compound occurs when ammonia and hydrogen chlori are 
+mixed together? 
+ANSWER: AMMONIUM CHLORIDE FORMS 
+CHEM-91; Short Answer: The acid present in vinegar is: 
+ANSWER: ACETIC ACID
+
+Science Bowl CHEMISTRY 
+Chemisty - 34 
+CHEM-91; Multiple Choice: What force between molecules tends to cause most common gases 
+to behave as non-ideal gases? 
+w) Van der Waals' force 
+x) ionic bonding force 
+y) gravitational force 
+z) covalent bonding force 
+ANSWER: W -- VAN DER WAALS' FORCE 
+CHEM-91; Short Answer: What UNUSUAL type of bonding occurs in diborane, B2H6 
+ANSWER: THREE CENTER BONDING 
+CHEM-91; Multiple Choice: What is the name given to the non-superimposable mirror image 
+forms of chiral compounds? 
+w) cis-trans 
+x) enantiomers 
+y) functional isomers 
+z) diasteriomers 
+ANSWER: X -- ENANTIOMERS 
+CHEM-91; Multiple Choice: Which of the following is the EMPIRICAL formula of dodecane? 
+w) C5H11 
+x) C6H13 
+y) C10H22 
+z) C12H26 
+ANSWER: X -- C6H13 
+CHEM-91; Short Answer: What is the chemical formula for baking soda? 
+ANSWER: NaHCO3
+
+Science Bowl CHEMISTRY 
+Chemisty - 35 
+CHEM-91; Multiple Choice: Copper is refined commercially by a process of: 
+w) smelting 
+x) electrolysis 
+y) sublimation 
+z) roasting 
+ANSWER: X -- ELECTROLYSIS 
+CHEM-91; Multiple Choice: The action of concentrated sulfuric acid on sugar best described as: 
+w) catalysis 
+x) oxidation 
+y) reduction 
+z) dehydration 
+ANSWER: Z -- DEHYDRATION 
+CHEM-91; Multiple Choice: A metal that does NOT occur native in the earth is 
+w) copper 
+x) gold 
+y) sodium 
+z) silver 
+ANSWER: Y -- SODIUM 
+CHEM-91; Short Answer: What metal is used as a reducing agent to obtain iron from iron oxide 
+in the Thermite process? 
+ANSWER: ALUMINUM 
+CHEM-91; Short Answer: What compound is formed when all the hydrogen of an a has been 
+replaced by a metal? 
+ANSWER: A SALT 
+CHEM-91; Short Answer: Glycerine and what other substance are made by heatin animal fats or 
+vegetable oils with sodium hydroxide? 
+ANSWER: SOAP
+
+Science Bowl CHEMISTRY 
+Chemisty - 36 
+CHEM-91; Short Answer: What is the formula for the anhydride of sulfuric aci 
+ANSWER: SO3 
+CHEM-91; Multiple Choice: Under similar conditions, which of the following i is the best 
+reducing agent under similar conditions? 
+w) fluoride ion 
+x) chloride ion 
+y) bromide ion 
+z) iodide ion 
+ANSWER: Z -- IODIDE ION 
+CHEM-91; Multiple Choice: How many carbon atoms are there in one napthalene molecule? 
+w) 6 
+x) 8 
+y) 10 
+z) 15 
+ANSWER: Y -- 10 
+CHEM-91; Multiple Choice: A process in which substances are separated throug differences in 
+the rates at which the components migrate is called: 
+w) filtration 
+x) chromatography 
+y) elution 
+z) titration 
+ANSWER: X -- CHROMATOGRAPHY 
+CHEM-91; Short Answer: What is the name of the bond that joins amino acids together in a 
+protein?
+ANSWER: PEPTIDE BOND or AMIDE
+
+Science Bowl CHEMISTRY 
+Chemisty - 37 
+CHEM-91; Multiple Choice: Which bond has the LEAST ionic character? 
+w) H - F 
+x) Li - F 
+y) Li - Br 
+z) F - F 
+ANSWER: Z -- F - F 
+CHEM-91; Multiple Choice: The lanthanide series elements are also known as: 
+w) rare earth elements 
+x) non-metals 
+y) fifth period elements 
+z) sixth period elements 
+ANSWER: W -- RARE EARTH ELEMENTS 
+CHEM-91; Multiple Choice: If the first ionization energy of magnesium is 176 kilocalories per 
+mole, one would expect the second ionization energy t be approximately: 
+w) 350 kilocalories per mole 
+x) 1,760 kilocalories per mole 
+y) 200 kilocalories per mole 
+z) 20 kilocalories per mole 
+ANSWER: W -- 350 KILOCALORIES PER MOLE 
+CHEM-91; Short Answer: When considering electron orbitals, which orbital is generally 
+considered spherical? 
+ANSWER: S ORBITAL 
+CHEM-91; Short Answer: The angle between any two carbon-hydrogen bonds in a methane 
+molecule is how many degrees? 
+ANSWER: 109.5 DEGREES 
+CHEM-91; Short Answer: Jaroslav Heyrovsky (Czechoslovakiw) received the 1959 Nobel Prize 
+in chemistry for developing what technique used in chemical analysis? 
+ANSWER: POLAROGRAPHY
+
+Science Bowl CHEMISTRY 
+Chemisty - 38 
+CHEM-91; Multiple Choice: Ferrous is an equivalent name for which of the following? 
+w) Iron (IV) (pron: iron-4) 
+x) Iron (III) (pron: iron-3) 
+y) Iron (II) (pron: iron-2) 
+z) Iron (I) (pron: iron-1) 
+ANSWER: Y -- IRON (II) 
+CHEM-91; Multiple Choice: Mass percentage of carbon in CO2 is approximately: 
+w) 37.5% 
+x) 27.3% 
+y) 75% 
+z) 45% 
+ANSWER: X -- 27.3% 
+CHEM-91; Multiple Choice: Harold Clayton Urey, an American, received the 193 Nobel Prize in 
+chemistry for his discovery of: 
+w) Francium 
+x) Americium 
+y) deuterium 
+z) protium 
+ANSWER: Y -- DEUTERIUM 
+CHEM-91; Multiple Choice: The most abundant element in the universe is thoug to be: 
+w) carbon 
+x) oxygen 
+y) hydrogen 
+z) nitrogen 
+ANSWER: Y -- HYDROGEN
+
+Science Bowl CHEMISTRY 
+Chemisty - 39 
+CHEM-91; Multiple Choice: The 1936 Nobel Prize in chemistry was awarded to Peter J.W. 
+Debye for his studies of: 
+w) kinetic energy of colliding particles 
+x) electron configuration 
+y) dipole moments 
+z) conformations of cyclohexane 
+ANSWER: Y -- DIPOLE MOMENTS 
+CHEM-91; Multiple Choice: The inventor of the Kelvin temperature scale was: 
+w) K. Cavendish II 
+x) Lord William H. Harrison 
+y) Sir William Thomson 
+z) none of the above 
+ANSWER: Y -- SIR WILLIAM THOMSON (Lord Kelvin) 
+CHEM-91; Multiple Choice: "Under the same conditions of temperature and pressure, the 
+volumes of reacting gases and of their gaseous products are expressed in ratios of small whole 
+numbers." This law is attributed to: 
+w) Dalton 
+x) Gay-Lussac 
+y) Ramsay 
+z) Avogadro 
+ANSWER: X -- GAY-LUSSAC 
+CHEM-91; Multiple Choice: The type of crystal lattice exemplified in a diamo is: 
+w) ionic crystal 
+x) covalent network crystal 
+y) metallic crystal 
+z) covalent molecular crystal 
+ANSWER: X -- COVALENT NETWORK CRYSTAL
+
+Science Bowl CHEMISTRY 
+Chemisty - 40 
+CHEM-91; Multiple Choice: A crystallized substance containing water of crystallization is most 
+appropriately termed: 
+w) a hydrate 
+x) an oxide 
+y) a hydroxide 
+z) a condensation crystal 
+ANSWER: W -- A HYDRATE 
+CHEM-91; Multiple Choice: The loss of water of crystallization from a hydrat when exposed to 
+air is termed: 
+w) efflorescence (pron: eh-floor-es-ence) 
+x) deliquescence (pron: del-i-kwes-ence) 
+y) quiescence (pron: kwi-es-ence) 
+z) anhydrogenation 
+ANSWER: W -- EFFLORESCENCE 
+CHEM-91; Multiple Choice: Mayonnaise is: 
+w) a coalescent solution 
+x) a hydrogenated oil 
+y) a covalent solution 
+z) an emulsion 
+ANSWER: Z -- AN EMULSION 
+CHEM-91; Multiple Choice: "The solubility of a gas in a liquid is directly proportional to the 
+pressure of the gas above the liquid" is a fair statem of: 
+w) Dalton's secondary law 
+x) Le Chatelier's solubility principle 
+y) Henry's law 
+z) none of the above 
+ANSWER: Y -- HENRY'S LAW
+
+Science Bowl CHEMISTRY 
+Chemisty - 41 
+CHEM-91; Multiple Choice: Solubility of a gas in a liquid exhibits what type proportionality to 
+the liquid temperature? 
+w) direct 
+x) inverse 
+y) logarithmic 
+z) exponential 
+ANSWER: X -- INVERSE 
+CHEM-91; Multiple Choice: A negative heat of solution indicates that: 
+w) an endothermic dissolving process occurs 
+x) solute solubility increases with rising solution temperature 
+y) solute solubility decreases with rising solution temperature 
+z) super-saturation conditions exist 
+ANSWER: Y -- SOLUTE SOLUBILITY DECREASES WITH RISING SOLUTION 
+TEMPERATURE 
+CHEM-91; Multiple Choice: A colligative property depends on: 
+w) chemical properties of particles in system 
+x) physical properties of particles in system 
+y) number of particles present in system 
+z) all of the above 
+ANSWER: Y -- NUMBER OF PARTICLES PRESENT IN SYSTEM 
+CHEM-91; Multiple Choice: My theory of electrolytic dissociation earned me t 1903 Nobel Prize 
+in chemistry. My name is: 
+w) Niels Bohr 
+x) Svante Arrhenius 
+y) Michael Faraday 
+z) John Cavendish 
+ANSWER: X -- SVANTE ARRHENIUS
+
+Science Bowl CHEMISTRY 
+Chemisty - 42 
+CHEM-91; Multiple Choice: A net ionic equation does NOT show: 
+w) electronic charges 
+x) solid products (precipitates) 
+y) spectator ions 
+z) reacting species 
+ANSWER: Y -- SPECTATOR IONS 
+CHEM-91; Multiple Choice: The theory of interionic attraction attributed to Debye and H�ckel: 
+w) was disproved by Arrhenius 
+x) accounts quantitatively for the attraction between ions in dilute aqueous solutions 
+y) does not account for kindered "ion-activity" 
+z) accounts for intra-molecular polar bonds 
+ANSWER: X -- ACCOUNTS QUANTITATIVELY FOR THE ATTRACTION 
+BETWEEN IONS IN DILUTE AQUEOUS SOLUTIONS 
+CHEM-91; Multiple Choice: HCl is dissolved in solvent A; the solution is non-conducting 
+towards an electric current. Solvent A must be: 
+w) polar 
+x) non-polar 
+y) organic 
+z) more acidic than HCl 
+ANSWER: X -- NON-POLAR 
+CHEM-91; Multiple Choice: HClO3 is commonly named: 
+w) hydrochloric acid 
+x) chloric acid 
+y) perchloric acid 
+z) chlorous acid 
+ANSWER: X -- CHLORIC ACID 
+CHEM-91; Multiple Choice: Any species that acts as an electron-pair acceptor a: 
+w) Lewis base 
+x) Bronsted base 
+y) Lewis acid 
+z) Bronsted acid 
+ANSWER: Y -- LEWIS ACID
+
+Science Bowl CHEMISTRY 
+Chemisty - 43 
+CHEM-91; Multiple Choice: Amphoteric substances: 
+w) act as either bases or acids 
+x) precipatate from aqueous solutions 
+y) salt out of basic solutions 
+z) form emulsions in oils 
+ANSWER: W -- ACT AS EITHER BASES OR ACIDS 
+CHEM-91; Multiple Choice: One equivalent of a triprotic acid is the same as: 
+w) one mole of the acid 
+x) one-third mole of the acid 
+y) three moles of the acid 
+z) three equivalents of a diprotic acid 
+ANSWER: X -- ONE-THIRD MOLE OF THE ACID 
+CHEM-91; Multiple Choice: The pH range over which an indicator color change occurs is 
+referred to as its: 
+w) titration range 
+x) titration constant 
+y) transition interval 
+z) none of the above 
+ANSWER: Y -- TRANSITION INTERVAL 
+CHEM-91; Multiple Choice: In a photosynthesis reaction, chlorophyll is: 
+w) a reactant 
+x) a product
+y) a catalyst 
+z) an intermediate 
+ANSWER: Y -- A CATALYST 
+CHEM-91; Multiple Choice: All systems of measurement use the same units for which of the 
+following? 
+w) mass 
+x) time 
+y) force 
+z) volume 
+ANSWER: X -- TIME
+
+Science Bowl CHEMISTRY 
+Chemisty - 44 
+CHEM-91; Multiple Choice: If the temperature of the atmosphere rose 50 degr on a Fahrenheit 
+thermometer, the rise on a Celsius thermometer would have been: 
+w) 90 degrees 
+x) 82.3 degrees 
+y) 50.3 degrees 
+z) 27.8 degrees 
+ANSWER: Z -- 27.8 DEGREES 
+CHEM-91; Multiple Choice: In which of the branches of chemistry would the development of a 
+theory about how a reaction takes place best be carried o 
+w) analytical 
+x) inorganic 
+y) organic 
+z) physical 
+ANSWER: Z -- PHYSICAL 
+CHEM-91; Short Answer: What is the name of the alkane that is composed of a chain of five 
+carbon atoms? 
+ANSWER: PENTANE 
+CHEM-91; Short Answer: How many hydrogens are there in the straight chain alkane that has 
+three carbon atoms? 
+ANSWER: EIGHT 
+CHEM-91; Short Answer: What substance is produced at the cathode in the electrolysis of 
+molten sodium chloride? 
+ANSWER: SODIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 45 
+CHEM-91; Multiple Choice: Which class of solids could have London Forces the attractive 
+forces between particles in crystal lattice positions? 
+w) ionic 
+x) covalent 
+y) metallic 
+z) molecular 
+ANSWER: Z -- MOLECULAR 
+CHEM-91; Multiple Choice: Surface tension of liquids is the result of which the following: 
+w) interaction of a liquid with its container 
+x) unbalanced forces on the liquid's surface molecules 
+y) adhesive forces of the liquid 
+z) interaction of the liquid's surface molecules and the applied pressure 
+ANSWER: X -- UNBALANCED FORCES ON THE LIQUID'S SURFACE 
+MOLECULES 
+CHEM-91; Multiple Choice: Which of the following liquid types would have th highest 
+viscosity? 
+w) low molecular mass-polar liquid 
+x) high molecular mass-polar liquid 
+y) low molecular mass-nonpolar liquid 
+d high molecular mass-nonpolar liquid 
+ANSWER: X -- HIGH MOLECULAR MASS-POLAR LIQUID 
+CHEM-91; Multiple Choice: What two primary factors determine whether or no molecular 
+collision leads to a chemical reaction? 
+w) energy and volume of molecules 
+x) energy and mass of molecules 
+y) energy and orientation of molecules 
+z) orientation and volume of molecules 
+ANSWER: Y -- ENERGY AND ORIENTATION OF MOLECULES
+
+Science Bowl CHEMISTRY 
+Chemisty - 46 
+CHEM-91; Multiple Choice: An Arrhenius acid is a substance that: 
+w) donates protons 
+x) accepts protons 
+y) donates hydrogen ions to water 
+z) donates hydroxide ions to water 
+ANSWER: Y -- DONATES HYDROGEN IONS TO WATER 
+CHEM-91; Short Answer: Name the conjugate acid of bicarbonate ion. 
+ANSWER: CARBONIC ACID 
+CHEM-91; Short Answer: What is the name of H2SO3? 
+ANSWER: SULFUROUS ACID 
+CHEM-91; Short Answer: What is the formula for Magnesium Nitride? 
+ANSWER: Mg3N2 
+CHEM-91; Short Answer: What is the I-U-P-A-C (pron: eye-you pack) name for a cyclic alkane 
+containing four carbons? 
+ANSWER: CYCLOBUTANE 
+CHEM-91; Multiple Choice: Dacron is a: 
+w) polyamide 
+x) polyester 
+y) polyether 
+z) polyolefin 
+ANSWER: X -- POLYESTER
+
+Science Bowl CHEMISTRY 
+Chemisty - 47 
+CHEM-91; Multiple Choice: Which of the following is produced when polyvinyl chloride is 
+burned?
+w) Hydrogen Cyanide 
+x) Hydrogen Chloride 
+y) Nitrogen Oxide 
+z) Oxygen 
+ANSWER: X -- HYDROGEN CHLORIDE 
+CHEM-91; Multiple Choice: Which of the following best describes Nylon? 
+w) polyamide 
+x) polyester 
+y) polyolefin 
+z) acrylic 
+ANSWER: W -- POLYAMIDE 
+CHEM-91; Short Answer: How many valence electrons does an atom of an element with an 
+atomic number of twelve have? 
+ANSWER: TWO 
+CHEM-91; Multiple Choice: Which of the following compounds contains both io and covalent 
+bonds? 
+w) Calcium Chloride 
+x) Carbon Dioxide 
+y) Calcium Fluoride 
+z) Calcium Sulfate 
+ANSWER: Z -- CALCIUM SULFATE 
+CHEM-91; Short Answer: Name the two major ingredients in vinegar. 
+ANSWER: ACETIC ACID AND WATER 
+CHEM-91; Short Answer: Solution A has a pH of 2 while solution B has a pH o 7. How many 
+times more acidic is solution A than Solution B? 
+ANSWER: ONE HUNDRED THOUSAND or TEN TO THE FIFTH POWER 
+
+Science Bowl CHEMISTRY 
+Chemisty - 48 
+CHEM-91; Short Answer: What is the oxidation number of sulfur in HS-? (read HS minus one) 
+ANSWER: -2 
+CHEM-91; Multiple Choice: Which of the following compounds is the strongest acid? 
+w) NH3 
+x) PH3 
+y) H2O 
+z) H2S 
+ANSWER: Z -- H2S 
+CHEM-91; Multiple Choice: Which of the following compounds is the strongest base? 
+w) NH3 
+x) PH3 
+y) H2O 
+z) H2S 
+ANSWER: W -- NH3 
+CHEM-91; Multiple Choice: Which of the following molecules does NOT have a dipole moment 
+of zero?
+w) BeCl2 
+x) BF3 
+y) CO2 
+z) NH3 
+ANSWER: Z -- NH3 
+CHEM-91; Multiple Choice: Which of the following minerals is a source of iro 
+w) Bauxite (pron: box-ite) 
+x) Hematite (pron: he-ma-tite) 
+y) Malachite (pron: mal-ah-kite) 
+z) Galena (pron: ga-lee-nah) 
+ANSWER: X -- HEMATITE
+
+Science Bowl CHEMISTRY 
+Chemisty - 49 
+CHEM-91; Multiple Choice: Which of the following metals is LEAST reactive toward 
+atmospheric oxygen? 
+w) Lead 
+x) Copper 
+y) Iron 
+z) Aluminum 
+ANSWER: X -- COPPER 
+CHEM-91; Short Answer: Brass is an alloy of what two elements? 
+ANSWER: COPPER AND ZINC 
+CHEM-91; Multiple Choice: Which of the following are alloying materials used the manufacture 
+of stainless steel? 
+w) Limestone and carbon 
+x) Calcium oxide and oxygen 
+y) Oxygen and sulfur dioxide 
+z) Chromium and nickel 
+ANSWER: Z -- CHROMIUM AND NICKEL 
+CHEM-91; Multiple Choice: Which of the following materials are used in the manufacture of pig 
+iron from iron ore? 
+w) Limestone and carbon 
+x) Calcium oxide and oxygen 
+y) Chromium and nickel 
+z) Oxygen and sulfur dioxide 
+ANSWER: W -- LIMESTONE AND CARBON 
+CHEM-91; Multiple Choice: How many neighboring atoms are in contact with eac atom in a 
+monatomic body-centered cubic structure. 
+w) 4 
+x) 6 
+y) 8 
+z) 12 
+ANSWER: Y -- 8
+
+Science Bowl CHEMISTRY 
+Chemisty - 50 
+CHEM-91; Short Answer: How many neighboring atoms are in contact with each a in a 
+hexagonal close-packed structure? 
+ANSWER: 12 
+CHEM-91; Multiple Choice: Members of which of the following classes of compounds generally 
+produce acidic solutions when dissolved in water? 
+w) metal oxides 
+x) nonmetal oxides 
+y) alcohols 
+z) aldehydes 
+ANSWER: X -- NONMETAL OXIDES 
+CHEM-91; Multiple Choice: Which of the following substances is a molecular solid? 
+w) Glass 
+x) Ice 
+y) Silver 
+z) Table Salt 
+ANSWER: X -- ICE 
+CHEM-91; Multiple Choice: Which of the following substances is an ionic netw solid? 
+w) Diamond 
+x) Table Salt 
+y) Brass 
+z) Dry ice 
+ANSWER: X -- TABLE SALT 
+CHEM-91; Multiple Choice: Which of the following compounds has the highest boiling point? 
+w) CH4 
+x) CCL4 
+y) HI 
+z) IF5 
+ANSWER: Z -- IF5
+
+Science Bowl CHEMISTRY 
+Chemisty - 51 
+CHEM-91; Multiple Choice: Which of the following compounds has the lowest boiling points? 
+w) CH4 
+x) CCl4 
+y) PH3 
+z) PCl3 
+ANSWER: W -- CH4 
+CHEM-91; Multiple Choice: What is the primary constituent of marble? 
+w) Calcium carbonate 
+x) Calcium sulfate 
+y) Hydroxyapatite 
+z) Chloroapatite 
+ANSWER: W -- CALCIUM CARBONATE 
+CHEM-91; Multiple Choice: An aqueous solution whose concentration effectivel matches the 
+concentration of blood is said to be: 
+w) isotopic 
+x) isobaric 
+y) isotonic 
+z) isoelectronic 
+ANSWER: Y -- ISOTONIC 
+CHEM-91; Multiple Choice: A family of organic compounds whose molecules will add water 
+under an acid catalysis and change into alcohols are the: 
+w) alkenes 
+x) alkanes 
+y) aromatic hydrocarbons 
+z) cycloalkanes 
+ANSWER: W -- ALKENES
+
+Science Bowl CHEMISTRY 
+Chemisty - 52 
+CHEM-91; Multiple Choice: The substance whose chemical formula is CH3OH is known as 
+w) carbonated water 
+x) grain alcohol 
+y) potable alcohol 
+z) methanol 
+ANSWER: Z -- METHANOL 
+CHEM-91; Multiple Choice: The azimuthal quantum number determines the: 
+w) spin of an electron 
+x) shape of an orbital 
+y) size of an orbital 
+z) energy of an orbital 
+ANSWER: X -- SHAPE OF AN ORBITAL 
+CHEM-91; Multiple Choice: An orbital for which n=3 and l = 1 (read: ell equa 1) is called a: 
+w) 2d orbital 
+x) 3d orbital 
+y) 3s orbital 
+z) 3p orbital 
+ANSWER: Z -- 3p ORBITAL 
+CHEM-91; Multiple Choice: The elements that have an outer electron configuration ns2 (read: n 
+- s - 2) are called: 
+w) halogens 
+x) transition metals 
+y) alkaline earths 
+z) noble gases 
+ANSWER: Y -- ALKALINE EARTHS 
+CHEM-91; Multiple Choice: Unpaired electrons are present in ground-state ato of: 
+w) Helium 
+x) Calcium 
+y) Oxygen 
+z) Magnesium 
+ANSWER: Y -- OXYGEN
+
+Science Bowl CHEMISTRY 
+Chemisty - 53 
+CHEM-91; Multiple Choice: How many unpaired electrons are there in the groun state of Al3+? 
+w) 0 
+x) 1 
+y) 2 
+z) 3 
+ANSWER: W -- 0 
+CHEM-91; Multiple Choice: Of the following elements which has the largest atomic radius? 
+w) Ba 
+x) F 
+y) C 
+z) Be 
+ANSWER: W -- Ba 
+CHEM-91; Multiple Choice: Which of the following species has the smallest equilibrium 
+separation for its ion-pair? 
+w) KF 
+x) LiF 
+y) BaBr 
+z) NaCl 
+ANSWER: B -- LiF 
+CHEM-91; Short Answer: How many resonance forms are possible for the Lewis structure of 
+SO3? 
+ANSWER: 3 
+CHEM-91; Multiple Choice: Which of the following molecules exhibit resonance 
+w) OF3 
+x) HNO3 
+y) C2H4 
+z) PCl3 
+ANSWER: X -- HNO3
+
+Science Bowl CHEMISTRY 
+Chemisty - 54 
+CHEM-91; Multiple Choice: The molecular shape of formaldehyde, H2CO, is: 
+w) linear 
+x) trigonal planar 
+y) bent 
+z) tetrahedral 
+ANSWER: X -- TRIGONAL PLANAR 
+CHEM-91; Multiple Choice: Which of the following molecules is linear? 
+w) SO2 
+x) O3 
+y) XeF2 
+z) H2S 
+ANSWER: Y -- XeF2 
+CHEM-91; Short Answer: What bond angle is associated with sp hybrid orbitals 
+ANSWER: 180 DEGREES 
+CHEM-91; Short Answer: What bond angle is associated with sp2 hybrid orbital 
+ANSWER: 120 DEGREES 
+CHEM-91; Multiple Choice: Which of the following molecules would have the smallest molar 
+enthalpy of vaporization? 
+w) Water 
+x) Formaldehyde 
+y) Methane 
+z) Ammonia 
+ANSWER: Y -- METHANE 
+CHEM-91; Short Answer: The pH of a 0.005 molar solution of calcium hydroxide is: 
+ANSWER: 12
+
+Science Bowl CHEMISTRY 
+Chemisty - 55 
+CHEM-91; Multiple Choice: Which of the following compounds is ONLY WEAKLY soluble in 
+cold water? 
+w) Silver Nitrate 
+x) Sodium Carbonate 
+y) Sodium Chloride 
+z) Lead Chloride 
+ANSWER: Z -- LEAD CHLORIDE 
+CHEM-91; Multiple Choice: Radioactive decay is a: 
+w) zero-order process 
+x) temperature-dependent process 
+y) first-order process 
+z) second-order process 
+ANSWER: Y -- FIRST-ORDER PROCESS 
+CHEM-91; Multiple Choice: The first organic compound synthesized in 1828 by Frederich 
+Wohler was: 
+w) benzene 
+x) urea 
+y) estrogen 
+z) methane 
+ANSWER: X -- UREA 
+CHEM-91; Multiple Choice: Moth balls contain: 
+w) formalin 
+x) chitin (pron: kite-en) 
+y) formaldehyde 
+z) naphthalene 
+ANSWER: Z -- NAPHTHALENE
+
+Science Bowl CHEMISTRY 
+Chemisty - 56 
+CHEM-91; Multiple Choice: In commercial vulcanization, crosslinking is introduced by the 
+addition of: 
+w) sulfur 
+x) toluene 
+y) silicon 
+z) phosphorus 
+ANSWER: W -- SULFUR 
+CHEM-91; Multiple Choice: The alcohol with lowest molecular weight is: 
+w) isopropanol 
+x) propanol 
+y) ethanol 
+z) methanol 
+ANSWER: Z -- METHANOL 
+CHEM-91; Multiple Choice: The chemical symbol for antimony is: 
+w) An 
+x) Sn 
+y) Sb 
+z) At 
+ANSWER: Y -- Sb 
+CHEM-91; Multiple Choice: Which of the following inert gas atoms is the heaviest? 
+w) xenon 
+x) neon 
+y) radon 
+z) krypton 
+ANSWER: Y -- RADON 
+CHEM-91; Multiple Choice: The major constituent of marsh gas is: 
+w) methane 
+x) propane 
+y) benzene 
+z) ethanol 
+ANSWER: W -- METHANE
+
+Science Bowl CHEMISTRY 
+Chemisty - 57 
+CHEM-91; Multiple Choice: The element used in treating manic depression is: 
+w) sulfur 
+x) nitrogen 
+y) calcium 
+z) lithium 
+ANSWER: Z -- LITHIUM 
+CHEM-91; Multiple Choice: Teflon is produced by polymerizing ethylene which hydrogen 
+substituted with one of the following elements: 
+w) teflinium 
+x) tin 
+y) fluorine 
+z) carbon 
+ANSWER: Y -- FLUORINE 
+CHEM-91; Multiple Choice: Cyclohexanone is an example of: 
+w) an aldehyde 
+x) a carboxylic acid 
+y) an alkyne 
+z) a ketone 
+ANSWER: Z -- A KETONE 
+CHEM-91; Multiple Choice: One source of Acid Rain is: 
+w) sulfur in fossil fuels 
+x) carbon in coal 
+y) hydrogen in hydrocarbons 
+z) chloroflorocarbons in aerosols 
+ANSWER: W -- SULFUR IN FOSSIL FUELS 
+CHEM-91; Short Answer: Name the PRINCIPAL cancer-causing agent in Agent Oran 
+ANSWER: DIOXIN 
+or TCDD 
+or DIMETHOXANE 
+or 2,3,7,8 - TETRACHLORODIBENZO-P-DIOXIN 
+or 2,6-DIMETHYL-DIOXAN-Y-YL ACETATE
+
+Science Bowl CHEMISTRY 
+Chemisty - 58 
+CHEM-91; Short Answer: What was the principal use of Agent Orange? 
+ANSWER: AS A DEFOLIANT (or herbicide) 
+CHEM-91; Short Answer: What chemical functionality do unsaturated fatty acid contain that 
+saturated fatty acids do not? 
+ANSWER: DOUBLE BONDS or CARBON-CARBON DOUBLE BONDS 
+CHEM-91; Short Answer: Priestley called the gas he prepared "perfect air", b it was later named 
+"oxygen" by whom? 
+ANSWER: LAVOISIER 
+CHEM-91; Short Answer: What compound accounts for the unpleasant odor in decayed eggs? 
+ANSWER: HYDROGEN SULFIDE 
+CHEM-91; Short Answer: Name any two of the four elements that are ferromagne at 0!C. 
+ANSWER: IRON (Fe), COBALT (Co), NICKEL (Ni) AND GADOLINIUM (Gz) 
+CHEM-91; Short Answer: The chemical element present in greatest abundance in the earth's 
+crust is:
+ANSWER: OXYGEN 
+CHEM-91; Multiple Choice: Chlorine is used in swimming pools as a disinfecta In its natural, 
+standard state it is a: 
+w) blue liquid 
+x) colorless crystals 
+y) yellow-green gas 
+z) reddish-brown gas 
+ANSWER: Y -- YELLOW-GREEN GAS
+
+Science Bowl CHEMISTRY 
+Chemisty - 59 
+CHEM-91; Short Answer: What is responsible for the reddish, brown color of photochemical 
+smog? 
+ANSWER: NITROGEN DIOXIDE or NO2 
+CHEM-91; Multiple Choice: What is the pH of an aqueous solution of 0.1 molar HCl? 
+w) 7 
+x) 13 
+y) 1 
+z) 3 
+ANSWER: Y -- 1 
+CHEM-91; Short Answer: What is the ground-state configuration for Na+? The atomic atomic 
+number for sodium is eleven. 
+ANSWER: 1S22S22p6 
+CHEM-91; Multiple Choice: Which of the following four compounds would have t most ionic 
+bond? 
+w) CH4 
+x) LiF 
+y) CsF 
+z) N2 
+ANSWER: Y -- CsF 
+CHEM-91; Multiple Choice: Charcoal is 'activated' by: 
+w) heating it in the absence of air 
+x) heating it in steam 
+y) destructive distillation 
+z) absorption 
+ANSWER: X -- HEATING IT IN STEAM
+
+Science Bowl CHEMISTRY 
+Chemisty - 60 
+CHEM-91; Multiple Choice: Which of the following atoms or ions would be the smallest? 
+w) sodium atom 
+x) magnesium atom 
+y) singly charged sodium ion 
+z) doubly charged magnesium ion 
+ANSWER: Z -- DOUBLY CHARGED MAGNESIUM ION 
+CHEM-92; Multiple Choice: Which of the following chemists was the first to use letters as 
+symbols for elements? 
+w) Ernest Oliver Lawrence 
+x) Louis Andrew Proust 
+y) Jons Jacob Berzelius 
+z) none of these 
+ANSWER: Y -- JONS JACOB BERZELIUS 
+CHEM-92; Multiple Choice: Which of the following indicates the shape of the orbital in which the 
+electron moves? 
+w) principal quantum number 
+x) spin quantum number 
+y) angular momentum quantum number 
+z) none of these 
+ANSWER: Y -- ANGULAR MOMENTUM QUANTUM NUMBER 
+CHEM-92; Short Answer: Which quantum number indicates the shape of the orbital in which the 
+electron moves? 
+ANSWER: B -- SPIN QUANTUM NUMBER 
+CHEM-92; Multiple Choice: Which of the following terms refers to the energy released when an 
+electron is added to a neutral atom? 
+w) electrovalence 
+x) electron affinity 
+y) electroconductance 
+z) none of these 
+ANSWER: X -- ELECTRON AFFINITY
+
+Science Bowl CHEMISTRY 
+Chemisty - 61 
+CHEM-92; Short Answer: What is the EMPIRICAL FORMULA for Benzene? 
+ANSWER: CH 
+CHEM-92; Short Answer: How many electrons are there in the valence shell of a calcium atom? 
+ANSWER: 2 
+CHEM-92; Short Answer: Who is credited, in the history of modern chemistry, with discovering 
+X-rays?
+ANSWER: WILLIAM ROENTGEN 
+CHEM-92; Short Answer: Which of the following would be most acidic? 
+w) phenol 
+x) methanol 
+y) acetic acid 
+z) methyl amine 
+ANSWER: C -- ACETIC ACID 
+CHEM-92; Multiple Choice: Which of the following elements has the highest electronegativity? 
+w) Lithium 
+x) Iodine 
+y) Cesium 
+z) Oxygen 
+ANSWER: D -- OXYGEN 
+CHEM-92; Multiple Choice: For which molecule can the bonding be described in terms of sp3 
+hybrid orbitals of the central atom? 
+w) CH4 
+x) SF6 
+y) BF3 
+z) PCL5 
+ANSWER: B -- CH4
+
+Science Bowl CHEMISTRY 
+Chemisty - 62 
+CHEM-92; Multiple Choice: Which of the following molecules has a dipole moment? 
+w) BF3 
+x) NH3 
+y) CCL4 
+z) CH4 
+ANSWER: B -- NH3 
+CHEM-92; Multiple Choice: Which of the following chemical reactions does not lead to 
+formation of a salt? 
+w) Reaction of salts with acids. 
+x) The reaction of base anhydrides with acid anhydrides. 
+y) Action of water on oxides of nonmetals. 
+z) Reaction of acid with base. 
+ANSWER: Y -- ACTION OF WATER ON OXIDES OF NONMETALS. (If water 
+reacts with oxides of nonmetals, an acid is formed.) 
+CHEM-92; Multiple Choice: Which of the following elements gains electrons most readily? 
+w) Sodium 
+x) Magnesium 
+y) Aluminum 
+z) Fluorine 
+ANSWER: D -- FLUORINE 
+CHEM-92; Multiple Choice: The pH of water will be decreased to below pH 7 by the hydrolysis 
+of which of the following? 
+w) sodium carbonate 
+x) sodium chloride 
+y) ammonium chloride 
+z) potassium bromide 
+ANSWER: C -- AMMONIUM CHLORIDE 
+CHEM-92; Short Answer: What does the acronym NMR stand for: 
+ANSWER: NUCLEAR MAGNETIC RESONANCE
+
+Science Bowl CHEMISTRY 
+Chemisty - 63 
+CHEM-92; Short Answer: During the electrolysis of a dilute aqueous solution of sulfuric acid, 
+what happens to the sulfuric acid concentration? 
+ANSWER: IT REMAINS THE SAME 
+CHEM-92; Short Answer: What is the name for the element whose symbol is Tl (pron: T - L)? 
+ANSWER: THALLIUM 
+CHEM-92; Short Answer: Name the process used to obtain Aluminum by electrolysis of 
+aluminum oxide dissolved in molten cryolite? 
+ANSWER: HALL PROCESS 
+CHEM-92; Short Answer: what is the name given to a semisolid suspension of a material of high 
+molecular mass in a liquid solvent? 
+ANSWER: GEL 
+CHEM-92; Short Answer: Name the thermodynamic term that is a quantitative measure of 
+disorder of a system? 
+ANSWER: ENTROPY 
+CHEM-92; Short Answer: At temperatures above 96 degrees Celsius, which crystalline form of 
+sulfur is the most stable? 
+ANSWER: MONOCLINIC 
+CHEM-92; Multiple Choice: Pi bonds are formed by the overlap of: 
+w) unhybridized p orbitals 
+x) sp2 hybridized orbitals 
+y) sp hybridized orbitals 
+z) unhybridized s orbitals 
+ANSWER: W -- UNHYBRIDIZED P ORBITALS 
+CHEM-92; Short Answer: Pi bonds are formed by the overlap of what specific type of orbitals: 
+ANSWER: UNHYBRIDIZED P ORBITALS
+
+Science Bowl CHEMISTRY 
+Chemisty - 64 
+CHEM-92; Multiple Choice: A triple bond consists of: 
+w) three sigma bonds 
+x) three pi bonds 
+y) two sigma bonds and one pi bond 
+z) one sigma bond and two pi bonds 
+ANSWER: Z -- ONE SIGMA BOND AND TWO PI BONDS 
+CHEM-92; Short Answer: A triple bond consists of how many pi bonds and how many sigma
+bonds? 
+ANSWER: ONE SIGMA BOND AND TWO PI BONDS 
+CHEM-92; Short Answer: Glucose is one of the simple sugars in sucrose. Name the other. 
+ANSWER: FRUCTOSE 
+CHEM-92; Short Answer: What metal ion is found in chlorophyll? 
+ANSWER: MAGNESIUM ION 
+CHEM-92; Short Answer: What does EDTA stand for? 
+ANSWER: ETHYLENE DIAMINE TETRAACETIC ACID 
+CHEM-92; Multiple Choice: Cubic crystals containing lattice points only at the corners are called: 
+w) body centered 
+x) face centered 
+y) simple 
+z) hexagonal 
+ANSWER: C-SIMPLE 
+CHEM-92; Short Answer: Cobalamins are found in what group of vitamins? 
+ANSWER: THE B GROUP
+
+Science Bowl CHEMISTRY 
+Chemisty - 65 
+CHEM-92; Multiple Choice: Which of the following is not a covalent network solid? 
+w) silicon dioxide 
+x) silicon oxide 
+y) boron nitrate 
+z) sodium oxide 
+ANSWER: D -- SODIUM OXIDE 
+CHEM-92; Short Answer: What gas law states "Pressure times Volume = Constant": 
+ANSWER: BOYLE'S LAW 
+CHEM-92; Multiple Choice: The conjugate acid of water is: 
+w) OH
+x) H2
+y) O2 
+z) H3O+ 
+ANSWER: Z -- H3O+ 
+CHEM-92; Short Answer: What is the systematic name for LiClO4? 
+ANSWER: LITHIUM PERCHLORATE 
+CHEM-92; Short Answer: What is the formula for phosphorus acid? 
+ANSWER: H3PO3 
+CHEM-92; Short Answer: What is the formula for ethyne? 
+ANSWER: C2H2 
+CHEM-92; Short Answer: What is the general formula for the alkene series? 
+ANSWER: CnH2n
+
+Science Bowl CHEMISTRY 
+Chemisty - 66 
+CHEM-92; Multiple Choice: The modern atomic theory was conceived by : 
+w) Victor Grignard 
+x) Daniel Rutherford 
+y) Svante Arrhenius 
+z) John Dalton 
+ANSWER: Z -- JOHN DALTON 
+CHEM-92; Short Answer: Who discovered Nitrogen 
+ANSWER: DANIEL RUTHERFORD 
+CHEM-92; Multiple Choice: The percent composition by mass of copper in anhydrous cupric 
+sulfate is about: 
+w) 10% 
+x) 25% 
+y) 40% 
+z) 75% 
+ANSWER: C -- 40% 
+CHEM-92; Short Answer: What is the gaseous product formed from the reaction of calcium 
+carbide and water? 
+ANSWER: ACETYLENE (or ETHYNE OR C2H2) 
+CHEM-92; Short Answer: What is the number of atomic radii along the face diagonal of a 
+face-centered unit cell? 
+ANSWER: 4 
+CHEM-92; Short Answer: What is the empirical formula for fructose? 
+ANSWER: CH2O
+
+Science Bowl CHEMISTRY 
+Chemisty - 67 
+CHEM-92; Multiple Choice: Which of the following terms best fits the statement: "Process by 
+which polysaccharides are degraded to monosaccharides." 
+w) hydrolysis 
+x) glycolosis 
+y) lipogenesis 
+z) none of the above 
+ANSWER: W -- HYDROLYSIS 
+CHEM-92; Short Answer: Starch is the polymer of what monosaccharide? 
+ANSWER: GLUCOSE 
+CHEM-92; Multiple Choice: Which of the following is NOT a base in DNA? 
+w) uracil 
+x) guanine 
+y) adenine 
+z) cytosine 
+ANSWER: W -- URACIL 
+CHEM-92; Multiple Choice: A bond in which there is an unequal attraction for the shared 
+electrons and a resultant unbalanced distribution of charge is which one of the following types of 
+bonds? 
+w) ionic 
+x) pure covalent 
+y) nonpolar covalent 
+z) polar covalent 
+ANSWER: Z -- POLAR COVALENT 
+CHEM-92; Short Answer: Name the type of bond in which there is an unequal attraction for the 
+shared electrons and a resultant unbalanced distribution of charge: 
+ANSWER: POLAR COVALENT BOND
+
+Science Bowl CHEMISTRY 
+Chemisty - 68 
+CHEM-92; Multiple Choice: In protolytic reactions in which the reactants are much stronger as 
+an acid and a base than the products, the proton transfer reaction: 
+w) does not occur 
+x) approaches completeness 
+y) produces a much stronger acid and a much weaker base 
+z) produces a much weaker acid and a much stronger base 
+ANSWER: X -- APPROACHES COMPLETENESS 
+CHEM-92; Multiple Choice: Chemically, fats are esters of long carbon-chain acids and which of 
+the following: 
+w) ethanol 
+x) glycerol 
+y) ethylene glycol 
+z) sodium hydroxide 
+ANSWER: X -- GLYCEROL 
+CHEM-92; Short Answer: The most common complex ions have octahedral geometry. What is 
+the coordination number of the central ion in an octahedral complex? 
+ANSWER: SIX 
+CHEM-92; Short Answer: In a flame test the presence of calcium would cause what color flame? 
+ANSWER: RED (accept yellow-rez) 
+CHEM-92; Short Answer: What will be formed when a metal oxide dissolves in water? 
+ANSWER: A BASE 
+CHEM-92; Short Answer: What is the term used to describe the resistance of a liquid to flow? 
+ANSWER: VISCOSITY 
+CHEM-92; Short Answer: What is the term used to describe a compound that contains no water 
+of hydration? 
+ANSWER: ANHYDROUS
+
+Science Bowl CHEMISTRY 
+Chemisty - 69 
+CHEM-92; Short Answer: What is the oxidation number of Cl in HClO (read: H - C - L - O)? 
+ANSWER: 1+ (accept 1) 
+CHEM-92; Short Answer: What is another name for 1,2, Dimethyl Benzene? 
+ANSWER: ORTHO XYLENE 
+CHEM-92; Short Answer: What is another name for 1,3, Dimethyl Benzene? 
+ANSWER: META XYLENE 
+CHEM-92; Short Answer: What is another name for 1,4, Dimethyl Benzene? 
+ANSWER: PARA XYLENE 
+CHEM-92; Multiple Choice: Which of the following pairs of numbers best represents the 
+diameter, in nanometers, of most atoms? 
+w) between 0.1 and 0.5 
+x) between 1 and 10 
+y) between 10 and 100 
+z) between 10,000 and 1,000,000 
+ANSWER: A -- BETWEEN 0.1 AND 0.5 
+CHEM-92; Multiple Choice: Which of the following Greek philosophers proposed the first 
+atomic theory around 400 B.C.? Was it 
+w) Plato 
+x) Archimedes 
+y) Aristotle 
+z) Democritus 
+ANSWER: D -- DEMOCRITUS 
+CHEM-92; Short Answer: What is the simplest unit of repetition in a crystalline structure? 
+ANSWER: A UNIT CELL
+
+Science Bowl CHEMISTRY 
+Chemisty - 70 
+CHEM-92; Multiple Choice: How many water molecules are contained in Cobalt (II) sulfate 
+heptahydrate? 
+w) 3 
+x) 6 
+y) 8 
+z) 7 
+ANSWER: D -- 7 
+CHEM-92; Multiple Choice: Which of the following is NOT oxidized by chlorine? 
+w) F- (read: F minus) 
+x) Br- (read: B - R minus) 
+y) F2 (read: F - 2) 
+z) I- (read: I minus) 
+ANSWER: A -- F
+CHEM-92; Multiple Choice: Gels and Foams are classified as:
+w) solutions 
+x) emulsions 
+y) colloids 
+z) suspensions 
+ANSWER: C -- COLLOIDS 
+CHEM-92; Short Answer: What substance, which is a variety of carbon, is also called 
+Plumbago? 
+ANSWER: GRAPHITE 
+CHEM-92; Short Answer: What element has a lower boiling point than hydrogen? 
+ANSWER: HELIUM 
+CHEM-92; Short Answer: What is the formula for quartz? 
+ANSWER: SiO2
+
+Science Bowl CHEMISTRY 
+Chemisty - 71 
+CHEM-92; Short Answer: What American first proposed the free energy function G, which 
+interrelates entropy and enthalpy? 
+ANSWER: J. WILLARD GIBBS 
+CHEM-92; Short Answer: What is the volume occupied by one mole of a gas under standard 
+conditions called? 
+ANSWER: A MOLAR VOLUME 
+CHEM-92; Short Answer: What compound is the main component of Epson salts? 
+ANSWER: MAGNESIUM SULFATE HEPTAHYDRATE(MgSO4.7H2O) 
+CHEM-92; Short Answer: Which element was named for Satan or the devil? 
+ANSWER: NICKEL (from the german word nickel, meaning satan or "old nick") 
+CHEM-92; Short Answer: Aromatic compounds are generally derived from what substance? 
+ANSWER: BENZENE 
+CHEM-92; Short Answer: What is the name of the element whose symbol is Ga? 
+ANSWER: GALLIUM 
+CHEM-92; Short Answer: What is the thermodynamic STATE function that is directly associated 
+with a constant pressure process in which heat is exchanged between system and surroundings? 
+ANSWER: DELTA H 
+CHEM-92; Short Answer: In 1962, at Argonne National Laboratory, Neil Bartlett first 
+synthesized what type of compound? 
+ANSWER: A XENON COMPOUND WAS FORMED or A NOBLE GAS 
+COMPOUND WAS FORMED 
+CHEM-92; Short Answer: What is the Latin name for Silver? 
+ANSWER: ARGENTUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 72 
+CHEM-92; Short Answer: What is the Latin name for Tungsten? 
+ANSWER: WOLFRAM 
+CHEM-92; Short Answer: A gaseous organic compound that is best known for its use in 
+preservative solutions has the chemical formula HCHO (read: H - C - H CHEM-92; Short 
+Answer: Give me the name and atomic number of the element I am thinking about. It occupies 
+the same column in the periodic table as selenium. Under standard conditions of temperature and 
+pressure this element is a clear, odorless gas. This element is one of the essential ingredients in 
+the burning process. 
+ANSWER: OXYGEN ATOMIC NUMBER = 8 
+CHEM-92; Short Answer: Organic acids have a common functional group. Give me the formula 
+of that functional group. 
+ANSWER: COOH 
+CHEM-92; Short Answer: Give the IUPAC (pron: I - U - PAY) name for the straight chain, 
+saturated organic acid containing 10 carbons in an unbranched structure. 
+ANSWER: DECANOIC ACID 
+CHEM-92; Multiple Choice: Which of the following chemical compounds is an important 
+aromatic hydrocarbon. Is it: 
+w) methane 
+x) ethane 
+y) benzene 
+z) propyne 
+ANSWER: Y -- BENZENE 
+CHEM-92; Multiple Choice: In 2-butene, which of the following bonds prevents the atoms at 
+each end of the bond from rotating with respect to each other. Is it an: 
+w) ionic bond 
+x) sigma bond 
+y) strong bond 
+z) double bond 
+ANSWER: Z -- DOUBLE BOND
+
+Science Bowl CHEMISTRY 
+Chemisty - 73 
+CHEM-92; Short Answer: What is the acid anhydride of sulfurous acid ? 
+ANSWER: SULFUR DIOXIDE or SO2 
+CHEM-92; Multiple Choice: Which of the following scientists first determined the atomic number 
+of an atom by use of X-rays? Is it: 
+w) Millikan 
+x) Planck 
+y) Thompson 
+z) Moseley 
+ANSWER: Z -- MOSELEY 
+CHEM-92; Short Answer: What is formed by heating an organic acid with an alcohol. 
+ANSWER: AN ESTER 
+CHEM-92; Short Answer: What is the radius of an imaginary shell around an atom which 
+determines how close two nonbonded atoms may approach each other called? 
+ANSWER: VAN DER WAALS RADIUS 
+CHEM-92; Short Answer: List the following atoms in order of increasing electron affinity: 
+oxygen, boron, and fluorine. 
+ANSWER: (1) BORON, (2) OXYGEN, (3) FLUORINE 
+CHEM-92; Short Answer: Give me the formula for the organic compound cyclobutene. 
+ANSWER: C4H6 
+CHEM-92; Short Answer: Give the EMPIRICAL formula for the organic compound 
+cyclopentene. 
+ANSWER: C5H8 
+CHEM-92; Short Answer: What is the Vitamin name for Ascorbic acid? 
+ANSWER: VITAMIN C
+
+Science Bowl CHEMISTRY 
+Chemisty - 74 
+CHEM-92; Short Answer: Retinol is the common name for what vitamin? 
+ANSWER: VITAMIN A 
+CHEM-92; Short Answer: How many joules are required to cause the temperature of one gram of 
+water to be raised from 24 degrees Celsius to 25 degrees Celsius. 
+ANSWER: 4.18 JOULES 
+CHEM-92; Short Answer: What is the oxidation number of sulfur in sulfurous acid? 
+ANSWER: 4+ or +4 (read: 4 - plus or plus - 4) (accept 4) 
+CHEM-92; Multiple Choice: Which of the following is the primary reason for adding calcium 
+carbonate to the reduction process of iron oxide ores ? The calcium carbonate: 
+w) acts as an oxidizing agent 
+x) removes silicate waste products 
+y) acts as a reducing agent 
+z) removes sulfur waste products 
+ANSWER: X -- REMOVES SILICATE WASTE PRODUCTS 
+CHEM-92; Short Answer: What molten substance is used in the Hall process to reduce 
+aluminum? 
+ANSWER: CRYOLITE 
+CHEM-92; Multiple Choice: Which of the following odors does the ester isoamyl isovalerate 
+produce? Is it an odor of: 
+w) bananas 
+x) apples 
+y) cherries 
+z) strawberries 
+ANSWER: B -- APPLES 
+CHEM-92; Short Answer: When one heats concentrated sulfuric acid, one molecule of water is 
+eliminated for every two molecules of sulfuric acid. What substance will result from this reaction? 
+ANSWER: PYROSULFURIC ACID or DISULFURIC ACID
+
+Science Bowl CHEMISTRY 
+Chemisty - 75 
+CHEM-92; Short Answer: How many oxygen atoms are there in one formula unit of magnetite? 
+ANSWER: FOUR 
+CHEM-92; Short Answer: What is the name given to the bond that links an amino group of one 
+molecule of an amino acid to a carboxyl group of another amino acid? 
+ANSWER: PEPTIDE LINK or AMIDE LINK or PEPTIDE BOND 
+CHEM-92; Multiple Choice: Which of the following substances would be the best choice to 
+neutralize aqueous Sodium Hydroxide? 
+w) sodium carbonate 
+x) silicon dioxide 
+y) aluminum oxide 
+z) phosphorus pentoxide 
+ANSWER: Z -- PHOSPHORUS PENTOXIDE 
+CHEM-92; Short Answer: Give the IUPAC (pron: I - U - PAY) name of the shortest of the 
+alcohols. 
+ANSWER: METHANOL 
+CHEM-92; Short Answer: What is the element represented by the symbol Rh? 
+ANSWER: RHODIUM 
+CHEM-92; Short Answer: Leaf and Garbage disposal "plastic bags" are usually made from what 
+polymer? 
+ANSWER: POLYETHYLENE 
+CHEM-92; Short Answer: What is the chemical name of the nonstick coating on cookware? 
+ANSWER: POLYTETRAFLOUROETHYLENE
+
+Science Bowl CHEMISTRY 
+Chemisty - 76 
+CHEM-92; Multiple Choice: Which of the following group of compounds is most soluble in 
+water? 
+w) alkanes (pron: ak-KANES) 
+x) alcohols 
+y) aldehydes (pron: al-deh-HIDES) 
+z) alkenes (pron: al-KEENS) 
+ANSWER: X -- ALCOHOLS 
+CHEM-92; Short Answer: Tocopherol is the name of what vitamin? 
+ANSWER: VITAMIN E 
+CHEM-92; Short Answer: Calciferol (pron: kal-sif-eh-rol) is the common name of what vitamin? 
+ANSWER: VITAMIN D 
+CHEM-92; Short Answer: Name the compound formed when an hydroxyl group is attached to a 
+phenyl group. 
+ANSWER: PHENOL 
+CHEM-92; Multiple Choice: In which of the following class of substances would WAX be found? 
+w) carbohydrates 
+x) lipids 
+y) proteins 
+z) nucleic acids 
+ANSWER: X -- LIPIDS
+CHEM-92; Short Answer: In what vitamin would retinoic acid be found? 
+ANSWER: VITAMIN A 
+CHEM-92; Short Answer: What is the element whose symbol is Ho? 
+ANSWER: HOLMIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 77 
+CHEM-92; Short Answer: Fifty micrograms of an isotope have decayed to 12.5 micrograms 
+after 12 hours. What is the half life of the radioisotope? 
+ANSWER: SIX HOURS 
+CHEM-92; Short Answer: In what U.S. state were most of the transuranic elements first created? 
+ANSWER: CALIFORNIA 
+CHEM-92; Short Answer: What is the PRIMARY carbohydrate in milk? 
+ANSWER: LACTOSE 
+CHEM-92; Multiple Choice: Which of the following yields a substance other than glucose on 
+degradation by water? 
+w) Cellulose 
+x) Glycogen 
+y) Sucrose 
+z) Maltose 
+ANSWER: Y -- SUCROSE 
+CHEM-92; Multiple Choice: In what category may LIPASE (pron: lie-pase) be placed 
+w) carbohydrates 
+x) lipids 
+y) enzymes 
+z) nucleic acids 
+ANSWER: C--ENZYMES 
+CHEM-92; Multiple Choice: The hydrocarbon end of a detergent molecule is: 
+w) hydrophilic 
+x) hydrophobic 
+y) possible ionic 
+z) contains oxygen or sulfur 
+ANSWER: X -- HYDROPHOBIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 78 
+CHEM-92; Multiple Choice: An amine contains which one of the following functional groups? 
+w) NO2 
+x) NOH 
+y) NH2 
+z) N2 
+ANSWER: Y -- NH2 
+CHEM-92; Multiple Choice: The molar volume of which two elements is the same at standard 
+temperature and pressure? 
+w) fluorine and bromine 
+x) fluorine and iodine 
+y) fluorine and chlorine 
+z) bromine and iodine 
+ANSWER: Y -- FLUORINE AND CHLORINE 
+CHEM-92; Multiple Choice: Which one of the following elements is not found in nature? 
+w) Technetium 
+x) Iridium 
+y) Osmium 
+z) Molybdenum 
+ANSWER: W -- TECHNETIUM 
+CHEM-92; Multiple Choice: The class of compounds implicated in the Antarctic ozone 
+destruction is: 
+w) RBC's 
+x) DDT's 
+y) CFC's 
+z) PCB's 
+ANSWER: Y -- CFC'S 
+CHEM-92; Multiple Choice: Which one of the following compounds is amphiprotic in water? 
+w) sodium chloride 
+x) sodium sulfate 
+y) sodium hydride 
+z) sodium hydrogen carbonate 
+ANSWER: Z -- SODIUM HYDROGEN CARBONATE
+
+Science Bowl CHEMISTRY 
+Chemisty - 79 
+CHEM-92; Short Answer: Minus 18 degrees centigrade corresponds to what Fahrenheit 
+temperature? 
+ANSWER: 0 DEGREES FAHRENHEIT 
+CHEM-92; Short Answer: What is the common name given to a mixture of three parts of 
+concentrated hydrochloric acid and one part concentrated nitric acid? 
+ANSWER: AQUA REGIA 
+CHEM-92; Short Answer: What is the name for the element whose symbol is Tl (pron: T - L)? 
+ANSWER: THALLIUM 
+CHEM-92; Short Answer: Whatis the name for the element whose symbol is Lr? 
+ANSWER: LAWRENCIUM 
+CHEM-92; Short Answer: What is the oxidation number of nitrogen in NaNO2: 
+ANSWER: +3 (Accept 3) 
+CHEM-92; Short Answer: What halogen is a liquid at room temperature? 
+ANSWER: BROMINE 
+CHEM-92; Short Answer: What is another name for 1,4, Dimethyl Benzene? 
+ANSWER: PARA XYLENE 
+CHEM-92; Multiple Choice: In a liquid crystal, what is the name given to the simplest ordering 
+of molecules? 
+w) Nematic 
+x) Smectic 
+y) Cholesteric 
+z) Lipidic 
+ANSWER: W -- NEMATIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 80 
+CHEM-92; Short Answer: What is the name given to a polar molecule or negative ion that is 
+clustered about a central positive ion? 
+ANSWER: LIGAND 
+CHEM-92; Short Answer: What substance, which is a variety of carbon, is also called 
+Plumbago? 
+ANSWER: GRAPHITE 
+CHEM-92; Short Answer: What element has a lower boiling point than hydrogen? 
+ANSWER: HELIUM 
+CHEM-92; Short Answer: I will be describing a chemical element. Try to identify it with the 
+fewest number of clues. This chemical element is the most abundant of the rare-earth group. The 
+element is a silver-gray metal which oxidizes readily at room temperature and is an important 
+factor in color television tubes. The atomic number of this element is 58. What is this element? 
+ANSWER: CERIUM (Ce) 
+CHEM-92; Multiple Choice: Which of the following molecules or ions is NOT formed when K 
+metal reacts with liquid CH3OH? Is it: 
+w) potassium ion 
+x) hydrogen ion 
+y) methoxy ion 
+z) hydrogen molecule 
+ANSWER: X -- HYDROGEN ION 
+CHEM-92; Multiple Choice: "Mirror-image" molecules are called: 
+w) stereoisomers 
+x) structural isomers 
+y) diastereomers 
+z) constitional isomers 
+ANSWER: W -- STEREOISOMERS
+
+Science Bowl CHEMISTRY 
+Chemisty - 81 
+CHEM-92; Multiple Choice: What is the only nonmetal element that is a liquid room 
+temperature? 
+w) phosphorus 
+x) bromine 
+y) iodine 
+z) arsenic 
+ANSWER: X -- BROMINE 
+CHEM-92; Multiple Choice: Which of the following compounds will be a nonelectrolyte when 
+dissolved in water? 
+w) sodium chloride 
+x) potassium nitrate 
+y) ethanol 
+z) hydrogen chloride 
+ANSWER: Y -- ETHANOL 
+CHEM-92; Short Answer: What is the chemical formula of buckminsterfullerene? 
+ANSWER: C60 
+CHEM-92; Multiple Choice: What is the molarity of a salt solution prepared b dissolving three 
+moles of salt in 500 milliliters of water? 
+w) 1 
+x) 2 
+y) 4 
+z) 6 
+ANSWER: Z -- 6 
+CHEM-92; Multiple Choice: Dry ice is the solid form of what gas? 
+w) nitrogen 
+x) oxygen 
+y) helium 
+z) carbon dioxide 
+ANSWER: Z -- CARBON DIOXIDE
+
+Science Bowl CHEMISTRY 
+Chemisty - 82 
+CHEM-92; Multiple Choice: Thermite is a mixture of aluminum and: 
+w) hematite 
+x) sodium oxide 
+y) iron 
+z) magnesium 
+ANSWER: W -- HEMATITE 
+CHEM-92; Multiple Choice: Nitric acid is made from air and water by the: 
+w) Haber process 
+x) Contact process 
+y) Castner process 
+z) Arc process 
+ANSWER: Z -- ARC PROCESS 
+CHEM-92; Multiple Choice: Impurities in metal ores are called: 
+w) flux 
+x) gangue (pron: gang) 
+y) slag 
+z) sediments 
+ANSWER: X -- GANGUE 
+CHEM-92; Multiple Choice: The existence of an element in two or more forms i the same 
+physical phase is known as: 
+w) allotropy 
+x) diphasisty 
+y) polyformation 
+z) diatomic existence 
+ANSWER: W -- ALLOTROPY 
+CHEM-92; Multiple Choice: The complete combustion of one mole of hydrogen produces: 
+w) 1/2 mole H2O 
+x) 1/2 mole H2O + 1/2 mole O3 
+y) 1 mole water 
+z) 1 mole hydroxide ions 
+ANSWER: Y -- 1 MOLE WATER
+
+Science Bowl CHEMISTRY 
+Chemisty - 83 
+CHEM-92; Short Answer: Who named the element hydrogen? 
+ANSWER: LAVOISIER 
+CHEM-92; Multiple Choice: Moles of solute divided by kilograms of solvent is expression for: 
+w) molarity 
+x) solute-to-solution ratio 
+y) mole percentage 
+z) molality 
+ANSWER: Z -- MOLALITY 
+CHEM-92; Multiple Choice: 0.51!C/molal is the molal: 
+w) freezing-point constant for water 
+x) boiling-point constant for water 
+y) vapor-temperature constant for water 
+z) heat of solution for water 
+ANSWER: X -- BOILING-POINT CONSTANT FOR WATER 
+CHEM-92; Short Answer: Name the conjugate base of the bicarbonate ion. 
+ANSWER: CARBONATE ION 
+CHEM-92; Short Answer: What is the formula for Hypochlorous Acid? 
+ANSWER: HClO 
+CHEM-92; Multiple Choice: The bond most likely to be formed when two atoms differ 
+SOMEWHAT in their tendency to attract electrons is: 
+w) nonpolar ionic 
+x) polar ionic 
+y) polar covalent 
+z) nonpolar covalent 
+ANSWER: Y -- POLAR COVALENT
+
+Science Bowl CHEMISTRY 
+Chemisty - 84 
+CHEM-92; Multiple Choice: What is the expected bond angle in H2S when the bonding is 
+described using hydrogen-like atomic orbitals? 
+w) 180o 
+x) 120o 
+y) 109.5o 
+z) 90o 
+ANSWER: Z -- 90o 
+CHEM-92; Multiple Choice: Zinc is most soluble in which of the following liquids? 
+w) Water 
+x) Alchohol 
+y) Mercury 
+z) Oil 
+ANSWER: Y -- MERCURY 
+CHEM-92; Multiple Choice: What is the primary CONSTITUENT of human bones? 
+w) Calcium sulfate 
+x) Calcium carbonate 
+y) Hydroxyapatite (pron: high-drox-ee-ap-eh-tite) 
+z) Chloroapatite (pron: klor-o-ap-eh-tite) 
+ANSWER: Y -- HYDROXYAPATITE 
+CHEM-92; Multiple Choice: One property a colloidal dispersion has that a solution does not is: 
+w) homogeneity 
+x) filterability 
+y) the Tyndall effect 
+z) osmotic pressure 
+ANSWER: Y -- THE TYNDALL EFFECT 
+CHEM-92; Multiple Choice: A family of organic compounds containing only carb and hydrogen 
+and having only single bonds are the: 
+w) alkenes and alkanes 
+x) alkanes and cycloalkanes 
+y) alkynes (pron: AL-kines) and alkenes 
+z) cycloalkanes and alkenes 
+ANSWER: B -- ALKANES AND CYCLOALKANES
+
+Science Bowl CHEMISTRY 
+Chemisty - 85 
+CHEM-92; Multiple Choice: In quantum chemistry, a nodal surface: 
+w) gives 99 percent contour surface for an orbital 
+x) exists for a 1s orbital 
+y) has quantum number l = 1 
+z) is an orbital surface on which the probability density is zero 
+ANSWER: Z -- IS AN ORBITAL SURFACE ON WHICH THE PROBABILITY 
+DENSITY IS ZERO 
+CHEM-92; Multiple Choice: Which of the following elements has the largest crystallographic 
+radius? 
+w) Mg 
+x) N 
+y) K 
+z) F 
+ANSWER: Y -- K 
+CHEM-92; Short Answer: What bond angle is associated with sp3 (read: S - P - hybrid orbitals? 
+ANSWER: 109.5 DEGREES 
+CHEM-92; Multiple Choice: Which of the following substances would be expecte to have the 
+highest melting point? 
+w) Potassium Bromide 
+x) Iodine 
+y) Methane 
+z) Hydrogen Chloride 
+ANSWER: W -- POTASSIUM BROMIDE 
+CHEM-92; Multiple Choice: Which of the following aqueous solutions would hav the lowest 
+boiling point? Would it be a 1.0 molal solution of: 
+w) Hydrochloric acid 
+x) Sodium Hydroxide 
+y) Acetic Acid, 
+z) Magnesium Chloride 
+ANSWER: Y -- ACETIC ACID
+
+Science Bowl CHEMISTRY 
+Chemisty - 86 
+CHEM-92; Multiple Choice: The three isotopes of hydrogen are protium, tritiu and: 
+w) heprin 
+x) helium 
+y) duodenum 
+z) deuterium 
+ANSWER: Z -- DEUTERIUM 
+CHEM-92; Short Answer: What is the atomic number of uranium? 
+ANSWER: 92 
+CHEM-92; Short Answer: To which class of organic chemical compounds does rhamnose (pron; 
+ram-nose) belong? 
+ANSWER: SUGARS or CARBOHYDRATE 
+CHEM-92; Multiple Choice: Which of these molecules is bound by ionic bonds? 
+w) H2O 
+x) CH4 
+y) NaCl 
+z) C6H12O6 
+ANSWER: Y -- NaCl 
+CHEM-92; Multiple Choice: The equilibrium constant for the gas phase reactio A + B = C + D is 
+10-3. The rate of the forward reaction is 10-11 cubic centimeters per molecule per second. What 
+is the rate constant of the reverse reaction? 
+w) 10 cubic centimeters per molecule per second 
+x) 10-8 cubic centimeters per molecule per second 
+y) 10-10 cubic centimeters per molecule per second 
+z) 10-14 cubic centimeters per molecule per second 
+ANSWER: Z -- 10-14 CUBIC CENTIMETERS PER MOLECULE PER SECOND 
+
+Science Bowl CHEMISTRY 
+Chemisty - 87 
+CHEM-92; Multiple Choice: The chemical symbol for Plutonium is: 
+w) Pl (read: P - L) 
+x) Pu 
+y) Pt 
+z) Pm 
+ANSWER: X -- Pu 
+CHEM-92; Multiple Choice: A nonpolar molecule is usually: 
+w) hydrophilic 
+x) soluble in water 
+y) hydrophytic 
+z) soluble in organic solvents 
+ANSWER: Z -- SOLUBLE IN ORGANIC SOLVENTS 
+CHEM-92; Multiple Choice: Which compound is a monosaccharide? 
+w) maltose 
+x) sucrose 
+y) glucose 
+z) glycogen 
+ANSWER: Y -- GLUCOSE 
+CHEM-92; Multiple Choice: What acid is prevalent in the human stomach? 
+w) sulfuric acid 
+x) nitric acid 
+y) muriatic acid 
+z) amino acids 
+ANSWER: Y -- MURIATIC ACID 
+CHEM-92; Multiple Choice: Another name for milk sugar is: 
+w) glucose 
+x) maltose 
+y) lactose 
+z) fructose 
+ANSWER: Y -- LACTOSE
+
+Science Bowl CHEMISTRY 
+Chemisty - 88 
+CHEM-92; Multiple Choice: Molecular oxygen is said to be paramagnetic. This indicates that 
+molecular oxygen: 
+w) is a gas at room temperature 
+x) forms molecules containing two oxygen atoms 
+y) has an approximate molecular weight of 32 
+z) has unpaired electrons 
+ANSWER: Z -- HAS UNPAIRED ELECTRONS 
+CHEM-92; Short Answer: What is the oxidation number of Bismuth in the compound Bismuth 
+Phosphide? 
+ANSWER: + 3 (accept 3) 
+CHEM-92; Multiple Choice: What is the molecular geometry of XeO2 (Xenon Dioxide)? 
+w) linear 
+x) angular 
+y) tetrahedral 
+z) trigonal planar 
+ANSWER: X -- ANGULAR 
+CHEM-92; Multiple Choice: What is the molecular geometry of the Bromine Tetraflouride ion 
+(B-F-4-minus 1) 
+w) linear 
+x) angular 
+y) tetrahedral 
+z) pyramidal 
+ANSWER: Y -- TETRAHEDRAL 
+CHEM-92; Multiple Choice: What is the molecular geometry of thiocyanate (pron: 
+thie-owe-SIE-a-nate) ion (SCN minus 1)? 
+w) linear 
+x) angular 
+y) tetrahedral 
+z) pyramidal 
+ANSWER: W -- LINEAR
+
+Science Bowl CHEMISTRY 
+Chemisty - 89 
+CHEM-92; Multiple Choice: Which one of the following molecules exhibits resonance? 
+w) Carbon Tetrachloride 
+x) Carbonate ion 
+y) Sulfur Dichloride 
+z) Phosphorus Tribromide 
+ANSWER: X -- CARBONATE ION 
+CHEM-92; Short Answer: How many electron lone pairs are on the central atom in Hydrogen 
+Sulfide?
+ANSWER: TWO 
+CHEM-92; Multiple Choice: Which of the following has a multiple covalent bond? 
+w) Bromine 
+x) Hydrogen 
+y) Oxygen 
+z) Chlorine Monofluoride 
+ANSWER: Y -- OXYGEN 
+CHEM-92; Multiple Choice: Which of the following molecules is polar? 
+w) Iodine 
+x) Carbon Dioxide 
+y) Carbon Monoxide 
+z) Chlorine 
+ANSWER: Y -- CARBON MONOXIDE 
+CHEM-92; Multiple Choice: Which of the following elements would form a covalent bond with 
+Bromine? 
+w) Calcium 
+x) Aluminum 
+y) Oxygen 
+z) Tin 
+ANSWER: Y -- OXYGEN
+
+Science Bowl CHEMISTRY 
+Chemisty - 90 
+CHEM-92; Short Answer: What is the formula for Calcium Nitride? 
+ANSWER: Ca3N2 
+CHEM-92; Multiple Choice: In which form is Silicon most frequently found in nature? 
+w) The free element Silicon 
+x) Silicon-Oxygen compounds 
+y) Silicon-Carbon compounds 
+z) Silicon-Metal compounds 
+ANSWER: X -- SILICON-OXYGEN COMPOUNDS 
+CHEM-92; Multiple Choice: Compared to Chlorine, Bromine has: 
+w) smaller atomic size 
+x) higher density 
+y) lower boiling point 
+z) greater number of outer electrons 
+ANSWER: X -- HIGHER DENSITY 
+CHEM-92; Multiple Choice: Which of the following best describes Chlorine? 
+w) colorless liquid 
+x) reddish-brown liquid 
+y) colorless gas 
+z) greenish-yellow gas 
+ANSWER: D -- GREENISH-YELLOW GAS 
+CHEM-92; Short Answer: Which of the STABLE Group IA elements will have the lowest 
+melting point? 
+ANSWER: CESIUM 
+CHEM-92; Multiple Choice: Which of the following elements has the highest first ionization 
+energy?
+w) Helium 
+x) Neon 
+y) Fluorine 
+z) Argon 
+ANSWER: W -- HELIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 91 
+CHEM-92; Short Answer: Which member of the GROUP SIX A elements is the least metallic? 
+ANSWER: OXYGEN 
+CHEM-92; Multiple Choice: Which of the following elements would most likely be a silvery solid 
+at room temperature? 
+w) Sodium 
+x) Silicon 
+y) Selenium 
+z) Astatine 
+ANSWER: W -- SODIUM 
+CHEM-92; Short Answer: What is the oxidation number of Manganese in Potassium 
+Permanganate? 
+ANSWER: PLUS SEVEN 
+CHEM-92; Short Answer: Proceeding across a period in the Periodic Table, what atomic size 
+trend is observed? 
+ANSWER: ATOMIC SIZE DECREASES 
+CHEM-92; Multiple Choice: Which of the following groups of elements have an OUTER 
+ELECTRONIC configuration of S-2-P-2? 
+w) halogens 
+x) Nitrogen-Phosphorus Group 
+y) Carbon-Silicon Group 
+z) Boron-Aluminum Group 
+ANSWER: Y -- CARBON-SILICON GROUP 
+CHEM-92; Short Answer: Which group of elements have an outer electronic configuration of 
+S-2-P-6?
+ANSWER: NOBLE GASES
+
+Science Bowl CHEMISTRY 
+Chemisty - 92 
+CHEM-92; Short Answer: At what temperature are the Fahrenheit and Celsius scales equal to 
+each other? 
+ANSWER: MINUS FORTY DEGREES 
+CHEM-92; Short Answer: Name the Greek philosopher who first proposed the idea that matter 
+was composed of small indivisible particles. 
+ANSWER: DEMOCRITUS 
+CHEM-92; Short Answer: Who is considered the father of modern Chemistry? 
+ANSWER: LAVOISIER 
+CHEM-92; Short Answer: What is the common name for Potassium Aluminum Sulfate 
+dodecahydrate? 
+ANSWER: ALUM 
+CHEM-92; Multiple Choice: AS A GROUP, the halogens have the largest: 
+w) atomic radii 
+x) Boiling points 
+y) electronegativities 
+z) ionization energies 
+ANSWER: Y -- ELECTRONEGATIVITIES 
+CHEM-92; Short Answer: What is the formula for Lithium Peroxide? 
+ANSWER: Li2O2 
+CHEM-92; Short Answer: What is the chemical formula for soda ash?
+ANSWER: Na2 CO3 
+CHEM-92; Short Answer: What is the formula for Hydrosulfuric acid? 
+ANSWER: H2S
+
+Science Bowl CHEMISTRY 
+Chemisty - 93 
+CHEM-92; Short Answer: What is the formula for Periodic acid? 
+ANSWER: H5IO6 
+CHEM-92; Short Answer: What is the formula for the compound that is formed from Sodium and 
+Fluorine? 
+ANSWER: NaF 
+CHEM-92; Short Answer: What is the name for the ClO-1 (read: C-L-O-Minus-One) ion? 
+ANSWER: HYPOCHLORITE 
+CHEM-92; Short Answer: Name this chemical element. The principal use of this element has 
+been in solid-state electronic devices, notably transistors. Its position in the periodic table is in 
+group "4A". The element's atomic number is 32 and its chemical symbol is Ge. 
+ANSWER: GERMANIUM 
+CHEM-92; Short Answer: This colorless liquid has a mild characteristic odor. Its chemical 
+formula is C2H5OH. Name this liquid. 
+ANSWER: ETHYL ALCOHOL or ETHANOL 
+CHEM-92; Short Answer: A beaker of ethyl alcohol is marked 188 proof. What percentage of 
+the liquid is ethyl alcohol? 
+ANSWER: 94% 
+CHEM-92; Short Answer: What is the simplest gem in chemical composition? 
+ANSWER: DIAMOND 
+CHEM-92; Short Answer: Name the chemical element that is eleventh in the Lanthanide Series in 
+the periodic table. Because of the metal's high thermal-neutron-absorption cross section, it has 
+been of much interest in terms of use in nuclear reactor hardware. The chemical symbol for this 
+element is Er. 
+ANSWER: ERBIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 94 
+CHEM-92; Multiple Choice: Relative to a solution with a pH of 4, a solution of pH = 6 is: 
+w) higher in H+ concentration 
+x) lower in OH
+y) less basic
+z) less acidic 
+ANSWER: Z -- LESS ACIDIC 
+CHEM-92; Short Answer: What is the chemical solvent DMF called? 
+ANSWER: -- DIMETHYLFORMAMIDE (pron: die-meth-il-FOR-ma-mide) 
+CHEM-92; Short Answer: What is an amalgam? 
+ANSWER: AN ALLOY OF A METAL AND MERCURY 
+CHEM-92; Short Answer: What is the oxidation state of nitrogen in nitrous acid? 
+ANSWER: +3 
+CHEM-92; Short Answer: If one begins with a 12 Normal solution of HCl and wishes to make a 
+2 Molar solution, what will be the ratio of 12N HCl to the final solution volume? 
+ANSWER: 1:6 
+CHEM-92; Multiple Choice: A cobalt chloride solution soaked into a piece of cotton can be used 
+as an indicator for changes in humidity levels. Pink indicates a high-humidity environment and 
+blue a low-humidity environment. What are these color changes caused by: 
+w) The ionization and reduction of the cobalt plus two slash cobalt plus three couple. 
+x) The vaporization and redeposition of cobalt chloride. 
+y) The loss and readsorption of the cobalt's waters of hydration. 
+z) This is an illustration of the Schrodinger principle. 
+ANSWER: Y -- THE LOSS AND READSORPTION OF THE COBALT'S WATERS 
+OF HYDRATION.
+
+Science Bowl CHEMISTRY 
+Chemisty - 95 
+CHEM-92; Multiple Choice: pH is defined as the negative logarithm of the hydrogen ion 
+concentration. Comparing a pH 5 and a pH 8 solution, which of the following is true? 
+w) There are 1,000 times more hydrogen ions in the pH 8 solution. 
+x) There are 1,000 times more hydrogen ions in the pH 5 solution. 
+y) There are 3 times more hydrogen ions in the pH 8 solution. 
+z) Cannot tell the difference between these two solutions by pH, since the numbers are so 
+close. 
+ANSWER: X -- THERE ARE 1,000 TIMES MORE HYDROGEN IONS IN THE PH 
+5 SOLUTION 
+CHEM-92; Short Answer: Joseph Priestly was working in England when he discovered oxygen. 
+He actually did more research in another country where he died and is buried. What is the second 
+country where he worked? 
+ANSWER: UNITED STATES 
+CHEM-92; Multiple Choice: Ethylene diamine tetraacetoacetate (pron: 
+te-tra-a-see-tow-AS-e-tate) (EDTW) is often used for which of the following: 
+w) Determine hardness of water 
+x) Measure the amount of zinc in a solution. 
+y) A preservative in foods 
+z) All of the above 
+ANSWER: Z -- ALL OF THE ABOVE 
+CHEM-92; Multiple Choice: The common alloy, babbit metal, which is composed of tin, 
+antimony, and copper, is best known for its use in: 
+w) magnets 
+x) bearings 
+y) dental fillings 
+z) drinking vessels 
+ANSWER: X -- BEARINGS
+
+Science Bowl CHEMISTRY 
+Chemisty - 96 
+CHEM-92; Short Answer: The boiling point of normal paraffinic (pron: pair-ah-FIN-ik) 
+hydrocarbons increases with the number of carbon atoms per molecule. What is the smallest 
+number of carbon atoms a normal paraffinic hydrocarbon can have and still be a liquid at room 
+temperature (70-75 degrees Fahrenheit) and 1 atmosphere pressure. 
+ANSWER: FIVE 
+CHEM-92; Multiple Choice: The boiling points of the halogens increase going from F2 to I2. 
+What type of intermolecular forces are responsible for this trend? 
+w) permanent dipole 
+x) hydrogen bonding 
+y) ion-ion attraction 
+z) London dispersion forces 
+ANSWER: Z -- LONDON DISPERSION FORCES 
+CHEM-92; Multiple Choice: A sample of grapefruit juice at 25 degrees Celsius has a hydronium 
+concentration of 1.78 X 10-3 molar. What is the pH of the solution? 
+w) 2.22 
+x) 2.75 
+y) 3.25 
+z) 6.33 
+ANSWER: X -- 2.75 
+CHEM-92; Short Answer: What is the name given to an element that exists in two or more 
+physical forms? 
+ANSWER: ALLOTROPIC 
+CHEM-92; Short Answer: Graphite carbon atoms form planar layers in what regular geometric 
+arrangement? 
+ANSWER: HEXAGONAL 
+CHEM-92; Short Answer: Planar Platinum compounds are being investigated in the treatment of 
+cancer. Name the isomers of dichlorodiamineplatinum(II) (pron: 
+die-klor-o-di-a-MIN-e-plat-i-num two)? 
+ANSWER: CIS AND TRANS (DICHLORODIAMINEPLATINUM (II) 
+
+Science Bowl CHEMISTRY 
+Chemisty - 97 
+CHEM-92; Short Answer: The block of elements in the periodic table which are filling the 4-f 
+electron shell are known as: 
+ANSWER: LANTHANIDES 
+CHEM-92; Short Answer: What is the oxidation state of chromium in potassium dichromate? 
+ANSWER: +6 (or 6) 
+CHEM-92; Multiple Choice: Which of the following has the smallest atomic radius? 
+w) iodine 
+x) chlorine 
+y) fluorine 
+z) bromine 
+ANSWER: Y -- FLUORINE 
+CHEM-92; Short Answer: What is the literal meaning of the word "chromatography"? 
+ANSWER: COLOR-WRITING (or equivalent terminology) 
+CHEM-92; Multiple Choice: Which of the following is an example of a "cation": 
+w) ammonium 
+x) chloride 
+y) sulfate 
+z) oxalate 
+ANSWER: W -- AMMONIUM 
+CHEM-92; Multiple Choice: Which of the following is NOT an organic acid? 
+w) butyric (pron: byu-TEER-ik) 
+x) sulfuric 
+y) acetic 
+z) citric 
+ANSWER: X -- SULFURIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 98 
+CHEM-92; Short Answer: Identify any FIVE elements named after astronomical bodies: 
+ANSWER: PALLADIUM; URANIUM; PLUTONIUM; NEPTUNIUM; 
+SELENIUM; TELLERIUM; HELIUM; CERIUM 
+CHEM-92; Short Answer: Isomers which are chemically identical but cannot be superimposed on 
+each other are called what? 
+ANSWER: STEREOISOMERS or ENANTIOMERS 
+CHEM-92; Multiple Choice: In Celsius, the freezing point of a one-molal water solution of 
+sodium phosphate, chemical formula Na3PO4, is expected to be: 
+w) - 0.93 degrees Celsius 
+x) - 1.86 degrees Celsius 
+y) - 7.44 degrees Celsius 
+z) - 3.72 degrees Celsius 
+ANSWER: C -- (- 7.44 DEGREES CELSIUS) 
+CHEM-92; Short Answer: What is the name given to the temperature and pressure at which 
+solid, liquid, and gas coexist for a pure material? 
+ANSWER: TRIPLE POINT 
+CHEM-92; Multiple Choice: Which of the following metals is obtained from its most common 
+ore using an electrolytic process? 
+w) nickel 
+x) tin 
+y) aluminum 
+z) manganese 
+ANSWER: Y -- ALUMINUM 
+CHEM-92; Short Answer: What would be the volume, in liters, of 11 grams of CO2 at standard 
+temperature and pressure? 
+ANSWER: 5.6 LITERS
+
+Science Bowl CHEMISTRY 
+Chemisty - 99 
+CHEM-92; Multiple Choice: When a radioisotope undergoes beta minus decay, does its atomic 
+number:
+w) increase 
+x) decrease 
+y) remain the same 
+z) vary depending on the element involved 
+ANSWER: W -- INCREASE 
+CHEM-92; Multiple Choice: Which of the following forms the weakest acid in aqueous solution? 
+w) hydrogen fluoride 
+x) hydrogen chloride 
+y) hydrogen bromide 
+z) hydrogen iodide 
+ANSWER: W -- HYDROGEN FLUORIDE 
+CHEM-92; Short Answer: How many molecules of an ideal gas are there in 22.414 liters at 10 
+atmospheres pressure and 0 degrees C? 
+ANSWER: 6.02 x 1024 (or accept 10 x AVAGADRO'S NUMBER) 
+CHEM-92; Short Answer: Name this chemical element. It is a member of the Lanthanide Series 
+and can be found in the minerals apatite (pron: AP-a-tite), gadolinite (pron: gad-O-lin-ite), and 
+xenotime (pron: ZEN-o- time). This element was first identified by Boisbaudran in 1886. Its 
+chemical symbol is Dy. 
+ANSWER: DYSPROSIUM (pron: dis-PRO-zee-um) 
+CHEM-92; Multiple Choice: Oxygen has a valence number of -1 in: 
+w) Sodium Peroxide 
+x) Potassium Chlorate 
+y) Water 
+z) Sodium Hydroxide 
+ANSWER: W -- SODIUM PEROXIDE
+
+Science Bowl CHEMISTRY 
+Chemisty - 100 
+CHEM-92; Short Answer: The molecular weight of H2SO4 is 98. How many grams of H2SO4 
+are contained in 1 liter of a 1 Normal solution? 
+ANSWER: 49 grams of H2SO4 
+CHEM-92; Multiple Choice: The oxidation number of chlorine in KClO4 is: 
+w) -1 
+x) +3 
+y) +7 
+z) +1 
+ANSWER: C -- +7 
+CHEM-92; Multiple Choice: What is a typical spacing between atoms in a crystal, e.g., copper or 
+rock salt? 
+w) 0.1 Angstroms 
+x) 2 Angstroms 
+y) 20 Angstroms 
+z) 100 Angstroms 
+ANSWER: B -- 2 ANGSTROMS 
+CHEM-92; Multiple Choice: Mendeleev proposed the existence of an unknown element that he 
+called eka-aluminum. The element is now called: 
+w) magnesium 
+x) silicon 
+y) gallium 
+z) germanium 
+ANSWER: C -- GALLIUM 
+CHEM-92; Multiple Choice: Which one of the following is classified as a covalent network solid 
+crystal?
+w) CaO 
+x) SiO2 
+y) CO2 
+z) Pb 
+ANSWER: B -- SiO2
+
+Science Bowl CHEMISTRY 
+Chemisty - 101 
+CHEM-92; Multiple Choice: Foods cooked in salt water compared to unsalted water will: 
+w) cook faster 
+x) boil at a lower temperature 
+y) not be affected in any way 
+z) will cook slower because of the action of the salt 
+ANSWER: W -- COOK FASTER 
+CHEM-92; Short Answer: Name the two elements that are liquids at 25 degrees Celsius. 
+ANSWER: BROMINE (Br) AND MERCURY (Hg) 
+CHEM-92; Multiple Choice: Crystals of ice are: 
+w) isometric 
+x) tetragonal 
+y) hexagonal 
+z) orthorombic 
+ANSWER: Y -- HEXAGONAL 
+CHEM-92; Short Answer: Name the atom that has one proton and no neutrons? 
+ANSWER: HYDROGEN 
+CHEM-92; Short Answer: What are the only two metallic elements that end with the letter "d"? 
+ANSWER: GOLD AND LEAD 
+CHEM-92; Multiple Choice: What device is used to remove sulfur dioxide from power plant 
+stack gases? 
+w) scrubber 
+x) precipitator 
+y) digester 
+z) clarifier 
+ANSWER: W -- SCRUBBER
+
+Science Bowl CHEMISTRY 
+Chemisty - 102 
+CHEM-92; Multiple Choice: The lunar soil consists primarily of: 
+w) FeTiO2 
+x) A12O3 
+y) SiO2 
+z) H2O 
+ANSWER: W -- FeTiO2 
+CHEM-92; Multiple Choice: The metallic element with the highest melting point is: 
+w) Ta 
+x) W 
+y) Rh 
+z) Mo 
+ANSWER: X -- W 
+CHEM-92; Multiple Choice: The greatest reservoir of carbon dioxide is: 
+w) the atmosphere 
+x) plants 
+y) the soil 
+z) the oceans 
+ANSWER: Z -- THE OCEANS 
+CHEM-92; Multiple Choice: What are the major constituents of typical fly ash particles 
+generated from the combustion of coal? 
+w) acidic and basic oxides 
+x) trace elements 
+y) unburned carbon 
+z) sulfates and phosphates 
+ANSWER: W -- ACIDIC AND BASIC OXIDES 
+CHEM-92; Multiple Choice: Which of the following molecules has a permanent electric dipole 
+moment? 
+w) H2O 
+x) Cl2 
+y) CH4 
+z) N2 
+ANSWER: W -- H2O
+
+Science Bowl CHEMISTRY 
+Chemisty - 103 
+CHEM-92; Multiple Choice: Within a given period of the periodic table, the element with the 
+lowest ionization energy is: 
+w) transition metal 
+x) alkali metal 
+y) halogen 
+z) noble gas 
+ANSWER: X -- ALKALI METAL 
+CHEM-92; Short Answer: A sample of gas has a volume of 210 cubic centimeters at a 
+temperature of 250 degrees Kelvin. The temperature is raised to 500 degrees Kelvin while the 
+pressure remains unchanged. What is the new volume of the gas. 
+ANSWER: 420 CUBIC CENTIMETERS 
+CHEM-92; Multiple Choice: A substance that accepts an electron pair is classified as a: 
+w) bronsted-lowry acid 
+x) bronsted-lowry base 
+y) lewis acid 
+z) lewis base 
+ANSWER: Y -- LEWIS ACID 
+CHEM-92; Multiple Choice: In general, as you move down a family the ionization energy: 
+w) increases 
+x) decreases 
+y) remains the same 
+z) increases or decreases 
+ANSWER: X -- DECREASES 
+CHEM-92; Multiple Choice: In general, as you move across a period (left to right) 
+electronegativity: 
+w) increases 
+x) decreases 
+y) remains the same 
+z) increases or decreases 
+ANSWER: W -- INCREASES
+
+Science Bowl CHEMISTRY 
+Chemisty - 104 
+CHEM-92; Multiple Choice: Absorption into the nucleus of an electron from the K shell is called, 
+"electron capture". When this happens to 18Ar37 (read: A - R, 37, atomic number 18), the 
+product is: 
+w) 17Cl37 (read: C - L, 37, atomic number 17) 
+x) 17Cl38 (read: C - L, 38, atomic number 17) 
+y) 19K37 (read: K, 37, atomic number 19) 
+z) 19K38 (read: K, 38, atomic number 19) 
+ANSWER: W -- 17C137 
+CHEM-92; Short Answer: Name either of the elements which, in the form of oxides, contributes 
+to the formation of acid rain. 
+ANSWER: NITROGEN OR SULFUR 
+CHEM-92; Multiple Choice: An aldehyde can be oxidized to form: 
+w) a ketone 
+x) an acid 
+y) an alcohol 
+z) an ester 
+ANSWER: X -- AN ACID 
+CHEM-92; Short Answer: This drug, used for treatment of cardiac diseases, is obtained from the 
+purple foxglove. 
+ANSWER: DIGITALIS 
+CHEM-92; Short Answer: The first plastic was a mixture of cellulose nitrate and camphor 
+invented in the 1860's by John Hyatt. What was the trademark given to this material? 
+ANSWER: CELLULOID
+
+Science Bowl CHEMISTRY 
+Chemisty - 105 
+CHEM-92; Short Answer: This natural fiber obtained from the stems of a plant of the nettle 
+family has found popularity in modern fibers with a high wet strength, absorbent but dries quickly, 
+it can be spun or woven, has a high rot and mildew resistance and elasticity 50 percent greater 
+than that of CHEM-92; Multiple Choice: What transuranic element is often used in satellites as a 
+source of heat or power? 
+w) Plutonium-238 
+x) Strontium-90 
+y) Cesium-137 
+z) Uranium-235 
+ANSWER: W -- PLUTONIUM-238 
+CHEM-92; Short Answer: What gas is given off when an acid reacts with chalk? 
+ANSWER: CARBON DIOXIDE 
+CHEM-92; Short Answer: What is the chemical composition of quartz? 
+ANSWER: SiO2 or SILICON DIOXIDE 
+CHEM-92; Short Answer: What metal is often obtained from deposits of Hematite? 
+ANSWER: IRON 
+CHEM-92; Short Answer: What is the hybridization assumed for phosphorus in PCl5? 
+ANSWER: d sp3 
+CHEM-92; Short Answer: What are alkenes having two double bonds separated by one single 
+bond known as? 
+ANSWER: CONJUGATED DIENES 
+CHEM-92; Short Answer: The six carbon cyclic alkane is called what? 
+ANSWER: CYCLOHEXANE
+
+Science Bowl CHEMISTRY 
+Chemisty - 106 
+CHEM-92; Short Answer: Compounds of the same atomic content and molecular formula but 
+with differing structures are called what? 
+ANSWER: ISOMERS 
+CHEM-92; Short Answer: What is the oxidation number of Bismuth in the compound Bismuth 
+Phosphide? 
+ANSWER: PLUS 3 (or 3) 
+CHEM-93; Multiple Choice: Elements that exist in two or more distinctly different solid forms 
+are known as: 
+w) azeotropes 
+x) allotropes 
+y) isotopes 
+z) isochores 
+ANSWER: X -- ALLOTROPES 
+CHEM-93; Multiple Choice: Which of the following statements is not one of the three basic 
+assumptions of the kinetic theory? 
+w) Matter is composed of very tiny particles. 
+x) The particles of matter are in constant motion. 
+y) The particles of matter lose energy in collisions. 
+ANSWER: Y -- THE PARTICLES OF MATTER LOSE ENERGY IN COLLOSIONS 
+CHEM-93; Multiple Choice: Which of the 3rd period elements loses electrons most readily? 
+w) Sodium 
+x) Magnesium 
+y) Aluminum 
+z) Silicon 
+ANSWER: A-SODIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 107 
+CHEM-93; Multiple Choice: Of the nonmetallic elements the one least likely to be found in 
+organic compounds is: 
+w) nitrogen 
+x) phosphorus 
+y) chlorine 
+z) selenium 
+ANSWER: Z -- SELENIUM 
+CHEM-93; Multiple Choice: A waste product in the metabolism of glucose in cells is: 
+w) oxygen 
+x) methane 
+y) carbon dioxide 
+z) urea 
+ANSWER: C -- CARBON DIOXIDE 
+CHEM-93; Short Answer: At what Kelvin temperature does entropy have the minimum value? 
+ANSWER: ZERO 
+CHEM-93; Multiple Choice: Diamond has each of the following properties except: 
+w) extreme hardness 
+x) ability to conduct electricity 
+y) high melting point 
+z) tendency to burn in air 
+ANSWER: X -- ABILITY TO CONDUCT ELECTRICITY 
+CHEM-93; Short Answer: What is the collective term used to describe substances such as Orlon, 
+Nylon, polyethylene, and polyurethane foam? 
+ANSWER: POLYMER
+
+Science Bowl CHEMISTRY 
+Chemisty - 108 
+CHEM-93; Multiple Choice: Which of the following is not a polymer? 
+w) rayon 
+x) Teflon 
+y) rubber 
+z) penicillin 
+ANSWER: Z -- PENICILLIN 
+CHEM-93; Short Answer: What term defines the amount of heat needed to raise the temperature 
+of one gram of matter by one degree C. 
+ANSWER: SPECIFIC HEAT (OR HEAT CAPACITY) 
+CHEM-93; Short Answer: What thermodynamic function is a quantitative measure of disorder? 
+ANSWER: ENTROPY 
+CHEM-93; Short Answer: How many millimeters of mercury are equal to one atmosphere at sea 
+level? 
+ANSWER: 760 MILLIMETERS 
+CHEM-93; Multiple Choice: What is the process by which an atom gains electrons? 
+w) Reduction 
+x) Neutralization 
+y) Electrolysis 
+z) Oxidation 
+ANSWER: W -- REDUCTION 
+CHEM-93; Short Answer: Give the names of four alkali metals: 
+ANSWER: LITHIUM, SODIUM, POTASSIUM, RUBIDIUM, CESIUM, AND 
+FRANCIUM 
+CHEM-93; Short Answer: What is the term commonly used for mass per unit volume? 
+ANSWER: DENSITY
+
+Science Bowl CHEMISTRY 
+Chemisty - 109 
+CHEM-93; Multiple Choice: Which of the following is TRUE of a sample of gas at a constant 
+temperature when the pressure is doubled? 
+w)the volume doubles 
+x)the volume halves 
+y)the volume remains the same 
+ANSWER: X -- THE VOLUME HALVES 
+CHEM-93; Multiple Choice: Immiscible liquids: 
+w) are not mutually soluble 
+x) dissolve in each other 
+y) dissolve in more than one liquid 
+z) are unstable and chemically react 
+e) do not exist 
+ANSWER: W -- ARE NOT MUTUALLY SOLUBLE 
+CHEM-93; Multiple Choice: Which of the following would be least soluble in water? 
+w) Carbon Tetrachloride 
+x) Sodium Oxide 
+y) Magnesium Bromide 
+z) Potassium Phosphate 
+ANSWER: W -- CARBON TETRACHLORIDE 
+CHEM-93; Multiple Choice: Which of the following is the term used for the resistance of a liquid 
+system to flow? 
+w) surface tension 
+x) diffusion 
+y) viscosity 
+ANSWER: Y -- VISCOSITY 
+CHEM-93; Short Answer: What is the standard unit of measure for viscosity? 
+ANSWER: POISE (ACCEPT PASCAL-SECONDS)
+
+Science Bowl CHEMISTRY 
+Chemisty - 110 
+CHEM-93; Multiple Choice: The critical temperature is the temperature: 
+w) above which a substance cannot be vaporized 
+x) at which the density is a minimum 
+y) at which solid, liquid, and vapor are in equilibrium 
+z) above which the substance cannot be liquified. 
+ANSWER: Z -- ABOVE WHICH THE SUBSTANCE CANNOT BE LIQUIFIED. 
+CHEM-93; Multiple Choice: Which of the following substances would be the best choice to 
+neutralize sulfuric acid? 
+w) sodium hydroxide 
+x) silicon dioxide 
+y) copper metal 
+z) phosphorus pentoxide 
+ANSWER: W -- SODIUM HYDROXIDE 
+CHEM-93; Multiple Choice: A compound which is an electron pair donor is generally classified 
+as a: 
+w) Lewis acid 
+x) Bronsted base 
+y) Bronsted acid 
+z) Lewis base 
+ANSWER: Z -- LEWIS BASE 
+CHEM-93; Multiple Choice: Buffer solutions show which one of the following traits: 
+w) absorb acid and base with only small changes in pH
+x) indefinite stability
+y) high elasticity 
+z) abnormal density 
+ANSWER: W -- ABSORB ACID AND BASE WITH ONLY SMALL CHANGES IN pH 
+CHEM-93; Short Answer: Who constructed the first cyclotron? 
+ANSWER: (ERNEST O.) LAWRENCE 
+CHEM-93; Short Answer: What is the maximum number of electrons that can occupy an s atomic 
+orbital? 
+ANSWER: 2
+
+Science Bowl CHEMISTRY 
+Chemisty - 111 
+CHEM-93; Short Answer: By what name is dinitrogen oxide commonly known? 
+ANSWER: LAUGHING GAS (ACCEPT NITROUS OR NITROUS OXIDE) 
+CHEM-93; Multiple Choice: Relative to the pure solvent, the boiling point of a solution is: 
+w) higher 
+x) lower 
+y) at the same temperature 
+ANSWER: W -- HIGHER 
+CHEM-93; Multiple Choice: Which of the following is the element which makes up about 8 
+percent of the earth's crust and occurs in all rocks except limestone and sandstone? 
+w) sulfur 
+x) aluminum 
+y) sodium 
+z) magnesium 
+ANSWER: X -- ALUMINUM 
+CHEM-93; Multiple Choice: Which one of the following metals is immune to corrosion by air, 
+water, hydrochloric acid and nitric acid; but is soluble in aqua regia? 
+w) gold 
+x) silver 
+y) magnesium 
+z) nickel 
+ANSWER: W -- GOLD 
+CHEM-93; Multiple Choice: Which one of the following metals is essential to the structure and 
+functioning of hemoglobin? 
+w) copper 
+x) magnesium 
+y) tin 
+z) iron 
+ANSWER: Z -- IRON
+
+Science Bowl CHEMISTRY 
+Chemisty - 112 
+CHEM-93; Multiple Choice: Which of the following would you measure using a calorimeter? 
+w) specific heat 
+x) weight 
+y) specific gravity 
+z) density 
+ANSWER: W -- SPECIFIC HEAT 
+CHEM-93; Short Answer: Who first postulated the statement "equal volumes of gases, at the 
+same temperature and pressure, contain equal numbers of molecules." 
+ANSWER: (AMADEO) AVOGADRO 
+CHEM-93; Multiple Choice: The energy required to melt one mole of a solid at its melting point 
+is called one of the following. 
+w) the molar heat of fusion 
+x) the molar hear of vaporization 
+y) the molar heat of capacity 
+z) the melting point 
+ANSWER: W -- THE MOLAR HEAT OF FUSION 
+CHEM-93; Multiple Choice: Gamma rays are similar to X rays in which of the following ways? 
+w) they have neither rest mass nor charge 
+x) they can be bent in an electric field 
+y) they originate within the nucleus 
+z) they are of low energy 
+ANSWER: W -- HAVE NEITHER REST MASS NOR CHARGE 
+CHEM-93; Short Answer: How many isotopes of hydrogen are known? 
+ANSWER: 3 
+CHEM-93; Short Answer: At what Celsius temperature should all molecular motion cease? 
+ANSWER: -273.16 DEGREES CELSIUS (ACCEPT -273)
+
+Science Bowl CHEMISTRY 
+Chemisty - 113 
+CHEM-93; Multiple Choice: Which element is associated with the term "galvanized"? 
+w) gallium 
+x) zinc 
+y) mercury 
+z) nickel 
+ANSWER: X -- ZINC 
+CHEM-93; Multiple Choice: Which of the properties listed below would you expect a solution to 
+have if it is an acid? 
+w) It feels slippery to the touch. 
+x) It tastes bitter. 
+y) It turns red litmus blue. 
+z) It is a conductor of electricity. 
+ANSWER: Z -- IT IS A CONDUCTOR OF ELECTRICITY. 
+CHEM-93; Multiple Choice: Which of the following compounds has the highest energy content? 
+w) protein 
+x) fats 
+y) carbohydrate 
+ANSWER: X -- FATS 
+CHEM-93; Multiple Choice: The orbital angular momemtum quantum number indicates which 
+one of the following? 
+w) the average distance of the electrons from the nucleus 
+x) the direction of spin of the electron 
+y) the shape of the orbital 
+z) the position about the three axes in space of the orbital 
+ANSWER: Y -- THE SHAPE OF THE ORBITAL
+
+Science Bowl CHEMISTRY 
+Chemisty - 114 
+CHEM-93; Multiple Choice: The characteristic bonds in nonmetal oxides are which of the 
+following types? 
+w) network 
+x) covalent 
+y) ionic 
+z) coordinate covalent 
+ANSWER: X -- COVALENT 
+CHEM-93; Multiple Choice: Lead-206 is the final product of the radioactive decay series named 
+the: 
+w) thorium series 
+x) actinium series 
+y) uranium series 
+z) neptunium series 
+ANSWER: Y -- URANIUM SERIES 
+CHEM-93; Multiple Choice: As water solidifies it does one of the following: 
+w) gives off heat and contracts 
+x) gives off heat and expands 
+y) takes in heat and contracts 
+z) takes in heat and expands 
+ANSWER: X -- GIVES OFF HEAT AND EXPANDS 
+CHEM-93; Multiple Choice: Carbon atoms link together with other carbon atoms in all of the 
+following ways EXCEPT 
+w) networks 
+x) chains 
+y) ionic bonds 
+z) rings 
+ANSWER: Y -- IONIC BONDS
+
+Science Bowl CHEMISTRY 
+Chemisty - 115 
+CHEM-93; Multiple Choice: Carbon monoxide is a poisonous gas for one of the following 
+reasons. 
+w) it is a powerful acid anhydride 
+x) it combines with the hemoglobin of the blood 
+y) it depletes the dissolved oxygen in the blood by forming carbon dioxide 
+z) it is a strong oxidizing agent 
+ANSWER: X -- IT COMBINES WITH THE HEMOGLOBIN OF THE BLOOD 
+- 
+CHEM-93; Multiple Choice: To increase the solubility of a gas in a liquid as much as possible, 
+we would use: 
+w) low temperature and high pressure. 
+x) high temperature and high pressure. 
+y) high temperature and low pressure. 
+z) low temperature and low pressure. 
+ANSWER: W -- LOW TEMPERATURE AND HIGH PRESSURE. 
+CHEM-93; Multiple Choice: The silver luster of the metals can be attributed to one of the 
+following. It is attributed to their free 
+w) protons 
+x) ions 
+y) neutrons 
+z) electrons 
+ANSWER: Z -- ELECTRONS 
+CHEM-93; Multiple Choice: Radon differs from other naturally radioactive elements in which 
+one of the following ways. Is it because radon 
+w) is extremely radioactive 
+x) decays into the element radium 
+y) is a noble gas 
+z) is as chemically active as fluorine 
+ANSWER: Y -- IS A NOBLE GAS
+
+Science Bowl CHEMISTRY 
+Chemisty - 116 
+CHEM-93; Multiple Choice: If the volume of a gas changes by a factor of 3, with pressure 
+remaining constant, the temperature in Kelvin will change by a factor of: 
+w) 1/9 
+x) 1/3 
+y) 3 
+z) 9 
+ANSWER: Y -- 3 
+CHEM-93; Multiple Choice: Which of the following substances is classified as amorphous? 
+w) glass 
+x) Zinc 
+y) diamond 
+z) sodium chloride 
+ANSWER: W -- GLASS 
+CHEM-93; Short Answer: What occurs when the vapor pressure of a liquid equals atmospheric 
+pressure? 
+ANSWER: IT BEGINS TO BOIL 
+CHEM-93; Multiple Choice: Nature tends to move toward states of: 
+w) high energy and disorder 
+x) high energy and order 
+y) low energy and disorder 
+z) low energy and order 
+ANSWER: Y -- LOW ENERGY AND DISORDER 
+CHEM-93; Multiple Choice: The bubbling off of carbon dioxide when a bottle of carbonated 
+beverage is opened is a good example of: 
+w) deliquescence 
+x) effervescence 
+y) condensation 
+z) sublimation 
+ANSWER: X -- EFFERVESCENCE
+
+Science Bowl CHEMISTRY 
+Chemisty - 117 
+CHEM-93; Multiple Choice: The process of a solid converting directly into a gas is called: 
+w) fusion 
+x) sublimation 
+y) condensation 
+z) distillation 
+ANSWER: X -- SUBLIMATION 
+CHEM-93; Multiple Choice: Which is the HEAVIEST of the following molecules: 
+w) butane 
+x) ethane 
+y) methane 
+z) propane 
+ANSWER: W -- BUTANE 
+CHEM-93; Short Answer: In electrolysis, what process always occurs at the anode? 
+ANSWER: OXIDATION 
+CHEM-93; Short Answer: What is the common name for 2,4,6, Trinitrotoluene (read: 
+tri-nitro-toluene)? 
+ANSWER: TNT 
+CHEM-93; Multiple Choice: Which oxide of the following metals is often used as a pigment in 
+white paint? 
+w) titanium 
+x) cobalt 
+y) nickel 
+z) vanadium 
+ANSWER: W -- TITANIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 118 
+CHEM-93; Multiple Choice: Which of the following terms means that a crystal has the ability to 
+capture and hold water molecules? 
+w) hydroponic 
+x) hygroscopic 
+y) hydrophobic 
+z) hydropholectic 
+ANSWER: X -- HYGROSCOPIC 
+CHEM-93; Multiple Choice: Which of the following terms has as its definition: a mixture having 
+continuous and dispersed phases? 
+w) colloid 
+x) solute 
+y) suspension 
+z) solvent 
+ANSWER: W -- COLLOID 
+CHEM-93; Multiple Choice: Which of the following properties is greater for a solution than for 
+the pure solvent? 
+w) freezing point 
+x) vapor pressure 
+y) temperature 
+z) boiling point 
+ANSWER: D -- BOILING POINT 
+CHEM-93; Short Answer: The main constituent of antifreeze is what organic compound? 
+ANSWER: ETHYLENE GLYCOL 
+CHEM-93; Multiple Choice: Which of the following terms denotes the polar molecules or 
+negative ions clustered about a central positive ion? 
+w) ligands 
+x) isomers 
+y) complex ions 
+z) dipoles 
+ANSWER: W -- LIGAND
+
+Science Bowl CHEMISTRY 
+Chemisty - 119 
+CHEM-93; Short Answer: What is the most common solvent? 
+ANSWER: WATER 
+CHEM-93; Multiple Choice: If the pressure of a gas is increased by a factor of 4, and the 
+temperature is kept constant, the volume of the gas will change by which of the following factors? 
+w) 4 
+x) 2 
+y) 1/2 
+z) 1/4 
+ANSWER: Z -- 1/4 
+CHEM-93; Short Answer: What form of carbon is useful as a lubricant? 
+ANSWER: GRAPHITE 
+CHEM-93; Multiple Choice: The atomic number of a nucleus will increase by 1 if which of the 
+following is emitted by the nucleus? 
+w) an alpha particle 
+x) a positron 
+y) a beta particle 
+z) a gamma ray 
+ANSWER: Y -- BETA PARTICLE 
+CHEM-93; Short Answer: What is the chemical name for wood alcohol? 
+ANSWER: METHANOL or METHYL ALCOHOL 
+CHEM-93; Short Answer: What is the main constituent of nail polish remover? 
+ANSWER: ACETONE
+
+Science Bowl CHEMISTRY 
+Chemisty - 120 
+CHEM-93; Multiple Choice: As one moves down a group of the periodic table, the tendency to 
+lose electrons does which of the following? 
+w) increase 
+x) decrease 
+y) stay the same 
+ANSWER: W -- INCREASE 
+CHEM-93; Short Answer: The Earth's stratosphere contains ozone. Give the chemical formula 
+for ozone? 
+ANSWER: O3 (pron: Oh - three) 
+CHEM-93; Multiple Choice: An organic liquid will generally have a specific gravity? 
+w) equal to that of water 
+x) less than that of water 
+y) greater than that of water 
+ANSWER: X -- LESS THAN THAT OF WATER 
+CHEM-93; Short Answer: Acetylene is commonly used in a gas welding torch. Give the 
+molecular formula for acetylene. 
+ANSWER: C2H2 or HC2H or H2C2 
+CHEM-93; Short Answer: What is the name of the least massive carboxylic (read: 
+car-box-ILL-iy) acid. 
+ANSWER: FORMIC ACID 
+CHEM-93; Multiple Choice: Peroxides such as hydrogen peroxide and benzoyl peroxide are 
+commonly used in small quantities in over-the-counter preparations such as antiseptics and acne 
+creams. What hazard do peroxides present in higher concentrations? 
+w) explosive 
+x) strongly acidic 
+y) strongly basic 
+z) there is no hazard 
+ANSWER: W -- EXPLOSIVE
+
+Science Bowl CHEMISTRY 
+Chemisty - 121 
+CHEM-93; Short Answer: Give me the name of two elements that are liquid at room temperature. 
+ANSWER: BROMINE AND MERCURY 
+CHEM-93; Multiple Choice: Sodium chloride is an example of what kind of compound? 
+w) ionic 
+x) covalent 
+y) polyatomic 
+z) monatomic 
+ANSWER: W -- IONIC 
+CHEM-93; Multiple Choice: A COPPER strip is placed in one compartment of a voltaic cell and 
+a wire connects this strip to a piece of metal in the other compartment through a voltmeter. If the 
+voltmeter reads zero, the other piece of metal is: 
+w) zinc 
+x) mercury 
+y) silver 
+z) copper 
+ANSWER: Z -- COPPER 
+CHEM-93; Multiple Choice: Isobaric processes take place at constant: 
+w) temperature 
+x) volume 
+y) pressure 
+z) energy 
+ANSWER: Y -- PRESSURE 
+CHEM-93; Multiple Choice: Which of the following nitrogen-containing compounds is most 
+readily used by plants? 
+w) nitrogen dioxide 
+x) ammonia 
+y) nitrous oxide 
+z) nitrate 
+ANSWER: Z -- NITRATE
+
+Science Bowl CHEMISTRY 
+Chemisty - 122 
+CHEM-93; Multiple Choice: Which of the following organic compounds is known as a saturated 
+chain hydrocarbon ? 
+w) an aromatic compound 
+x) an alkene 
+y) an alkyne 
+z) an alkane 
+ANSWER: Z -- AN ALKANE 
+CHEM-93; Multiple Choice: In terms of quality, what is the highest ranked coal? 
+w) peat 
+x) bituminous 
+y) anthracite 
+z) lignite 
+ANSWER: Y -- ANTHRACITE 
+CHEM-93; Multiple Choice: The force responsible for drops of liquid assuming a spherical shape 
+is known as: 
+w) strong nuclear force 
+x) Van der Waals attraction 
+y) surface tension 
+z) osmotic pressure 
+ANSWER: Y -- SURFACE TENSION 
+CHEM-93; Multiple Choice: If a piece of metal at -20 degrees Celsius is added to an ice and 
+water mixture in equilibrium at 0 degrees Celsius, the amount of ice will: 
+w) Increase 
+x) Remain the same 
+y) Decrease 
+ANSWER: W -- INCREASE
+
+Science Bowl CHEMISTRY 
+Chemisty - 123 
+CHEM-93; Multiple Choice: Which of the following materials is the chief source of natural 
+organic compounds? 
+w) petroleum 
+x) coal 
+y) natural gas 
+z) carbon dioxide 
+ANSWER: W -- PETROLEUM 
+CHEM-93; Short Answer: What two products are formed when a hydrocarbon is oxidized to 
+completion? 
+ANSWER: CO2 AND H2O (CARBON DIOXIDE AND WATER) 
+CHEM-93; Multiple Choice: Which of the following elements does not normally occur as a 
+diatomic molecule? 
+w) hydrogen 
+x) chlorine 
+y) argon 
+z) oxygen 
+ANSWER: Y -- ARGON 
+CHEM-93; Multiple Choice: Which of the following metals can be obtained from its ore only by 
+electrolysis of a molten salt ? 
+w) cobalt 
+x) chromium 
+y) copper 
+z) sodium 
+ANSWER: Z -- SODIUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 124 
+CHEM-93; Multiple Choice: Which of the following elements does not occur in nature as a native 
+ore? 
+w) silver 
+x) gold 
+y) platinum 
+z) aluminum 
+ANSWER: Z -- ALUMINUM 
+CHEM-93; Short Answer: If a potassium iodide solution is electrolyzed, at what electrode would 
+the potassium appear? 
+ANSWER: CATHODE 
+CHEM-93; Short Answer: When combining acid and water, which should go in first? 
+ANSWER: THE WATER 
+CHEM-93; Short Answer: What is the name given to compounds having the same chemical 
+composition but different structural arrangement? 
+ANSWER: ISOMERS 
+CHEM-93; Multiple Choice: Which of the following gases cannot be collected by water 
+displacement? 
+w) Nitrogen 
+x) Oxygen 
+y) Hydrogen 
+z) Hydrogen Chloride 
+ANSWER: Z -- HYDROGEN CHLORIDE 
+CHEM-93; Multiple Choice: Which of the following metals is least subject to oxidation? 
+w) silver 
+x) gold 
+y) magnesium 
+z) nickel 
+ANSWER: X -- GOLD
+
+Science Bowl CHEMISTRY 
+Chemisty - 125 
+CHEM-93; Short Answer: What is the common name of the homogeneous mixture which is a 
+70% isopropanol solution and sometimes used to reduce body temperature by spreading over the 
+body? 
+ANSWER: RUBBING ALCOHOL 
+CHEM-93; Multiple Choice: Endothermic refers to a process that 
+w) does work 
+x) gives off heat 
+y) loses mass 
+z) absorbs heat 
+ANSWER: Z -- ABSORBS HEAT 
+CHEM-93; Multiple Choice: Which of the following is an aromatic hydrocarbon? 
+w) methane 
+x) ethanol 
+y) benzene 
+z) glycine 
+ANSWER: Y -- BENZENE - 
+CHEM-93; Multiple Choice: In the United States, Grain alcohol is made: 
+w) from coal 
+x) by fermenting starches 
+y) from methanol 
+z) from vinegar 
+e) by fermenting acetic acid 
+ANSWER: X -- BY FERMENTING STARCHES 
+CHEM-93; Multiple Choice: When a solute is dissolved in a pure solvent, the resulting freezing 
+point is: 
+w) higher than pure solvent 
+x) lower than pure solvent 
+y) does not change 
+z) cannot tell from this information 
+ANSWER: X -- LOWER THAN PURE SOLVENT
+
+Science Bowl CHEMISTRY 
+Chemisty - 126 
+CHEM-93; Multiple Choice: High grade coal is mainly which of the following? 
+w) methane 
+x) propane 
+y) a mixture of hydrocarbons 
+z) anthracene 
+ANSWER: Y -- A MIXTURE OF HYDROCARBONS 
+CHEM-93; Multiple Choice: Which of the following properties is lower for a solution than for 
+the pure solvent? 
+w) osmotic pressure 
+x) vapor pressure 
+y) temperature 
+z) boiling point 
+ANSWER: X -- VAPOR PRESSURE 
+CHEM-93; Short Answer: Name three elements that make up sucrose. 
+ANSWER: CARBON, HYDROGEN, OXYGEN 
+CHEM-93; Multiple Choice: Which of the following is the same for both radioactive iodine and 
+stable iodine? 
+w) number of neutrons 
+x) mass number 
+y) half-life 
+z) chemical properties 
+ANSWER: Z -- CHEMICAL PROPERTIES 
+CHEM-93; Short Answer: Bauxite is a mineral that primarily contains which metal? 
+ANSWER: ALUMINUM
+
+Science Bowl CHEMISTRY 
+Chemisty - 127 
+CHEM-93; Multiple Choice: Which of the following is a strong electrolyte in aqueous solution. 
+w) ammonia 
+x) coffee 
+y) Gatorade 
+z) corn syrup 
+ANSWER: Y -- GATORADE 
+CHEM-93; Short Answer: Give the name of the acid found in stomach fluid. 
+ANSWER: HCl (HYDROCHLORIC ACIZ) 
+CHEM-93; Multiple Choice: Nutrasweet, the artificial sweetener, contains molecules in which of 
+the following groups? 
+w) carbohydrates 
+x) lipids 
+y) amino acids 
+z) nucleic acids 
+ANSWER: C--AMINO ACIDS 
+CHEM-93; Short Answer: Who is given credit for first arranging the elements in the Periodic 
+Table? 
+ANSWER: MENDELEEV 
+CHEM-93; Multiple Choice: Most of the transuranic elements were first created: 
+w) in Germany 
+x) at Argonne National Laboratory 
+y) in California 
+z) in Russia 
+ANSWER: Y -- IN CALIFORNIA 
+CHEM-93; Multiple Choice: The nuclei of heavy atoms generally contain: 
+w) more electrons than neutrons 
+x) more protons than electrons 
+y) more neutrons than electrons 
+z) more orbitals than electrons 
+ANSWER: Y -- MORE NEUTRONS THAN ELECTRONS
+
+Science Bowl CHEMISTRY 
+Chemisty - 128 
+CHEM-93; Multiple Choice: Which one of the following is largest? 
+w) the number of molecules in 2 grams of hydrogen gas 
+x) the number of molecules in 60 grams of lead sulfate 
+y) the number of molecules in 20 liters of oxygen gas at standard temperature and pressure 
+z) the population of the United States 
+ANSWER: A - THE NUMBER OF MOLECULES IN 2 GRAMS OF HYDROGEN GAS 
+CHEM-93; Multiple Choice: One mole of electrons is known as: 
+w) a Faraday 
+x) a Henry 
+y) a Coulomb 
+z) an Ampere 
+ANSWER: W -- A FARADAY 
+CHEM-93; Multiple Choice: A standardized base solution should be protected from which of the 
+following gases? 
+w) hydrogen 
+x) carbon dioxide 
+y) nitrogen 
+z) argon 
+ANSWER: X -- CARBON DIOXIDE 
+CHEM-93; Multiple Choice: For a substance, density, solubility and melting point are examples 
+of: 
+w) physical properties 
+x) amorphous properties 
+y) chemical properties 
+z) potential properties 
+ANSWER: W -- PHYSICAL PROPERTIES 
+CHEM-93; Short Answer: -40 degrees Fahrenheit is equivalent to what Celcius temperature? 
+ANSWER: -40 DEGREES CELCIUS
+
+Science Bowl CHEMISTRY 
+Chemisty - 129 
+CHEM-93; Multiple Choice: Which of the following acids is in vinegar? 
+w) benzoic 
+x) formic 
+y) malanoic 
+z) acetic 
+ANSWER: Z -- ACETIC 
+CHEM-93; Multiple Choice: Which of the following would you expect to have the highest 
+boiling point? 
+w) methane 
+x) carbon tetrachloride 
+y) chloroform 
+z) chloromethane 
+ANSWER: X -- CARBON TETRACHLORIDE 
+CHEM-93; Multiple Choice: An aqueous solution is always a solution in which the: 
+w) solute is water 
+x) solute is a salt 
+y) solvent is a salt 
+z) solvent is water 
+ANSWER: Z -- SOLVENT IS WATER 
+CHEM-93; Multiple Choice: The rate of a chemical reaction can be affected by: 
+w) temperature 
+x) concentration of products 
+y) concentration of reactants 
+z) all of the above 
+ANSWER: Z -- ALL OF THE ABOVE 
+CHEM-93; Short Answer: If 16 grams of oxygen are produced by the electrolysis of water, how 
+many grams of hydrogen are produced at the same time? 
+ANSWER: 2 GRAMS
+
+Science Bowl CHEMISTRY 
+Chemisty - 130 
+CHEM-93; Multiple Choice: When you push down on the piston of a bicycle pump, the air is 
+compressed into a smaller volume, which causes its temperature to: 
+w) decrease 
+x) increase 
+y) stay the same 
+ANSWER: X -- INCREASE 
+CHEM-93; Short Answer: What is the name for a substance that alters the rate of chemical 
+reactions, without being permanently altered itself? 
+ANSWER: CATALYST 
+CHEM-93; Multiple Choice: The word atom is from a Greek word meaning: 
+w) small 
+x) indivisible 
+y) unseen 
+z) visible 
+ANSWER: X -- INDIVISIBLE 
+CHEM-93; Multiple Choice: Standard temperature is defined to be: 
+w) O DEGREES C 
+x) O DEGREES K 
+y) 25 DEGREES C 
+z) 32 DEGREES C 
+ANSWER: W -- O DEGREES C 
+CHEM-93; Multiple Choice: The man credited with the law relating the temperature and volume 
+of a gas is: 
+w) Thomson 
+x) Boyle 
+y) Charles 
+z) Dalton 
+ANSWER: Y -- CHARLES
+
+Science Bowl CHEMISTRY 
+Chemisty - 131 
+CHEM-93; Multiple Choice: Ionic substances dissolve in water to form: 
+w) highly acid solutions 
+x) electrolytic solutions 
+y) colloids 
+z) emulsions 
+ANSWER: X -- ELECTROLYTIC SOLUTIONS 
+CHEM-93; Multiple Choice: Mineral acids are also classified as: 
+w) carboxyl acids 
+x) inorganic acids 
+y) non-electrolytic acids 
+z) oxidation acids 
+ANSWER: X -- INORGANIC ACIDS 
+CHEM-93; Multiple Choice: How many calories are required to raise the temperature of 20 
+grams of water from 40 degrees to 60 degrees? 
+w) 40 cal 
+x) 400 cal 
+y) 20 cal 
+z) 200 cal 
+ANSWER: X -- 400 cal 
+CHEM-93; Multiple Choice: Which of the following energy technologies is not utilized for 
+power generation today? 
+w) Nuclear Fission 
+x) Solar Ponds 
+y) Geothermal Power 
+z) Nuclear Fusion 
+ANSWER: Z -- NUCLEAR FUSION
+
+Science Bowl CHEMISTRY 
+Chemisty - 132 
+CHEM-93; Multiple Choice: If your room has a natural tendency to become messy and 
+disordered, it is an excellent example of: 
+w) enthalpy 
+x) entropy 
+y) the Bernoulli effect 
+z) the Haase effect 
+ANSWER: X -- ENTROPY 
+CHEM-93; Multiple Choice: Which compound is responsible for the rotten egg smell? 
+w) sulfuric acid 
+x) putrescine 
+y) hydrogen sulfide 
+z) sulfur dioxide 
+ANSWER: Y -- HYDROGEN SULFIDE (NOTE: putrescine is a real compounz) 
+CHEM-93; Short Answer: Many elements are Greek or Latin names for a particular color, 
+examples are Chlorine from chloros (greenish-yellow) and Cesium from caesius (sky blue). What 
+is the element that was named from the Greek word meaning color? 
+ANSWER: CHROMIUM 
+CHEM-93; Short Answer: Which compound is briefly exposed to light when taking a 
+photograph? 
+ANSWER: SILVER CHLORIDE 
+CHEM-93; Short Answer: In 1789, Martin Heinrick Klaproth named this element for a 
+newly-discovered planet. Identify this element. 
+ANSWER: URANIUM 
+CHEM-93; Multiple Choice: If a material has the capacity to behave either as an acid or a base it 
+is said to be: 
+w) amorphous 
+x) amphoteric 
+y) anhydrous 
+z) aklaline 
+ANSWER: X -- AMPHOTERIC
+
+Science Bowl CHEMISTRY 
+Chemisty - 133 
+CHEM-93; Multiple Choice: All gases form what type of mixture? 
+w) dispersion 
+x) colloidal 
+y) homogeneous 
+z) heterogeneous 
+ANSWER: Y -- HOMOGENEOUS 
+CHEM-93; Short Answer: What is the main product of the HALL process? 
+ANSWER: ALUMINUM METAL (accept ALUMINUM) 
+CHEM-93; Multiple Choice: Which of the following elements is not an alkaline earth metal? 
+w) beryllium 
+x) barium 
+y) calcium 
+z) rubidium 
+ANSWER: Z -- RUBIDIUM 
+CHEM-93; Short Answer: Which element is named after the Greek word for "sun"? 
+ANSWER: HELIUM 
+CHEM-93; Short Answer: How many carbon atoms are found in the benzene ring? 
+ANSWER: 6 
+CHEM-93; Short Answer: What is the name given to a substance with one or more unpaired 
+electrons? 
+ANSWER: FREE RADICAL 
+CHEM-93; Short Answer: A triple bond consists of how many pi bonds and how many sigma 
+bonds? 
+ANSWER: ONE SIGMA BOND AND TWO PI BONDS
+
+Science Bowl CHEMISTRY 
+Chemisty - 134 
+CHEM-93; Multiple Choice: Carbon dioxide has each of the following uses except: 
+w) refrigerant 
+x) manufacture of baking soda 
+y) fire extinguisher 
+z) valuable reducing agent 
+ANSWER: Z -- VALUABLE REDUCING AGENT 
+CHEM-93; Short Answer: Name the term that defines the temperature above which the liquid 
+phase cannot exist: 
+ANSWER: CRITICAL TEMPERATURE 
+CHEM-93; Multiple Choice: In 1953, Sir Edmund Hillary and Tenzing Norgay were the first 
+people to reach the summit of Mount Everest from their last previously established camp at an 
+altitude of 27,900 feet (barometric pressure about 220 mm). At that camp, water would have: 
+w) boiled at 100 degrees Celsius 
+x) boiled at 68 degrees Celsius 
+y) not boiled at any temperature 
+z) sublimed 
+ANSWER: X -- BOILED AT 68 DEGREES CELSIUS 
+CHEM-93; Short Answer: What is the term given to a solid that has the ability of a solid to be 
+hammered into a thin sheet. 
+ANSWER: MALLEABILITY 
+CHEM-93; Short Answer: What is the common name of the substance which is inert to nearly all 
+chemicals and is a polymer of tetrafluoroethylene? 
+ANSWER: TEFLON 
+CHEM-93; Multiple Choice: Consider the following gaseous equilibrium: PCl3 + Cl2 = PCl5 + 
+heat. Which of the following changes will shift it to the right: 
+w) lower the temperature 
+x) remove some Cl2 
+y) increase the volume 
+z) add a catalyst 
+ANSWER: W -- LOWER THE TEMPERATURE
+
+Science Bowl CHEMISTRY 
+Chemisty - 135 
+CHEM-93; Multiple Choice: Whose name is given to alkylmagnesium halides: 
+w) Victor Grignard 
+x) Daniel Rutherford 
+y) Dmitri Mendeleev 
+ANSWER: W -- VICTOR GRIGNARD 
+CHEM-93; Multiple Choice: During osmosis 
+w) Pure solvent diffuses through a membrane but solutes do not. 
+x) Pure solutes diffuse through a membrane but solvent does not. 
+y) Pure solvent and a solution both diffuse at the same time through a membrane. 
+z) Gases diffuse through a membrane into a solution and build up pressure. 
+ANSWER: W -- PURE SOLVENT DIFFUSES THROUGH A MEMBRANE BUT 
+SOLUTES DO NOT. 
+CHEM-93; Multiple Choice: What is the purpose of the salt bridge in an electrochemical cell? 
+w) It allows ion migration. 
+x) It allows electron flow. 
+y) It prevents ion migration. 
+z) It prevents electron flow. 
+ANSWER: W -- IT ALLOWS ION MIGRATION 
+CHEM-93; Multiple Choice: Calcium carbonate is most soluble in: 
+w) 0.2 Molar Sodium carbonate 
+x) 0.1 Molar Calcium chloride 
+y) 0.1 Molar Sodium hydroxide 
+z) 0.1 Molar Hydrochloric acid 
+ANSWER: Z -- 0.1 MOLAR HYDROCHLORIC ACID
+
+Science Bowl CHEMISTRY 
+Chemisty - 136 
+CHEM-93; Multiple Choice: Based on the intermolecular forces involved, which of the following 
+molecules will have the lowest boiling point? 
+w) ethane 
+x) methyl alcohol 
+y) methyl amine 
+z) methyl fluoride 
+ANSWER: W -- ethane 
+CHEM-93; Multiple choice: The compound which would have the greatest molar effect on the 
+colligative properties of a dilute solution would be: 
+w) CaCl2 
+x) NaCl 
+y) C6H12O6 
+z) Benzene 
+ANSWER: W -- CaCl2 
+CHEM-93; Multiple Choice: Which of the following gases is more soluble in water as the water 
+temperature increases? 
+w) Helium 
+x) Air 
+y) Carbon dioxide 
+z) Hydrogen 
+ANSWER: W -- HELIUM 
+CHEM-93; Multiple Choice: How many carbon atoms are there in one naphthalene molecule? 
+w) 6 
+x) 8 
+y) 10 
+z) 15 
+ANSWER: Y -- 10
+
+Science Bowl CHEMISTRY 
+Chemisty - 137 
+CHEM-93; Multiple Choice: Mayonnaise is: 
+w) an emulsion 
+x) a hydrogenated oil 
+y) a covalent solution 
+z) a coalescent solution 
+ANSWER: W -- AN EMULSION 
+CHEM-93; Multiple Choice: The difference in the osmotic pressures of one molar solutions of 
+different compounds in a given solvent at a given temperature results from? 
+w) Different values for R 
+x) Different values for Avogadro's number 
+y) Ionization or dissociation 
+z) None of the above 
+ANSWER: Y -- IONIZATION OR DISSOCIATION 
+CHEM-93; Multiple Choice: Which of the following substances is a molecular solid? 
+w) Glass 
+x) Ice 
+y) Silver 
+z) Table Salt 
+ANSWER: X -- ICE
+
